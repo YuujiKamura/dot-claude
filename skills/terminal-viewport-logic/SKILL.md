@@ -1,6 +1,7 @@
 ---
 name: terminal-viewport-logic
 description: "Documentation. (Sticky Scroll-to-Bottom Heuristics) Use when user mentions: README, docs, documentation, tutorial, guide, comment."
+project: ghostty-win
 ---
 
 # Documentation

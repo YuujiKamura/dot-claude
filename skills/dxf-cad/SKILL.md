@@ -1,6 +1,7 @@
 ---
 name: dxf-cad
 description: "DXF/CAD。(DXFファイル構造の完全化とCAD互換性修正、ezdxfライブラリによる自動監査(audit)ワークフロー、描画中間表現(Drawing IR)による表示・出力の同期、肥大化したレイアウト計算ロジックのモジュール分割、ドメインモデル準拠のCSV→DXF変換CLI構築) DXF、CAD、横断図、図面と言われた時に使用。"
+project: photo-ai
 ---
 
 # DXF/CAD

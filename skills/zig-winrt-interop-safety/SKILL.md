@@ -1,6 +1,7 @@
 ---
 name: zig-winrt-interop-safety
 description: "Testing & QA. (Strict Alignment Casting for WinRT Callbacks) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+project: ghostty-win
 ---
 
 # Testing & QA

@@ -1,6 +1,7 @@
 ---
 name: ghostty-winui3-apprt
 description: "Ghostty WinUI3アプリランタイム開発の知見集。(1) IME入力の強制活性化、(2) マルチタブIPC設計、(3) クラッシュ調査手順、(4) WT準拠の初期化契約、(5) キャプションボタン・スクロール。ghostty、WinUI3、winui3、Zig、COM、vtable、IME、タブ、IPC、クラッシュと言われた時に使用。"
+project: ghostty-win
 ---
 
 # Ghostty WinUI3 App Runtime 開発知見

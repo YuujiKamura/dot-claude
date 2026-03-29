@@ -1,6 +1,7 @@
 ---
 name: cross-terminal-ipc-design
 description: "CLI & Tooling. (Bridging Background IPC to UI Threads in Windows Terminal) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+project: ghostty-win
 ---
 
 # CLI & Tooling

@@ -1,6 +1,7 @@
 ---
 name: xaml-islands-ime-handling
 description: "Miscellaneous. (TSF-based IME Redirection) Use when user mentions: ."
+project: ghostty-win
 ---
 
 # Miscellaneous

@@ -1,6 +1,7 @@
 ---
 name: xaml-message-loop-interception
 description: "Miscellaneous. (Proactive Message Interception in PreviewKeyDown) Use when user mentions: ."
+project: ghostty-win
 ---
 
 # Miscellaneous

@@ -1,6 +1,7 @@
 ---
 name: winmd-metadata-validation
 description: "WinUI3, WinRT, Zig, COM. (Automated Metadata Truth-Checking) Use when user mentions: WinUI3, WinRT, Zig, COM, vtable, ghostty, XAML."
+project: ghostty-win
 ---
 
 # CLI & Tooling

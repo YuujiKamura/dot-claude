@@ -1,6 +1,7 @@
 ---
 name: rust-dev
 description: "Rust開発。(再帰的AIコード検証 (Self-Verification Loop)、マルチエージェント並列タスク分割 (Team-based Execution)、CLIインターフェース先行調査と統合 (CLI Discovery & Integration)、PythonプロトタイプからのRust移植 (Script-to-Crate Migration)、ビルド・チェック主導の反復修正 (Build-Driven Refinement)) Rust、クレート、cargo、ビルド、WASM、deriveと言われた時に使用。"
+project: photo-ai
 ---
 
 # Rust開発

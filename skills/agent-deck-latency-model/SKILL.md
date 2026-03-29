@@ -1,6 +1,7 @@
 ---
 name: agent-deck-latency-model
 description: "Agent Orchestration. (Watcher Polling Model, IPC Latency, Status Detection Timing) Use when user mentions: agent-deck, latency, performance, slow, polling, watch interval."
+project: agent-deck
 ---
 
 # agent-deck Latency Model

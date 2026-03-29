@@ -1,6 +1,7 @@
 ---
 name: cli-patch-payload-safety
 description: "CLI & Tooling. (Escaped Payload Handling in Patches) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+project: ghostty-win
 ---
 
 # CLI & Tooling

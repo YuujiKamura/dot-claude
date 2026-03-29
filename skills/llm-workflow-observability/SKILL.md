@@ -1,6 +1,7 @@
 ---
 name: llm-workflow-observability
 description: "AI & Machine Learning. (Pipeline Bypass for Multi-Stage LLM Debugging) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+project: skill-miner
 ---
 
 # AI & Machine Learning

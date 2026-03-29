@@ -1,6 +1,7 @@
 ---
 name: ai-human-environment-partitioning
 description: "CLI & Tooling. (GUI-CLI Task Boundary Strategy) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+project: ghostty-win
 ---
 
 # CLI & Tooling

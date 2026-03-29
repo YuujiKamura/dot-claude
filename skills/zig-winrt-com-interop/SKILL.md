@@ -1,6 +1,7 @@
 ---
 name: zig-winrt-com-interop
 description: "WinUI3, WinRT, Zig, COM, vtable, ghostty. (Pure Zig WinRT Architecture + ABI Hidden Pointers) Use when user mentions: WinUI3, WinRT, Zig, COM, vtable, ghostty, XAML."
+project: ghostty-win
 ---
 
 # Miscellaneous

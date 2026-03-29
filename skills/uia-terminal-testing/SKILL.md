@@ -1,6 +1,7 @@
 ---
 name: uia-terminal-testing
 description: "Miscellaneous. (OS-Level UIA Validation for Terminals) Use when user mentions: ."
+project: ghostty-win
 ---
 
 # Miscellaneous

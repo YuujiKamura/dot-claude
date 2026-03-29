@@ -1,6 +1,7 @@
 ---
 name: zig-winui3-build-tuning
 description: "Testing & QA. (Selective Safety Disabling for UI Interactivity) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+project: ghostty-win
 ---
 
 # Testing & QA

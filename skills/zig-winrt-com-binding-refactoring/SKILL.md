@@ -1,6 +1,7 @@
 ---
 name: zig-winrt-com-binding-refactoring
 description: "Zig COM/WinRTバインディングのシンボル削除・リファクタリング時の影響分析。(1) pub const再エクスポートの削除はグローバル破壊リスク、(2) Zigのlazy evaluationがビルドエラーを隠す、(3) critical-onlyレビュー戦略。Zig、COM、WinRT、binding、refactoring、ABI、symbol、vtableと言われた時に使用。"
+project: win-zig-bindgen
 ---
 
 # Zig COM/WinRT バインディング リファクタリング知見

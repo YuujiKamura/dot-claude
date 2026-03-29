@@ -1,6 +1,7 @@
 ---
 name: winui3-islands-ime-redirection
 description: "Testing & QA. (TSF Focus Redirection for WinUI3 Islands) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+project: ghostty-win
 ---
 
 # Testing & QA

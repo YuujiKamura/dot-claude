@@ -1,6 +1,7 @@
 ---
 name: cross-implementation-signal-tracing
 description: "AI & Machine Learning. (Signal Path Tracing for Terminal UI Porting) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+project: ghostty-win
 ---
 
 # AI & Machine Learning

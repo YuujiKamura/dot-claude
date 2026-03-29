@@ -1,6 +1,7 @@
 ---
 name: terminal-viewport-logic-alignment
 description: "Documentation. (Terminal Scroll-to-Bottom Guarding) Use when user mentions: README, docs, documentation, tutorial, guide, comment."
+project: ghostty-win
 ---
 
 # Documentation

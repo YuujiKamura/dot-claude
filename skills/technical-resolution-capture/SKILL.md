@@ -1,6 +1,7 @@
 ---
 name: technical-resolution-capture
 description: "AI & Machine Learning. (Conversation Tail-End Prioritization) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+project: skill-miner
 ---
 
 # AI & Machine Learning

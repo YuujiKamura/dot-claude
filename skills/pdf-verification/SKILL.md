@@ -1,6 +1,7 @@
 ---
 name: pdf-verification
 description: Codex CLIを使用してPDF出力結果を検証する。使用場面: (1) PDF生成後の確認、(2) レイアウト検証、(3) 写真配置確認、(4) フォント表示確認、(5) 枠線・余白確認。トリガー: "PDF確認", "PDF検証", "出力確認", "レイアウト確認"
+project: photo-ai
 ---
 
 # PDF検証スキル
@@ -12,7 +13,7 @@ Codex CLIを使用してPDF出力結果を自動検証する。
 ### 1. テストPDF生成
 
 ```bash
-cd C:/Users/yuuji/Sanyuu2Kouku/photo-ai-rust
+cd ~/photo-ai-rust
 
 # テストデータ作成
 cat > test_verify.json << 'EOF'
@@ -39,7 +40,7 @@ cargo run --release -- export test_verify.json -f pdf -o test_verify.pdf -t "検
 ### 2. Codexで検証
 
 ```bash
-codex exec --full-auto --sandbox read-only --cd C:/Users/yuuji/Sanyuu2Kouku/photo-ai-rust "生成されたPDFファイル test_verify.pdf を読み取り、以下を確認してレポートしてください:
+codex exec --full-auto --sandbox read-only --cd ~/photo-ai-rust "生成されたPDFファイル test_verify.pdf を読み取り、以下を確認してレポートしてください:
 1. ページサイズ（A4かどうか）
 2. 写真が枠内に収まっているか
 3. 日本語テキストが正しく表示されているか

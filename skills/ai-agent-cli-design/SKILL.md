@@ -1,6 +1,7 @@
 ---
 name: ai-agent-cli-design
 description: "AI & Machine Learning. (Safety-First CLI Defaults for AI Agents, Subcommand Discovery via Agent Documentation) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+project: skill-miner
 ---
 
 # AI & Machine Learning

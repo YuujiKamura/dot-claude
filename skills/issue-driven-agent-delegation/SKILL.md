@@ -1,6 +1,7 @@
 ---
 name: issue-driven-agent-delegation
 description: "Testing & QA. (Issue-Driven Infrastructure for Multi-Agent Workflows) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+project: ghostty-win
 ---
 
 # Testing & QA

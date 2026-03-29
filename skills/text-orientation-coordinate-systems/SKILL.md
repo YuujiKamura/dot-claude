@@ -1,5 +1,6 @@
 ---
 description: テキスト描画における座標系の違いと向きの補正。DXF(Y上向き)とスクリーン(Y下向き)間での回転角度の扱い。BBOX-based text rendering実装時に使用。
+project: photo-ai
 keywords: テキスト, 回転, 座標系, DXF, BBOX, Y軸, 向き, Canvas2D, 描画
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: winui3-xaml-islands-event-workarounds
 description: "Documentation. (XAML Islands Event Silence Recovery) Use when user mentions: README, docs, documentation, tutorial, guide, comment."
+project: ghostty-win
 ---
 
 # Documentation

@@ -1,5 +1,6 @@
 ---
 description: "複数AI CLIの統一インターフェース。(1) Gemini/Claude/Ollamaを同じAPIで呼び出し、(2) バックエンド切り替えでAI変更が容易。cli-ai-analyzer、AI解析、Claude CLI、Gemini CLI、Ollama、バックエンド切り替えと言われた時に使用。"
+project: photo-ai
 ---
 
 # cli-ai-analyzer

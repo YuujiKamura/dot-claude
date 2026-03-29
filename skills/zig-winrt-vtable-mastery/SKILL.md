@@ -1,6 +1,7 @@
 ---
 name: zig-winrt-vtable-mastery
 description: "WinUI3, WinRT, Zig, COM, vtable, ghostty. (WinRT COM VTable Mastery in Zig) Use when user mentions: WinUI3, WinRT, Zig, COM, vtable, ghostty, XAML."
+project: ghostty-win
 ---
 
 # WinRT COM VTable Mastery in Zig

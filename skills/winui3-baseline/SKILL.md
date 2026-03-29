@@ -1,5 +1,6 @@
 ---
 description: WinUI3 unpackaged app の正常動作要件と勘所。(1) XamlControlsResources のPRI初期化要件、(2) TabView表示の必須条件、(3) IXamlMetadataProvider GetXamlType の正常応答パターン、(4) Application.LoadComponent と XBF の関係、(5) SwapChainPanel Loaded イベントの挙動。WinUI3、TabView、SwapChainPanel、XamlControlsResources、PRI、IXamlMetadataProvider、GetXamlType、BoxedType、ActivateInstance、COM vtable、com_aggregation、App.zig、surface_binding、tabview_runtime、ghostty-win、slot 6、slot 17、slot 19
+project: ghostty-win
 ---
 
 # WinUI3 Unpackaged App 正常動作要件
@@ -129,7 +130,7 @@ global::Microsoft.UI.Xaml.Application.LoadComponent(this, resourceLocator);
 
 ## ベースラインテストプロジェクト
 
-- 場所: `C:\Users\yuuji\winui3-baseline`
+- 場所: `~/winui3-baseline`
 - ビルド: VS 2022 MSBuild (`dotnet build` は MrtCore DLL 不足で失敗)
 - レベル 0-5 の段階的テスト
 - `capture2.ps1` でスクリーンショット自動取得

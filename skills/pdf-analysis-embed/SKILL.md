@@ -1,5 +1,6 @@
 ---
 description: "PDFに解析結果を埋め込むRustライブラリ。(1) AIの解析結果をPDFに埋め込んで一体化、(2) 埋め込み済みなら再解析スキップでコスト削減。pdf-analysis-embed、PDF埋め込み、解析結果埋め込み、再解析不要、PDFメタデータと言われた時に使用。"
+project: photo-ai
 ---
 
 # pdf-analysis-embed

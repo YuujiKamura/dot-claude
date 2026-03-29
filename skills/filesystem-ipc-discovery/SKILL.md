@@ -1,6 +1,7 @@
 ---
 name: filesystem-ipc-discovery
 description: "CLI & Tooling. (Filesystem-Based IPC Discovery) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+project: ghostty-win
 ---
 
 # CLI & Tooling

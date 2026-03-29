@@ -1,6 +1,7 @@
 ---
 name: win32-ipc-ui-bridging
 description: "CLI & Tooling. (IPC-to-UI Thread Bridging) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+project: ghostty-win
 ---
 
 # CLI & Tooling

@@ -1,6 +1,7 @@
 ---
 name: terminal-resident-agent-orchestration
 description: "AI & Machine Learning. (Terminal-Resident AI Orchestration) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+project: ghostty-win
 ---
 
 # AI & Machine Learning

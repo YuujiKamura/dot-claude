@@ -1,6 +1,7 @@
 ---
 name: win-native-ui-architecture
 description: "Miscellaneous. (Platform-Native Reference Alignment) Use when user mentions: ."
+project: ghostty-win
 ---
 
 # Miscellaneous

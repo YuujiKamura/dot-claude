@@ -1,6 +1,7 @@
 ---
 name: ai-orchestration-refactoring
 description: "Miscellaneous. (Agent-Team Audit for Architectural Debt) Use when user mentions: ."
+project: ghostty-win
 ---
 
 # Miscellaneous

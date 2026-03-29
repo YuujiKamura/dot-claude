@@ -1,6 +1,7 @@
 ---
 name: resident-ai-worker-orchestration
 description: "AI & Machine Learning. (Decoupled Persistent Session Management) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+project: ghostty-win
 ---
 
 # AI & Machine Learning

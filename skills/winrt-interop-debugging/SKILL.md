@@ -1,6 +1,7 @@
 ---
 name: winrt-interop-debugging
 description: "WinUI3, WinRT, Zig, COM. (Diagnosing Opaque WinRT Exceptions (0xC000027B)) Use when user mentions: WinUI3, WinRT, Zig, COM, vtable, ghostty, XAML."
+project: ghostty-win
 ---
 
 # Testing & QA

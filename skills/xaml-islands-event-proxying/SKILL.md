@@ -1,6 +1,7 @@
 ---
 name: xaml-islands-event-proxying
 description: "Documentation. (Bypassing XAML Islands Event Limitations) Use when user mentions: README, docs, documentation, tutorial, guide, comment."
+project: ghostty-win
 ---
 
 # Documentation

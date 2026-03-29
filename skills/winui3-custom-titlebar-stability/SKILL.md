@@ -1,6 +1,7 @@
 ---
 name: winui3-custom-titlebar-stability
 description: "Testing & QA. (Non-Client Island Drag-Bar Pattern) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+project: ghostty-win
 ---
 
 # Testing & QA

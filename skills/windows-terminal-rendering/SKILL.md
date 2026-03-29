@@ -1,6 +1,7 @@
 ---
 name: windows-terminal-rendering
 description: "WinUI3, WinRT, Zig, COM. (D3D11 vs. OpenGL VSync Jitter Mitigation) Use when user mentions: WinUI3, WinRT, Zig, COM, vtable, ghostty, XAML."
+project: ghostty-win
 ---
 
 # Miscellaneous

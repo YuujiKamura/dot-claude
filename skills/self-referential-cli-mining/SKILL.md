@@ -1,6 +1,7 @@
 ---
 name: self-referential-cli-mining
 description: "CLI & Tooling. (State Recovery via Tool Dogfooding) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+project: skill-miner
 ---
 
 # CLI & Tooling

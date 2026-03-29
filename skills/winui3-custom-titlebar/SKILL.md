@@ -1,6 +1,7 @@
 ---
 name: winui3-custom-titlebar
 description: "Miscellaneous. (Interactive Title Bar Extension Safety) Use when user mentions: ."
+project: ghostty-win
 ---
 
 # Miscellaneous

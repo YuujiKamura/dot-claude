@@ -1,6 +1,7 @@
 ---
 name: ai-knowledge-extraction
 description: "CLI & Tooling. (Noise-Resilient Skill Mining) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+project: skill-miner
 ---
 
 # CLI & Tooling

@@ -1,6 +1,7 @@
 ---
 name: win32-cp-pipe-architecture
 description: "Windows/Native Development. (CP Pipe Server, captureSnapshot, Command Thread Only, Session File Lifecycle) Use when user mentions: Named Pipe, control plane, CP pipe, captureSnapshot, ghost window, pipe server, TAIL, STATE."
+project: ghostty-win
 ---
 
 # Win32 CP Pipe Architecture

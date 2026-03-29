@@ -1,6 +1,7 @@
 ---
 name: ai-skill-consolidation
 description: "CLI & Tooling. (Union-Find Knowledge Grouping) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+project: ghostty-win
 ---
 
 # CLI & Tooling

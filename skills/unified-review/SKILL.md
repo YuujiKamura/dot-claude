@@ -1,6 +1,7 @@
 ---
 name: unified-review
 description: Use when reviewing code changes, PRs, diffs, or when CLAUDE.md's verification loop triggers after code modification. Supersedes gstack/review for non-gstack repos and wraps ai-code-review CLI as the analysis engine.
+project: ghostty-win
 ---
 
 # Unified Review Orchestrator

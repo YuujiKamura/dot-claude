@@ -1,6 +1,7 @@
 ---
 name: progressive-mining
 description: "AI & Machine Learning. (Progressive Temporal Window Mining) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+project: skill-miner
 ---
 
 # AI & Machine Learning

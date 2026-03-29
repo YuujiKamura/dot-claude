@@ -1,6 +1,7 @@
 ---
 name: agent-skill-ux-naming
 description: "AI & Machine Learning. (Intent-Based Naming for Boundary Crossings) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+project: agent-deck
 ---
 
 # AI & Machine Learning

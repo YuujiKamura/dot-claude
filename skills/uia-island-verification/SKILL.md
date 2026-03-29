@@ -1,6 +1,7 @@
 ---
 name: uia-island-verification
 description: "Documentation. (UIA-Based Testing for Islands UI) Use when user mentions: README, docs, documentation, tutorial, guide, comment."
+project: ghostty-win
 ---
 
 # Documentation

@@ -1,6 +1,7 @@
 ---
 name: zig-toolchain-stability
 description: "WinUI3, WinRT, Zig, COM. (Compiler Evolution Awareness) Use when user mentions: WinUI3, WinRT, Zig, COM, vtable, ghostty, XAML."
+project: ghostty-win
 ---
 
 # CLI & Tooling

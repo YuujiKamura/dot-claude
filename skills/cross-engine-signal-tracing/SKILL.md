@@ -1,6 +1,7 @@
 ---
 name: cross-engine-signal-tracing
 description: "Documentation. (Reference Architecture Tracing (WT to Ghostty)) Use when user mentions: README, docs, documentation, tutorial, guide, comment."
+project: ghostty-win
 ---
 
 # Documentation

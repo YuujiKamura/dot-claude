@@ -1,6 +1,7 @@
 ---
 name: terminal-control-plane-interop
 description: "AI & Machine Learning. (Control Plane IPC for AI-Terminal Integration) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+project: ghostty-win
 ---
 
 # AI & Machine Learning

@@ -1,6 +1,7 @@
 ---
 name: road-drawing
 description: "road-drawing CLIとcrateの使い方。CSV/Excel→DXF図面生成。路線展開図、三角形リスト、横断歩道。road-drawing、DXF、展開図、三角形、横断歩道、図面と言われた時に使用。"
+project: photo-ai
 ---
 
 # road-drawing — 図面生成CLI & Rustクレート群
@@ -85,5 +86,5 @@ cargo test -p road-marking
 - `EPSILON = 0.01` — 接続辺長一致判定
 
 ## テストデータの場所
-- `~/StudioProjects/csv_to_dxf/data/` — 路線展開図CSV (区間1〜6, data.csv, 面積計算書)
-- `~/StudioProjects/trianglelist/app/src/test/resources/` — 三角形CSV (minimal, connected, 4.11)
+- `<project>/csv_to_dxf/data/` — 路線展開図CSV (区間1〜6, data.csv, 面積計算書)
+- `<project>/trianglelist/app/src/test/resources/` — 三角形CSV (minimal, connected, 4.11)

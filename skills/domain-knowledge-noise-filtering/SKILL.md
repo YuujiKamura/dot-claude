@@ -1,6 +1,7 @@
 ---
 name: domain-knowledge-noise-filtering
 description: "AI & Machine Learning. (Agentic Noise Filtering in Knowledge Extraction) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+project: skill-miner
 ---
 
 # AI & Machine Learning

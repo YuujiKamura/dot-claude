@@ -1,6 +1,7 @@
 ---
 name: ai-integration
 description: "AI連携。(言語非依存プロンプト仕様 (SSOT) への統合、コンタクトシート方式によるVision AIの精度改善、プロジェクト横断的な「メモリ」と知見の永続化、ドメイン知識に基づいた手書き図面の構造化解析、GitHub/MCP等を活用した自律的な外部ツール調査) Gemini、Claude、API、プロンプト、精度、モデルと言われた時に使用。"
+project: photo-ai
 ---
 
 # AI連携

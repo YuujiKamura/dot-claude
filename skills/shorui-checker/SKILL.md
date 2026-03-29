@@ -1,5 +1,6 @@
 ---
 description: "ShoruiCheckerプロジェクトの開発支援。(1) PDF整合性チェック機能の開発・修正、(2) Tauri/Rust バックエンド開発、(3) フロントエンドUI開発。ShoruiChecker、書類チェッカー、PDF解析、整合性チェックと言われた時に使用。"
+project: photo-ai
 ---
 
 # ShoruiChecker (PDF整合性チェッカー)

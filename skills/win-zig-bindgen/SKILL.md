@@ -1,6 +1,7 @@
 ---
 name: win-zig-bindgen
 description: "win-zig-bindgen (WinMD→Zig COM bindingジェネレータ) の設計知見。(1) 統合マップによる型解決、(2) vtable形状検証、(3) 本家windows-rsパリティ、(4) テスト設計。win-zig-bindgen、ジェネレータ、WinMD、bindgen、コード生成、型解決、パリティと言われた時に使用。"
+project: win-zig-bindgen
 ---
 
 # win-zig-bindgen 開発知見

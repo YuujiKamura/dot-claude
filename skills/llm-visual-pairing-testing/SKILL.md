@@ -1,6 +1,7 @@
 ---
 name: llm-visual-pairing-testing
 description: "Testing & QA. (Contact Sheet Visual Matching Strategy) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+project: photo-ai
 ---
 
 # Testing & QA

@@ -1,6 +1,7 @@
 ---
 name: semantic-bridge-naming
 description: "AI & Machine Learning. (Semantic Bridge Naming for AI Tooling) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+project: agent-deck
 ---
 
 # AI & Machine Learning
@@ -20,7 +21,7 @@ Naming conventions for AI skills that facilitate terminal-agent interaction must
 ### Examples
 
 ```
-C:\Users\yuuji\.codex\skills\windows-terminal-agent-relay
+~/.codex/skills/windows-terminal-agent-relay
 ```
 
 

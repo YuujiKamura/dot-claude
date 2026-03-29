@@ -1,6 +1,7 @@
 ---
 name: winui3-xaml-islands-titlebar
 description: "Miscellaneous. (Non-Client Area via Child Windows) Use when user mentions: ."
+project: ghostty-win
 ---
 
 # Miscellaneous

@@ -1,6 +1,7 @@
 ---
 name: structured-insight-distillation
 description: "AI & Machine Learning. (Distinguishing Domain Insight from Procedural Noise) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+project: skill-miner
 ---
 
 # AI & Machine Learning

@@ -1,6 +1,7 @@
 ---
 name: qa-knowledge-evidence-gating
 description: "Testing & QA. (Only accept patterns with explicit discussion evidence) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+project: skill-miner
 ---
 
 # Testing & QA

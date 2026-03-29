@@ -1,6 +1,7 @@
 ---
 name: high-fidelity-skill-mining
 description: "AI & Machine Learning. (High-Fidelity Technical Skill Extraction) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+project: skill-miner
 ---
 
 # AI & Machine Learning

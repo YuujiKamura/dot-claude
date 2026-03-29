@@ -1,6 +1,7 @@
 ---
 name: winui3-islands-build-encapsulation
 description: "Documentation. (WinUI3 Islands Build Lifecycle Management) Use when user mentions: README, docs, documentation, tutorial, guide, comment."
+project: ghostty-win
 ---
 
 # Documentation

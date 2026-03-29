@@ -1,6 +1,7 @@
 ---
 name: skill-mining-noise-reduction
 description: "AI & Machine Learning. (Instruction-Noise Filtering in Skill Mining) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+project: skill-miner
 ---
 
 # AI & Machine Learning

@@ -1,6 +1,7 @@
 ---
 name: usage-aware-delegation
 description: Claude Code残量に応じた外注判断。(1) 残量チェックと行動レベル判定、(2) Codex MCP外注、(3) WT Control Plane経由でGemini/Codex/別Claudeに外注、(4) 仕事量と残量のバランスで自動判断。usage、残量、利用料、外注、コスト、節約、Codex委譲、チーム、並列と言われた時に使用。
+project: photo-ai
 ---
 
 # Usage-Aware Delegation（残量ベース外注）

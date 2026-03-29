@@ -1,6 +1,7 @@
 ---
 name: windows-ui-architectural-alignment
 description: "Miscellaneous. (Windows Terminal Architecture Alignment) Use when user mentions: ."
+project: ghostty-win
 ---
 
 # Miscellaneous

@@ -1,6 +1,7 @@
 ---
 name: skill-mining-optimization
 description: "CLI & Tooling. (Granular Domain Classification for Technical Skills) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+project: skill-miner
 ---
 
 # CLI & Tooling

@@ -1,6 +1,7 @@
 ---
 name: windows-low-level-terminal-perf
 description: "WinUI3, WinRT, Zig, COM. (High-Performance Windows UI/Terminal Engineering) Use when user mentions: WinUI3, WinRT, Zig, COM, vtable, ghostty, XAML."
+project: ghostty-win
 ---
 
 # CLI & Tooling

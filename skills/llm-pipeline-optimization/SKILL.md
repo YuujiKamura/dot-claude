@@ -1,6 +1,7 @@
 ---
 name: llm-pipeline-optimization
 description: "AI & Machine Learning. (Decoupling Noise Reduction from Semantic Extraction) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+project: skill-miner
 ---
 
 # AI & Machine Learning

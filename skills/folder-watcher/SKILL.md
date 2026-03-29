@@ -1,5 +1,6 @@
 ---
 description: "folder-watcher: フォルダ監視、ディレクトリ監視、ファイル検知、notify、watcher、PDF監視、ビルド監視、ホットリロード"
+project: photo-ai
 ---
 
 # folder-watcher
