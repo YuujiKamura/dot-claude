@@ -1,6 +1,7 @@
 ---
 name: progressive-llm-batching
 description: "CLI & Tooling. (Progressive Batching for Large History Mining) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+category: skill-mining-meta
 ---
 
 # CLI & Tooling

@@ -1,6 +1,7 @@
 ---
 name: tabs
 description: 開いているターミナルタブ一覧を表示。tabs、タブ、ターミナルと言われた時に使用。
+category: custom-command
 user_invocable: true
 ---
 

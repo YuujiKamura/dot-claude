@@ -1,6 +1,7 @@
 ---
 name: codeagent
 description: Execute codeagent-wrapper for multi-backend AI code tasks. Supports Codex, Claude, and Gemini backends with file references (@syntax) and structured output.
+category: custom-command
 ---
 
 # Codeagent Wrapper Integration

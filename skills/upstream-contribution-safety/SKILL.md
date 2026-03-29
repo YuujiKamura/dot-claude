@@ -1,6 +1,7 @@
 ---
 name: upstream-contribution-safety
 description: "AI & Machine Learning. (Fork-First Upstream Contribution Flow) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+category: llm-patterns
 ---
 
 # AI & Machine Learning

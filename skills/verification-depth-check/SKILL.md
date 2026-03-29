@@ -1,6 +1,7 @@
 ---
 name: verification-depth-check
 description: テスト・検証が「通った」と報告する前に、検証の中身（何を実際に比較しているか）を確認する。テスト、検証、PASS、GREEN、通ったと言われた時に発火。
+category: testing-qa
 ---
 
 # テスト結果を報告する前に中身を見ろ

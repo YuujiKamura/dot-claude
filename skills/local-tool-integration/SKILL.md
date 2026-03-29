@@ -1,6 +1,7 @@
 ---
 name: local-tool-integration
 description: "Documentation. (Local Quality Assurance Loop Policy) Use when user mentions: README, docs, documentation, tutorial, guide, comment."
+category: claude-config
 ---
 
 # Documentation

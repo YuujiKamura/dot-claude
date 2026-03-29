@@ -1,6 +1,7 @@
 ---
 name: recursive-agent-troubleshooting
 description: "AI & Machine Learning. (Meta-Recursive Troubleshooting in Agentic Sessions) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+category: llm-patterns
 ---
 
 # AI & Machine Learning
@@ -20,7 +21,7 @@ In complex multi-session environments, agents should recognize when they are in 
 ### Examples
 
 ```powershell
-ls C:\Users\yuuji\AppData\Local\Temp\.cli-ai-analyzer-*
+ls ~\AppData\Local\Temp\.cli-ai-analyzer-*
 ```
 
 

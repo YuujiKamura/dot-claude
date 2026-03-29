@@ -1,6 +1,7 @@
 ---
 name: contextual-project-attribution
 description: "CLI & Tooling. (Metadata-Driven Activity Mapping) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+category: cli-tooling
 ---
 
 # CLI & Tooling

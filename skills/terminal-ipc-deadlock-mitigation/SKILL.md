@@ -1,6 +1,7 @@
 ---
 name: terminal-ipc-deadlock-mitigation
 description: "CLI & Tooling. (Terminal IPC Deadlock Prevention) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+category: agent-orchestration
 ---
 
 # CLI & Tooling

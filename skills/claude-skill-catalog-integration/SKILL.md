@@ -1,6 +1,7 @@
 ---
 name: claude-skill-catalog-integration
 description: "CLI & Tooling. (Distinguish rule-file loading from large skill-catalog onboarding) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+category: claude-config
 ---
 
 # CLI & Tooling

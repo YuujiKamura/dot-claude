@@ -1,6 +1,7 @@
 ---
 name: base64-standalone-web-pages
 description: "Web Development. (Base64 Embedding for Path-Independent Portability) Use when user mentions: React, Vue, Next.js, CSS, HTML, frontend, backend, API, REST, GraphQL."
+category: web-frontend
 ---
 
 # Web Development

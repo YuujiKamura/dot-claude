@@ -132,7 +132,7 @@ Check for: API keys, tokens, passwords, real company/person names,
 project-specific dates (e.g. 20260211), real measurement values,
 camera file names (e.g. R0010315.JPG), paths with usernames, construction project identifiers.
 
-EXCEPTIONS -- do NOT flag these (standard OSS metadata):
+EXCEPTIONS -- do NOT flag these:
 - GitHub/GitLab repository URLs (e.g. github.com/user/repo in Cargo.toml, package.json)
 - Copyright notices in LICENSE files (e.g. "Copyright (c) 2026 AuthorName")
 - Package author fields, maintainer names in manifest files
@@ -140,6 +140,11 @@ EXCEPTIONS -- do NOT flag these (standard OSS metadata):
 - crates.io / npm / PyPI package metadata (repository, homepage, documentation URLs)
 - Dummy/placeholder usernames in test code (e.g. "testuser", "example_user")
 - Paths using obvious placeholder usernames in test assertions
+- Paths using ~ (tilde) as home directory (e.g. ~/project, ~/.claude/skills) -- these are already sanitized
+- Truncated/placeholder API keys used as examples in documentation (e.g. "AIzaSy...", "sk-...", "ghp_...")
+- Dates used in example output or documentation context (not real operational dates)
+- File sizes in documentation (e.g. "6.7MB", "9.2MB")
+- Generic project paths like ~/project-name that don't reveal real usernames
 
 ```
 {chr(10).join(added)}

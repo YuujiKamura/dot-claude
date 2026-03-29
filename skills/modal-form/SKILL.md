@@ -1,6 +1,7 @@
 ---
 name: modal-form
 description: Controlled Componentパターンによるモーダルフォーム。(1) アイテム詳細の編集、(2) 状態の同期とリセット、(3) スクロール可能なオーバーレイ。モーダル、フォーム、編集ダイアログ、Controlled Component、UIと言われた時に使用。
+category: web-frontend
 ---
 
 # Modal Form パターン

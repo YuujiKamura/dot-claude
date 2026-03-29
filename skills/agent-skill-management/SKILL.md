@@ -1,6 +1,7 @@
 ---
 name: agent-skill-management
 description: "CLI & Tooling. (Cross-Agent Skill Synchronization) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+category: agent-orchestration
 ---
 
 # CLI & Tooling
@@ -19,7 +20,7 @@ Managing domain knowledge as a decoupled, linkable ecosystem rather than project
 ### Examples
 
 ```
-gemini skills link "C:\Users\yuuji\.claude\skills"
+gemini skills link "~\.claude\skills"
 ```
 
 ```

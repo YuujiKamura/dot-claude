@@ -1,6 +1,7 @@
 ---
 name: cli-patch-resilience
 description: "CLI & Tooling. (Handling Escape-Heavy Payloads in Automated Patching) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+category: cli-tooling
 ---
 
 # CLI & Tooling

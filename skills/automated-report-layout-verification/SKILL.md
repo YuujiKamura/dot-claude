@@ -1,6 +1,7 @@
 ---
 name: automated-report-layout-verification
 description: "CLI & Tooling. (Iterative Excel/CSV Layout Refinement) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+category: pdf-document
 ---
 
 # CLI & Tooling

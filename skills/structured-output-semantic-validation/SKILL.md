@@ -1,6 +1,7 @@
 ---
 name: structured-output-semantic-validation
 description: "AI & Machine Learning. (Schema-valid does not mean task-valid) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+category: llm-patterns
 ---
 
 # AI & Machine Learning

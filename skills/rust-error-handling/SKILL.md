@@ -1,5 +1,6 @@
 ---
 description: RustのResult型によるエラーハンドリング統一パターン。(1) プロジェクト共通のResult型定義、(2) ErrorKindによる分類、(3) thiserrorでのエラー定義、(4) ?演算子での伝播、(5) unwrap/panic禁止。Rust、エラーハンドリング、Result、Error、thiserrorと言われた時に使用。
+category: rust-patterns
 keywords: [Rust, エラーハンドリング, Result, Error, thiserror, anyhow, panic]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: issue-management
 description: 仕様の不足・乖離をIssueで管理。(1) ユーザー介入=期待との乖離、(2) プランモードで計画→Issue記録→実装、(3) コンテキスト喪失対策。
+category: custom-command
 keywords:
   - 仕様
   - レイアウト

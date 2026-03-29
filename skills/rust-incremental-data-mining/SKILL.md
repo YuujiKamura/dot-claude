@@ -1,6 +1,7 @@
 ---
 name: rust-incremental-data-mining
 description: "Testing & QA. (Incremental Time-Window Mining Validation) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+category: testing-qa
 ---
 
 # Testing & QA

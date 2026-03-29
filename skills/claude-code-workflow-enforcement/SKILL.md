@@ -1,6 +1,7 @@
 ---
 name: claude-code-workflow-enforcement
 description: "Documentation. (Mandatory Parallel Team Execution) Use when user mentions: README, docs, documentation, tutorial, guide, comment."
+category: claude-config
 ---
 
 # Documentation

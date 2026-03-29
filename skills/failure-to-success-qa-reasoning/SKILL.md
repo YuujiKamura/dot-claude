@@ -1,6 +1,7 @@
 ---
 name: failure-to-success-qa-reasoning
 description: "Testing & QA. (Prefer causal failure→success narratives over procedural steps) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+category: testing-qa
 ---
 
 # Testing & QA

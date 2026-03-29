@@ -1,6 +1,7 @@
 ---
 name: ai-tool-quota-navigation
 description: "CLI & Tooling. (Navigating Quota-Locked AI CLI Metadata) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+category: llm-patterns
 ---
 
 # CLI & Tooling

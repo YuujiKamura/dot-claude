@@ -1,6 +1,7 @@
 ---
 name: claude-plugin-architecture
 description: "CLI & Tooling. (Cross-Platform Event Hooks) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+category: claude-config
 ---
 
 # CLI & Tooling

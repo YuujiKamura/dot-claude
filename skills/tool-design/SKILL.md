@@ -1,6 +1,7 @@
 ---
 name: tool-design
 description: "ツール設計。(メタデータ駆動の現状分析 (Metadata-Driven Status Analysis)、環境依存問題のシェルレベル解決 (Shell-Level Environment Troubleshooting)、スキーマ先行の永続化設計 (Schema-First Persistence Design)、外部知見の「スキル」カプセル化 (External Knowledge Skill-ification)、検証駆動型インクリメンタル実装 (Validation-Driven Incremental Implementation)) CLI、スキル、自動化、ツール設計と言われた時に使用。"
+category: cli-tooling
 ---
 
 # ツール設計

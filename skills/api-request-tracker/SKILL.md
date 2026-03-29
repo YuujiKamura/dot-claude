@@ -1,6 +1,7 @@
 ---
 name: api-request-tracker
 description: 非同期リクエストの追跡とキャンセル。(1) 連打時のレース条件対策、(2) AbortControllerでの中断、(3) レート制限・デバウンス対応。APIリクエスト、キャンセル、レース条件、非同期、AbortController、デバウンスと言われた時に使用。
+category: web-frontend
 ---
 
 # API Request Tracker パターン

@@ -1,6 +1,7 @@
 ---
 name: claude-md-optimization
 description: "Documentation. (Context-Efficient Local Instruction Engineering) Use when user mentions: README, docs, documentation, tutorial, guide, comment."
+category: claude-config
 ---
 
 # Documentation

@@ -1,6 +1,7 @@
 ---
 name: windows-smoke-verification
 description: "Testing & QA. (Granular Permission & Shell Verification Sequence) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+category: testing-qa
 ---
 
 # Testing & QA
@@ -20,11 +21,11 @@ Systematically verifying Windows environment readiness by using sequential, uniq
 ### Examples
 
 ```
-cmd.exe /c echo smoke-1 > C:\Users\yuuji\wt-smoke-1.txt
+cmd.exe /c echo smoke-1 > ~\wt-smoke-1.txt
 ```
 
 ```
-if (Test-Path 'C:\Users\yuuji\wt-smoke-4.txt') { Get-Item 'C:\Users\yuuji\wt-smoke-4.txt' }
+if (Test-Path '~\wt-smoke-4.txt') { Get-Item '~\wt-smoke-4.txt' }
 ```
 
 

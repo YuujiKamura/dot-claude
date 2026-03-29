@@ -1,6 +1,7 @@
 ---
 name: line-browser-compatibility
 description: "Web Development. (LINE In-App Browser Constraints Management) Use when user mentions: React, Vue, Next.js, CSS, HTML, frontend, backend, API, REST, GraphQL."
+category: web-frontend
 ---
 
 # Web Development

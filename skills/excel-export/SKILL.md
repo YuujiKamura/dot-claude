@@ -1,6 +1,7 @@
 ---
 name: excel-export
 description: ExcelJSを使用したExcelファイル生成・ダウンロード。(1) ブラウザ内でのワークブック生成、(2) スタイルや列幅の自動調整、(3) Blobによるダウンロード処理。Excel、エクスポート、ダウンロード、ExcelJS、シート作成と言われた時に使用。
+category: web-frontend
 ---
 
 # Excel Export パターン

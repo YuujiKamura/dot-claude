@@ -1,6 +1,7 @@
 ---
 name: qa-output-integrity-checks
 description: "Testing & QA. (Completeness and schema validity are QA outcomes, not formatting niceties) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+category: testing-qa
 ---
 
 # Testing & QA

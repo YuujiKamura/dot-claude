@@ -1,6 +1,7 @@
 ---
 name: claude-agent-governance
 description: "Documentation. (Distinguishing Mandatory Enforcement from Process Guidance, Autonomous Decision Delegation via CLI, Mandatory Plan-to-Team Workflow) Use when user mentions: README, docs, documentation, tutorial, guide, comment."
+category: claude-config
 ---
 
 # Documentation

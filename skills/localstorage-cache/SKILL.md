@@ -1,6 +1,7 @@
 ---
 name: localstorage-cache
 description: LocalStorageへの設定・データ永続化。(1) カスタムフックでの状態管理、(2) try-catchによるエラーハンドリング、(3) 配列データの件数制限・バージョン移行。LocalStorage、キャッシュ、永続化、設定保存、カスタムフックと言われた時に使用。
+category: web-frontend
 ---
 
 # LocalStorage Cache パターン

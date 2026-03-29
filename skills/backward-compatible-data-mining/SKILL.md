@@ -1,6 +1,7 @@
 ---
 name: backward-compatible-data-mining
 description: "AI & Machine Learning. (Robust Schema Evolution for Mined Data) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+category: llm-patterns
 ---
 
 # AI & Machine Learning

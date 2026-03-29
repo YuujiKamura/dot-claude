@@ -1,6 +1,7 @@
 ---
 name: headless-agent-governance
 description: "CLI & Tooling. (Strict Enum-Based Approval Configuration) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+category: cli-tooling
 ---
 
 # CLI & Tooling

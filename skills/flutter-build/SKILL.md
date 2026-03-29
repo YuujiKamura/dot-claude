@@ -1,6 +1,7 @@
 ---
 name: flutter-build
 description: Flutterプロジェクトのビルド・デプロイスキル設計パターン。LLM判断を排除し、シェルスクリプトで手順を固定化する。ビルド、デプロイ、シミュレーター、flutter run、xcrun simctlと言われた時に使用。
+category: misc
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
 user-invocable: true
 ---

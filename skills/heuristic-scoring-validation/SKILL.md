@@ -1,6 +1,7 @@
 ---
 name: heuristic-scoring-validation
 description: "Testing & QA. (Activity-Based Heuristic Scoring Verification) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+category: testing-qa
 ---
 
 # Testing & QA

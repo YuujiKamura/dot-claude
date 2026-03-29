@@ -1,4 +1,5 @@
 ---
+category: llm-patterns
 name: vlm-spatial-context-optimization
 description: "CLI & Tooling. (Spatial Context via Contact Sheets for VLMs) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
 ---

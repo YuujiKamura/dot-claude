@@ -1,6 +1,7 @@
 ---
 name: tui-visual-regression
 description: "CLI & Tooling. (Automated Visual Smoke Testing) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+category: testing-qa
 ---
 
 # CLI & Tooling

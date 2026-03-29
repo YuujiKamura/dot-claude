@@ -1,6 +1,7 @@
 ---
 name: cli-workflow-design
 description: "CLI & Tooling. (Decoupling CLI Tools from Ephemeral File Structures) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+category: cli-tooling
 ---
 
 # CLI & Tooling

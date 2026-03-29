@@ -1,6 +1,7 @@
 ---
 name: gemini-approval-mode-schema
 description: "CLI & Tooling. (Approval mode is schema-constrained, not free-form) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+category: cli-tooling
 ---
 
 # CLI & Tooling

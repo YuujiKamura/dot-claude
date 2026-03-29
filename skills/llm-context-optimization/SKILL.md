@@ -1,6 +1,7 @@
 ---
 name: llm-context-optimization
 description: "AI & Machine Learning. (Actionable Pattern Mining via High-Density Context) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+category: llm-patterns
 ---
 
 # AI & Machine Learning

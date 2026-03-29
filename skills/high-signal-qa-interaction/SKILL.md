@@ -1,6 +1,7 @@
 ---
 name: high-signal-qa-interaction
 description: "Testing & QA. (Zero-Verbosity Protocol for Log Purity) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+category: testing-qa
 ---
 
 # Testing & QA

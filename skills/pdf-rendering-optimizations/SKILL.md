@@ -1,6 +1,7 @@
 ---
 name: pdf-rendering-optimizations
 description: "CLI & Tooling. (Object Identity Mapping in PDF Image Replacement) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+category: pdf-document
 ---
 
 # CLI & Tooling

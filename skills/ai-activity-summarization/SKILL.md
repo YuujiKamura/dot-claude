@@ -1,6 +1,7 @@
 ---
 name: ai-activity-summarization
 description: "Miscellaneous. (Chronological Time-Slot Bucketing for Log Summarization) Use when user mentions: ."
+category: llm-patterns
 ---
 
 # Miscellaneous

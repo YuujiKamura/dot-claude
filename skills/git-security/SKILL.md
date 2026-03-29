@@ -1,6 +1,7 @@
 ---
 name: git-security
 description: Gitセキュリティ基本ルール。(1) APIキー・シークレットのコミット防止、(2) .gitignoreの設定確認、(3) 漏洩時の履歴削除と無効化対応。Git、セキュリティ、漏洩、APIキー、シークレット、コミット防止と言われた時に使用。
+category: behavior-guard
 ---
 
 # Git セキュリティ基本ルール

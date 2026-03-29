@@ -1,6 +1,7 @@
 ---
 name: omo
 description: Use this skill when you see `/omo`. Multi-agent orchestration for "code analysis / bug investigation / fix planning / implementation". Choose the minimal agent set and order based on task type + risk; recipes below show common patterns.
+category: custom-command
 ---
 
 # OmO - Multi-Agent Orchestrator

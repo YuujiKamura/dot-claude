@@ -1,6 +1,7 @@
 ---
 name: destructive-imagination
 description: 破壊的操作（rm, del, clean, 上書き, 削除, 「不要」「古い」判断）を計画・実行しようとしたときに発火。規則で止まるのではなく、消した後の最悪の映像を想像して止まる。削除、消す、不要、古い、上書き、rm、clean、purge、drop、reset --hard、force push
+category: behavior-guard
 ---
 
 # 刃物を持っている。それは包丁かもしれない。

@@ -1,6 +1,7 @@
 ---
 name: accumulated-board-extraction
 description: "AI & Machine Learning. (Accumulated Blackboard Data Extraction) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+category: llm-patterns
 ---
 
 # AI & Machine Learning

@@ -1,6 +1,7 @@
 ---
 name: llm-activity-context-enrichment
 description: "CLI & Tooling. (Context Enrichment for CLI Activity Classification) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+category: llm-patterns
 ---
 
 # CLI & Tooling

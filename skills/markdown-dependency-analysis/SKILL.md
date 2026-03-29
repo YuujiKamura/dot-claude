@@ -1,6 +1,7 @@
 ---
 name: markdown-dependency-analysis
 description: "CLI & Tooling. (Inter-Knowledge Dependency Mapping) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+category: skill-mining-meta
 ---
 
 # CLI & Tooling

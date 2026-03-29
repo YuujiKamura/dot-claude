@@ -1,6 +1,7 @@
 ---
 name: spreadsheet
 description: "スプレッドシート。(外部テキストファイルを用いた数式・ロジックの抽出と分析、カスタムスキル（.md）によるドメイン固有ルールの適用、整合性チェックを起点とする段階的修正と検証) スプレッドシート、Excel、Google Sheets、数式、xlsxと言われた時に使用。"
+category: pdf-document
 ---
 
 # スプレッドシート

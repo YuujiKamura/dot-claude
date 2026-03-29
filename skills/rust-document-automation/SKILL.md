@@ -1,6 +1,7 @@
 ---
 name: rust-document-automation
 description: "Miscellaneous. (Key-Based Document Layout Control) Use when user mentions: ."
+category: pdf-document
 ---
 
 # Miscellaneous

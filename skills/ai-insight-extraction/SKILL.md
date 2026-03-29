@@ -1,6 +1,7 @@
 ---
 name: ai-insight-extraction
 description: "AI & Machine Learning. (Model Capability Over Cost for Technical Synthesis) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+category: llm-patterns
 ---
 
 # AI & Machine Learning

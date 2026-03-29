@@ -1,6 +1,7 @@
 ---
 name: serde-schema-evolution-testing
 description: "Testing & QA. (Backward-Compatible Data Roundtrip Testing) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+category: testing-qa
 ---
 
 # Testing & QA

@@ -1,6 +1,7 @@
 ---
 name: cli-history-parsing
 description: "CLI & Tooling. (Progressive Time-Window Mining) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+category: cli-tooling
 ---
 
 # CLI & Tooling

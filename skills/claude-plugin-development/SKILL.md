@@ -1,6 +1,7 @@
 ---
 name: claude-plugin-development
 description: "CLI & Tooling. (marketplace.json Source Format Compliance) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+category: claude-config
 ---
 
 # CLI & Tooling

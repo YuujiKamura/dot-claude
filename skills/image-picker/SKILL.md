@@ -1,6 +1,7 @@
 ---
 name: image-picker
 description: ImagePickerコンポーネントの実装パターン。(1) カメラ撮影とファイル選択の統合、(2) Base64とDataURLの両方取得、(3) コンパクトモード表示。画像選択、ImagePicker、カメラ、ギャラリー、アップロード、Reactコンポーネントと言われた時に使用。
+category: web-frontend
 ---
 
 # ImagePicker コンポーネント

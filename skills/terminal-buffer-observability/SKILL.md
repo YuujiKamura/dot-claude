@@ -1,6 +1,7 @@
 ---
 name: terminal-buffer-observability
 description: "CLI & Tooling. (Decoupled Terminal Buffer Scraping for Remote Monitoring) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+category: agent-orchestration
 ---
 
 # CLI & Tooling

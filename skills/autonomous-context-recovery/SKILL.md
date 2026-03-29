@@ -1,6 +1,7 @@
 ---
 name: autonomous-context-recovery
 description: "AI & Machine Learning. (Search-Based Context Recovery Strategies) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+category: llm-patterns
 ---
 
 # AI & Machine Learning
@@ -20,7 +21,7 @@ Truly autonomous agents should attempt to 'unblock' themselves by discovering mi
 ### Examples
 
 ```bash
-glob --pattern "C:\Users\yuuji\.gemini\tmp\**\*.json"
+glob --pattern "~\.gemini\tmp\**\*.json"
 ```
 
 

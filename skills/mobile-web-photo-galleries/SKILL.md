@@ -1,6 +1,7 @@
 ---
 name: mobile-web-photo-galleries
 description: "Web Development. (Mobile Optimization for Large Image Timelines) Use when user mentions: React, Vue, Next.js, CSS, HTML, frontend, backend, API, REST, GraphQL."
+category: web-frontend
 ---
 
 # Web Development

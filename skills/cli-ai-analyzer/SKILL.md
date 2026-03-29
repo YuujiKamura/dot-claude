@@ -9,7 +9,7 @@ project: photo-ai
 
 複数のAI CLIツール（Gemini, Claude, Ollama）を統一インターフェースで呼び出すRustライブラリ。プロジェクトごとにAIバックエンドを変えても呼び出しコードを変更する必要がない。
 
-- **リポジトリ**: `C:/Users/yuuji/cli-ai-analyzer`
+- **リポジトリ**: `~/cli-ai-analyzer`
 - **GitHub**: https://github.com/YuujiKamura/cli-ai-analyzer
 
 ## 対応バックエンド
@@ -110,19 +110,19 @@ cli-ai-analyzer compare contract.pdf estimate.pdf
 
 ### ShoruiChecker
 
-- **パス**: `C:/Users/yuuji/ShoruiChecker`
+- **パス**: `~/ShoruiChecker`
 - **用途**: PDFファイルの整合性をAIで解析するWindowsデスクトップアプリ
 - **統合方法**: `src-tauri/src/gemini_cli.rs` で Gemini CLI を呼び出し
 
 ### photo-ai-rust
 
-- **パス**: `C:/Users/yuuji/photo-ai-rust`
+- **パス**: `~/photo-ai-rust`
 - **用途**: 工事写真のAI解析・黒板OCR・写真台帳生成
 - **統合方法**: Claude CLI を使用して写真解析
 
 ### SekouTaiseiMaker
 
-- **パス**: `C:/Users/yuuji/SekouTaiseiMaker`
+- **パス**: `~/SekouTaiseiMaker`
 - **用途**: 施工体制台帳管理・PDF書類のAIチェック
 - **統合方法**: Gemini API（HTTP）で書類チェック
 

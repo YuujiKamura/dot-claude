@@ -1,6 +1,7 @@
 ---
 name: claude-plugin-dev
 description: "CLI & Tooling. (Cross-Platform Polyglot Hook Implementation) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+category: claude-config
 ---
 
 # CLI & Tooling

@@ -1,6 +1,7 @@
 ---
 name: architectural-coupling-audit
 description: "Testing & QA. (Strength-Distance-Variability Review Rubric) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+category: testing-qa
 ---
 
 # Testing & QA

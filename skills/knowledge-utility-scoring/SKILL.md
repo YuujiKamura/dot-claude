@@ -1,6 +1,7 @@
 ---
 name: knowledge-utility-scoring
 description: "CLI & Tooling. (Skill Dormancy and Productivity Scoring) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+category: skill-mining-meta
 ---
 
 # CLI & Tooling

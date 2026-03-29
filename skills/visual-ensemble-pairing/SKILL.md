@@ -1,4 +1,5 @@
 ---
+category: llm-patterns
 name: visual-ensemble-pairing
 description: "AI & Machine Learning. (Visual Grid Ensemble for VLM Matching) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
 ---

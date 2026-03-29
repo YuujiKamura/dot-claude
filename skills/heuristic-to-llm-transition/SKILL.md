@@ -1,6 +1,7 @@
 ---
 name: heuristic-to-llm-transition
 description: "CLI & Tooling. (Replacing Heuristic Chains with Structured LLM Inference) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+category: agent-orchestration
 ---
 
 # CLI & Tooling

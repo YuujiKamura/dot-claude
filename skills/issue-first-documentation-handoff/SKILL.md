@@ -1,6 +1,7 @@
 ---
 name: issue-first-documentation-handoff
 description: "Documentation. (Issue numbering consistency is part of documentation correctness) Use when user mentions: README, docs, documentation, tutorial, guide, comment."
+category: custom-command
 ---
 
 # Documentation

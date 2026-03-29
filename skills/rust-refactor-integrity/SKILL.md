@@ -1,6 +1,7 @@
 ---
 name: rust-refactor-integrity
 description: "Testing & QA. (Rust Structural Refactoring Integrity) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+category: testing-qa
 ---
 
 # Testing & QA

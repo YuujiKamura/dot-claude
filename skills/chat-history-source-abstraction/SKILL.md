@@ -1,6 +1,7 @@
 ---
 name: chat-history-source-abstraction
 description: "CLI & Tooling. (Abstract conversation discovery by carrier-specific strategy) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+category: skill-mining-meta
 ---
 
 # CLI & Tooling

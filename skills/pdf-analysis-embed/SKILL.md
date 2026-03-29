@@ -9,7 +9,7 @@ project: photo-ai
 PDFに解析結果を埋め込み、後から読み出せるRustライブラリ。解析結果がPDF自体に埋め込まれるため、再解析不要でファイル管理がシンプルになる。
 
 ## リポジトリ
-- パス: `C:/Users/yuuji/pdf-analysis-embed`
+- パス: `~/pdf-analysis-embed`
 
 ## なぜこれが画期的か
 

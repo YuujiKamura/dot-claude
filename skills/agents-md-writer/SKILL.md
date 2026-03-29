@@ -1,5 +1,6 @@
 ---
 description: AGENTS.mdとNon-negotiables（破ってはいけないルール）の書き方ガイド。(1) ワークストリーム定義、(2) 絶対ルールの明文化、(3) 哲学・原則の記述、(4) リソース制限、(5) テスト組織。AGENTS.md、Non-negotiables、ルール、明文化、AIエージェント設定と言われた時に使用。
+category: claude-config
 keywords: [AGENTS.md, Non-negotiables, ルール, 明文化, エージェント, 設定, CLAUDE.md]
 ---
 

@@ -1,6 +1,7 @@
 ---
 name: line-browser-payload-limits
 description: "Web Development. (LINE In-App Browser Payload Optimization) Use when user mentions: React, Vue, Next.js, CSS, HTML, frontend, backend, API, REST, GraphQL."
+category: web-frontend
 ---
 
 # Web Development

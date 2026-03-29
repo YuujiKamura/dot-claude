@@ -1,6 +1,7 @@
 ---
 name: high-fidelity-mining-budgeting
 description: "AI & Machine Learning. (LLM Context Budgeting for Pattern Mining) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+category: skill-mining-meta
 ---
 
 # AI & Machine Learning

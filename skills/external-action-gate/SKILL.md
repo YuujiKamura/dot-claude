@@ -1,6 +1,7 @@
 ---
 name: external-action-gate
 description: 外部リポジトリ・外部サービスへのアクション前に停止。gh pr create、gh issue create、git push（自分のフォークへのpush含む）、外部APIへのPOST等を実行しようとしたときに発火。PR、push、issue、送信、投稿、コメント、upstream、本家、contribute
+category: behavior-guard
 ---
 
 # 外部アクションゲート

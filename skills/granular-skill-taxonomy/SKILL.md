@@ -1,6 +1,7 @@
 ---
 name: granular-skill-taxonomy
 description: "CLI & Tooling. (Topic-Level Skill Generation) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+category: skill-mining-meta
 ---
 
 # CLI & Tooling

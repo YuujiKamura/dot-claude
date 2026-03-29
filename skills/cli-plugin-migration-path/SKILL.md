@@ -1,6 +1,7 @@
 ---
 name: cli-plugin-migration-path
 description: "CLI & Tooling. (Hook-Based vs. MCP Plugin Architecture) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+category: cli-tooling
 ---
 
 # CLI & Tooling

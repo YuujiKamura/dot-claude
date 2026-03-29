@@ -1,6 +1,7 @@
 ---
 name: oss-contribution-etiquette
 description: "CLI & Tooling. (Upstream Contribution Hygiene) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+category: behavior-guard
 ---
 
 # CLI & Tooling

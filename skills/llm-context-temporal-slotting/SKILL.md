@@ -1,6 +1,7 @@
 ---
 name: llm-context-temporal-slotting
 description: "AI & Machine Learning. (Context Window Management via Temporal Slotting) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+category: llm-patterns
 ---
 
 # AI & Machine Learning

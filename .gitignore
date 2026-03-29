@@ -27,6 +27,11 @@ skills/gstack/dist/
 # Backups
 backups/
 
+# Archive (contains domain-specific business data)
+skills/_archive_*/
+skills/drafts/
+skills/drafts.bak.*/
+
 # External/third-party skills (license unverified)
 skills/ai-centric-cli-ux/
 skills/autoplan/

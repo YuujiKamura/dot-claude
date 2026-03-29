@@ -1,6 +1,7 @@
 ---
 name: ai-temporal-summarization
 description: "AI & Machine Learning. (Optimizing Temporal Granularity for AI Activity Summaries) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+category: llm-patterns
 ---
 
 # AI & Machine Learning

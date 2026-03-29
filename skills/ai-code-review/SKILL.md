@@ -4,7 +4,7 @@ AIによる自動コードレビュークレート
 
 ## 場所
 
-`C:/Users/yuuji/ai-code-review/`
+`~/ai-code-review/`
 
 ## 概要
 

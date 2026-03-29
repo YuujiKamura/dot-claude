@@ -38,7 +38,7 @@ PDFファイルの整合性をAI(Gemini)で解析するWindowsデスクトップ
 ## ディレクトリ構造
 
 ```
-C:/Users/yuuji/ShoruiChecker/
+~/ShoruiChecker/
 ├── src/                          # フロントエンド
 │   ├── index.html               # メインHTML
 │   ├── main.js                  # メインJavaScript

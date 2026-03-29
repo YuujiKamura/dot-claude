@@ -1,6 +1,7 @@
 ---
 name: ai-log-filtering-strategy
 description: "AI & Machine Learning. (Strategic Pre-Summarization Filtering) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+category: llm-patterns
 ---
 
 # AI & Machine Learning

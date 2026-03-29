@@ -1,6 +1,7 @@
 ---
 name: theme-switcher
 description: ライト/ダークテーマ切替。(1) localStorageでのテーマ永続化、(2) Tailwindでの条件付きクラス適用、(3) システム設定との連動。テーマ、ダークモード、ライトモード、テーマ切替、Tailwind、UI設定と言われた時に使用。
+category: web-frontend
 ---
 
 # Theme Switcher パターン

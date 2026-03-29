@@ -1,6 +1,7 @@
 ---
 name: hallucination-resistance-patterns
 description: "AI & Machine Learning. (Resisting Instruction-Induced Hallucination) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+category: llm-patterns
 ---
 
 # AI & Machine Learning
