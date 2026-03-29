@@ -1,6 +1,6 @@
 ---
 name: claude-md-optimization
-description: "Documentation. (Context-Efficient Local Instruction Engineering) Use when user mentions: README, docs, documentation, tutorial, guide, comment."
+description: "CLAUDE.mdを最小20行に絞りコンテキスト効率最大化。Use when: CLAUDE.md肥大化, context dilution, 指示過多"
 category: claude-config
 ---
 

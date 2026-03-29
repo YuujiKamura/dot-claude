@@ -1,6 +1,6 @@
 ---
 name: windows-smoke-verification
-description: "Testing & QA. (Granular Permission & Shell Verification Sequence) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+description: "CMD→PowerShell段階的smokeファイルで環境権限を検証。Use when: Windows write permission, smoke-1 test, shell compatibility, environment setup"
 category: testing-qa
 ---
 

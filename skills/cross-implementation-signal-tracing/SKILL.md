@@ -1,6 +1,6 @@
 ---
 name: cross-implementation-signal-tracing
-description: "AI & Machine Learning. (Signal Path Tracing for Terminal UI Porting) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "ターミナルUI移植時のシグナルギャップ検出法。Use when: scroll-to-bottom, VisualTreeHelper, D3D11 renderer, XAML Islands event, tab close signal"
 project: ghostty-win
 ---
 

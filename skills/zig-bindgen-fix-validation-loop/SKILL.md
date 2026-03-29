@@ -1,6 +1,6 @@
 ---
 name: zig-bindgen-fix-validation-loop
-description: "WinUI3, WinRT, Zig, COM. (Avoid architecture-prompt code churn without compile-backed evidence) Use when user mentions: WinUI3, WinRT, Zig, COM, vtable, ghostty, XAML."
+description: "Reject bindgen rewrites without compile error evidence. Use when: emit.zig churn, IUnknown/IInspectable rewrite, unvalidated patch"
 project: ghostty-win
 ---
 

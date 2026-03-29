@@ -1,6 +1,6 @@
 ---
 name: win-native-ui-architecture
-description: "Miscellaneous. (Platform-Native Reference Alignment) Use when user mentions: ."
+description: "GTK移植の複雑性→WT準拠のWindows-nativeアーキテクチャに切替。Use when: forced port, GTK paradigm, platform-native, WT alignment, WinUI3 XAML Islands"
 project: ghostty-win
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: self-referential-cli-mining
-description: "CLI & Tooling. (State Recovery via Tool Dogfooding) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "Use skill-miner to mine its own logs for context recovery. Use when: lost session context, dogfooding, --dry-run, ~/.claude/skills/drafts/ bootstrap."
 project: skill-miner
 ---
 

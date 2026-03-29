@@ -1,6 +1,6 @@
 ---
 name: headless-agent-governance
-description: "CLI & Tooling. (Strict Enum-Based Approval Configuration) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "enum厳密バリデーションでヘッドレスエージェント自動承認を設定。Use when: auto_edit, yolo rejected, headless agent, approval enum"
 category: cli-tooling
 ---
 

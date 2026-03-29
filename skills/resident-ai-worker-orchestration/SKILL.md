@@ -1,6 +1,6 @@
 ---
 name: resident-ai-worker-orchestration
-description: "AI & Machine Learning. (Decoupled Persistent Session Management) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "winui3-ai-worker.ps1で常駐AIワーカーをセッション管理。Use when: persistent agent session, wt-ai-claude, wt-ai-gemini, relay pattern, Start/Send/Status"
 project: ghostty-win
 ---
 

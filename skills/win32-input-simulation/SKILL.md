@@ -1,6 +1,6 @@
 ---
 name: win32-input-simulation
-description: "WinUI3, WinRT, Zig, COM. (Robust Input Simulation for Native Stress Testing) Use when user mentions: WinUI3, WinRT, Zig, COM, vtable, ghostty, XAML."
+description: "SendInput+KEYBDINPUT でWinUI3アプリのストレステスト。Use when: input simulation, SendInput, KEYBDINPUT, rapid-fire crash, mode 9001, focus race"
 project: ghostty-win
 ---
 

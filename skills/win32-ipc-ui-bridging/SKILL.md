@@ -1,6 +1,6 @@
 ---
 name: win32-ipc-ui-bridging
-description: "CLI & Tooling. (IPC-to-UI Thread Bridging) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "IPC thread to UI thread bridging via PostMessage. Use when: Named Pipe, WM_APP, thread safety, background IPC, UI thread crash"
 project: ghostty-win
 ---
 

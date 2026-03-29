@@ -1,6 +1,6 @@
 ---
 name: claude-plugin-dev
-description: "CLI & Tooling. (Cross-Platform Polyglot Hook Implementation) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "Git Bash検出付きcross-platform .cmdフックラッパー。Use when: Windows+Unix hook, run-hook.cmd, bash detection"
 category: claude-config
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: rust-document-automation
-description: "Miscellaneous. (Key-Based Document Layout Control) Use when user mentions: ."
+description: "FieldKey enumでラベルとロジックを分離しPDF/CSV生成を安定化。Use when: FieldKey, conditional visibility, empty label, Rust PDF"
 category: pdf-document
 ---
 

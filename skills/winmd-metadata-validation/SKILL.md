@@ -1,6 +1,6 @@
 ---
 name: winmd-metadata-validation
-description: "WinUI3, WinRT, Zig, COM. (Automated Metadata Truth-Checking) Use when user mentions: WinUI3, WinRT, Zig, COM, vtable, ghostty, XAML."
+description: "WinMD-driven vtable slot validation via PowerShell/win-zig-bindgen. Use when: IFrameworkElement, IID mismatch, off-by-one slot, winmd-iid-check"
 project: ghostty-win
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: autonomous-context-recovery
-description: "AI & Machine Learning. (Search-Based Context Recovery Strategies) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "grep/glob/list_directoryで不足データを自律探索して自己復旧。Use when: context recovery, autonomous unblock, proactive discovery"
 category: llm-patterns
 ---
 

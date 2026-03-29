@@ -1,6 +1,6 @@
 ---
 name: rust-incremental-data-mining
-description: "Testing & QA. (Incremental Time-Window Mining Validation) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+description: "スライディングウィンドウ+停止条件でログマイニングの無限ループ防止。Use when: cursor_hours, window_hours, max recursion depth, time-window merge"
 category: testing-qa
 ---
 

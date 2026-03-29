@@ -1,6 +1,6 @@
 ---
 name: xaml-islands-ime-handling
-description: "Miscellaneous. (TSF-based IME Redirection) Use when user mentions: ."
+description: "SwapChainPanel lacks IME context; redirect to TextBox for TSF. Use when: VK_PROCESSKEY, ime_text_box, keyboard_focus_target, IME toggle"
 project: ghostty-win
 ---
 

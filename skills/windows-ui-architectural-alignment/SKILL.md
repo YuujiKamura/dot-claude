@@ -1,6 +1,6 @@
 ---
 name: windows-ui-architectural-alignment
-description: "Miscellaneous. (Windows Terminal Architecture Alignment) Use when user mentions: ."
+description: "Align with WT OpenConsole architecture over GTK patterns. Use when: NonClientIslandWindow, tab management, window chrome, cross-platform noise"
 project: ghostty-win
 ---
 

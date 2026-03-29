@@ -1,7 +1,7 @@
 ---
 category: llm-patterns
 name: visual-ensemble-pairing
-description: "AI & Machine Learning. (Visual Grid Ensemble for VLM Matching) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "コンタクトシート+アンサンブル投票で画像ペアリング10%→90%。Use when: VLM matching, contact sheet grid, ensemble vote, image pairing"
 ---
 
 # AI & Machine Learning

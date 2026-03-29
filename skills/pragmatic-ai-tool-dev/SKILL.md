@@ -1,6 +1,6 @@
 ---
 name: pragmatic-ai-tool-dev
-description: "AI & Machine Learning. (Simplicity in Safety-Critical Refactoring) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "危険なAIエラーの修正はインターフェース改善が最速。Use when: safety-critical fix, tool description, default flag, minimal refactor"
 category: agent-orchestration
 ---
 

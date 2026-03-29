@@ -1,6 +1,6 @@
 ---
 name: progressive-mining
-description: "AI & Machine Learning. (Progressive Temporal Window Mining) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "Expanding time windows (12h, 24h) with mined_ids HashSet for incremental history mining. Use when: large-scale log mining, batch token limits, resume mining."
 project: skill-miner
 ---
 

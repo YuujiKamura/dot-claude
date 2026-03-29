@@ -1,6 +1,6 @@
 ---
 name: zig-build-first-failure-triage
-description: "WinUI3, WinRT, Zig, COM. (Prioritize direct compiler diagnostics over speculative source digging) Use when user mentions: WinUI3, WinRT, Zig, COM, vtable, ghostty, XAML."
+description: "Read -freference-trace first, ignore std/start.zig frames. Use when: zig build error, callMain, WinStartup, compilation errors, type mismatch"
 project: ghostty-win
 ---
 

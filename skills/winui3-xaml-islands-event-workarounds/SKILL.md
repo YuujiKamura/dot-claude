@@ -1,6 +1,6 @@
 ---
 name: winui3-xaml-islands-event-workarounds
-description: "Documentation. (XAML Islands Event Silence Recovery) Use when user mentions: README, docs, documentation, tutorial, guide, comment."
+description: "TabCloseRequested silent fail workaround via polling and WM_APP. Use when: event not firing, TabItems.Size, Islands event swallowed, os.zig"
 project: ghostty-win
 ---
 

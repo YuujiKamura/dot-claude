@@ -1,6 +1,6 @@
 ---
 name: claude-skill-catalog-integration
-description: "CLI & Tooling. (Distinguish rule-file loading from large skill-catalog onboarding) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "スキルカタログ一括インポートとCLAUDE.mdルールの区別。Use when: skill catalog import, 大量スキル読み込み, skills refresh"
 category: claude-config
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: llm-context-optimization
-description: "AI & Machine Learning. (Actionable Pattern Mining via High-Density Context) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "truncation 2000/3000 chars + take(40)でコード詳細を保持。Use when: pattern mining, truncation limit, context expansion"
 category: llm-patterns
 ---
 

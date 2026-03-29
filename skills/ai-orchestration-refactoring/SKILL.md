@@ -1,6 +1,6 @@
 ---
 name: ai-orchestration-refactoring
-description: "Miscellaneous. (Agent-Team Audit for Architectural Debt) Use when user mentions: ."
+description: "複雑な調査結果→チーム並列監査にピボット。Use when: architectural debt, WT比較, gap analysis, meaningless complexity, team audit"
 project: ghostty-win
 ---
 

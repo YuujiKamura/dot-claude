@@ -1,6 +1,6 @@
 ---
 name: oss-contribution-etiquette
-description: "CLI & Tooling. (Upstream Contribution Hygiene) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "upstream PRの前にfork隔離必須。Use when: upstream contribution, gh repo fork, microsoft/terminal, etiquette failure"
 category: behavior-guard
 ---
 

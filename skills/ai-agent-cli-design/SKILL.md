@@ -1,6 +1,6 @@
 ---
 name: ai-agent-cli-design
-description: "AI & Machine Learning. (Safety-First CLI Defaults for AI Agents, Subcommand Discovery via Agent Documentation) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "Dry-run default and read-only subcommand discovery for agent-operated CLIs. Use when: agent safety, dry-run, destructive command guard, tool description."
 project: skill-miner
 ---
 

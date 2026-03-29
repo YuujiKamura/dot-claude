@@ -1,6 +1,6 @@
 ---
 name: winui3-custom-titlebar
-description: "Miscellaneous. (Interactive Title Bar Extension Safety) Use when user mentions: ."
+description: "ExtendsContentIntoTitleBar drag bar safety. Use when: drag_bar.zig, window drag broken, Z-order overlap, non-client area, caption"
 project: ghostty-win
 ---
 

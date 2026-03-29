@@ -1,6 +1,6 @@
 ---
 name: rust-refactor-integrity
-description: "Testing & QA. (Rust Structural Refactoring Integrity) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+description: "Rustモジュール移動時の循環依存・公開API・delegation wrapper検証。Use when: mod refactor, circular dependency, backward-compatible wrapper"
 category: testing-qa
 ---
 

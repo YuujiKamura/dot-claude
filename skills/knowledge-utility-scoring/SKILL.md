@@ -1,6 +1,6 @@
 ---
 name: knowledge-utility-scoring
-description: "CLI & Tooling. (Skill Dormancy and Productivity Scoring) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "fire_count+last_fired_at+productive_rateでスキル有用性を定量評価。Use when: dormancy penalty, skill scoring, consolidation"
 category: skill-mining-meta
 ---
 

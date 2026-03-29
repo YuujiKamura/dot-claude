@@ -1,6 +1,6 @@
 ---
 name: zig-winrt-vtable-mastery
-description: "WinUI3, WinRT, Zig, COM, vtable, ghostty. (WinRT COM VTable Mastery in Zig) Use when user mentions: WinUI3, WinRT, Zig, COM, vtable, ghostty, XAML."
+description: "WinMD slot alignment, callconv(.winapi), *?*anyopaque out-params, lifecycle vs layout triage. Use when: vtable segfault, put_Background, IID"
 project: ghostty-win
 ---
 

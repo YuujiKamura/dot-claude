@@ -1,6 +1,6 @@
 ---
 name: terminal-control-plane-interop
-description: "AI & Machine Learning. (Control Plane IPC for AI-Terminal Integration) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "Named Pipe CP経由でタブ管理・入力注入。Use when: control plane Named Pipe, WM_USER+6, PostMessageW, tab IPC, agent-terminal integration"
 project: ghostty-win
 ---
 

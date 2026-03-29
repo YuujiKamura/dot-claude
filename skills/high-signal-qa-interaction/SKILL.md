@@ -1,6 +1,6 @@
 ---
 name: high-signal-qa-interaction
-description: "Testing & QA. (Zero-Verbosity Protocol for Log Purity) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+description: "説明不要指示でQAログのS/N比を最大化。Use when: 説明不要, zero-verbosity, log purity, regex parser compatibility"
 category: testing-qa
 ---
 

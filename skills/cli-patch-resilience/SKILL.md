@@ -1,6 +1,6 @@
 ---
 name: cli-patch-resilience
-description: "CLI & Tooling. (Handling Escape-Heavy Payloads in Automated Patching) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "バックスラッシュ多発ペイロードのpatch適用失敗回避。Use when: patch mangle, backslash, heredoc, Windows path, base64 payload"
 category: cli-tooling
 ---
 

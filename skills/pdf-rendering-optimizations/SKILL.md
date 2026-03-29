@@ -1,6 +1,6 @@
 ---
 name: pdf-rendering-optimizations
-description: "CLI & Tooling. (Object Identity Mapping in PDF Image Replacement) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "PDF Page tree+XObject辞書のObjectId順走査で画像を正確に差し替え。Use when: PDF image replace, ObjectId order, XObject Resources"
 category: pdf-document
 ---
 

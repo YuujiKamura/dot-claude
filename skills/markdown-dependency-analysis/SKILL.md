@@ -1,6 +1,6 @@
 ---
 name: markdown-dependency-analysis
-description: "CLI & Tooling. (Inter-Knowledge Dependency Mapping) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "スキル間のMarkdownLink/SkillRef/ProjectPath依存を有向グラフで追跡。Use when: skill bundle export, broken link, dependency graph"
 category: skill-mining-meta
 ---
 

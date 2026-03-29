@@ -1,6 +1,6 @@
 ---
 name: cli-workflow-design
-description: "CLI & Tooling. (Decoupling CLI Tools from Ephemeral File Structures) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "中間ディレクトリ依存を排しJSON直接注入でCLIを疎結合化。Use when: temp folder dependency, P-folder, metadata JSON, isolated rerun"
 category: cli-tooling
 ---
 

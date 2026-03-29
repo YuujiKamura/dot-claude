@@ -1,6 +1,6 @@
 ---
 name: qa-output-integrity-checks
-description: "Testing & QA. (Completeness and schema validity are QA outcomes, not formatting niceties) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+description: "JSON truncation/欠損フィールドはQA失敗。Use when: jq empty, schema completeness, truncated output, format integrity gate"
 category: testing-qa
 ---
 

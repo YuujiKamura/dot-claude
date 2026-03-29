@@ -1,6 +1,6 @@
 ---
 name: skill-mining-noise-reduction
-description: "AI & Machine Learning. (Instruction-Noise Filtering in Skill Mining) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "Negative prompt constraints + frequency>=2 filter to exclude git/build/claude-p noise. Use when: skill-miner extracting generic ops, infrastructure noise."
 project: skill-miner
 ---
 

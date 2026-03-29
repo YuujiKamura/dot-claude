@@ -1,6 +1,6 @@
 ---
 name: zig-winui3-build-tuning
-description: "Testing & QA. (Selective Safety Disabling for UI Interactivity) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+description: "-Dslow-safety=false for responsive debug builds. Use when: debug build slow, COM boundary overhead, build-winui3.sh flags, winui3 runtime"
 project: ghostty-win
 ---
 

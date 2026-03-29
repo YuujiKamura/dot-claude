@@ -1,6 +1,6 @@
 ---
 name: cjk-terminal-font-metrics
-description: "WinUI3, WinRT, Zig, COM. (Full-width CJK Glyph Metric Calculation) Use when user mentions: WinUI3, WinRT, Zig, COM, vtable, ghostty, XAML."
+description: "全角CJK文字の2セル幅レンダリング修正。Use when: CJK glyph clipping, U+3002, full-width half-width, advance width, font fallback, grid alignment"
 project: ghostty-win
 ---
 

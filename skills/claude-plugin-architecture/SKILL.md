@@ -1,6 +1,6 @@
 ---
 name: claude-plugin-architecture
-description: "CLI & Tooling. (Cross-Platform Event Hooks) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "hooks.jsonでSessionEnd等のイベントフック。Use when: SessionEnd hook, run-hook.cmd, CLAUDE_PLUGIN_ROOT, polyglot script"
 category: claude-config
 ---
 

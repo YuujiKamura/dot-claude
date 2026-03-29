@@ -1,6 +1,6 @@
 ---
 name: multi-agent-session-lifecycle
-description: "Agent Orchestration. (session add/send/watch, tmux-equivalent CP operations, tool-agnostic design) Use when user mentions: multi-agent, agent-deck session, coordination, lifecycle, session add, session send, watch."
+description: "agent-deck = tmux over Named Pipes。session add/send/watch, TAIL/PING/RAW_INPUT。Use when: agent-deck lifecycle, CP session, tool-agnostic polling, dead pipe recovery"
 project: ghostty-win
 ---
 

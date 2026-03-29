@@ -1,6 +1,6 @@
 ---
 name: llm-workflow-observability
-description: "AI & Machine Learning. (Pipeline Bypass for Multi-Stage LLM Debugging) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "Stage bypass flags (--no-summarize) and modular prompt .txt files for multi-model debugging. Use when: extraction failure diagnosis, A/B prompt testing."
 project: skill-miner
 ---
 

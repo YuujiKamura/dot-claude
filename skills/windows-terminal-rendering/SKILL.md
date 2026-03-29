@@ -1,6 +1,6 @@
 ---
 name: windows-terminal-rendering
-description: "WinUI3, WinRT, Zig, COM. (D3D11 vs. OpenGL VSync Jitter Mitigation) Use when user mentions: WinUI3, WinRT, Zig, COM, vtable, ghostty, XAML."
+description: "D3D11 Flip Model vs OpenGL DwmFlush for frame pacing. Use when: VSync jitter, DXGI_SWAP_EFFECT_FLIP_DISCARD, frame drop, rendering lag"
 project: ghostty-win
 ---
 

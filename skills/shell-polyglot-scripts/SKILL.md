@@ -1,6 +1,6 @@
 ---
 name: shell-polyglot-scripts
-description: "CLI & Tooling. (Cross-Platform Polyglot .cmd Construction) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "Windows CMD + POSIX sh 両対応のpolyglot .cmdスクリプト構築。Use when: cross-platform script, .cmd polyglot, bash+cmd dual"
 category: cli-tooling
 ---
 

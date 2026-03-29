@@ -1,6 +1,6 @@
 ---
 name: xaml-message-loop-interception
-description: "Miscellaneous. (Proactive Message Interception in PreviewKeyDown) Use when user mentions: ."
+description: "XAML steals WM_KEYDOWN; use PreviewKeyDown on root. Use when: WndProc not receiving keys, XAML focus navigation, handled flag"
 project: ghostty-win
 ---
 

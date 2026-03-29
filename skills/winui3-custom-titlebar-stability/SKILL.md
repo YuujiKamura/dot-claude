@@ -1,6 +1,6 @@
 ---
 name: winui3-custom-titlebar-stability
-description: "Testing & QA. (Non-Client Island Drag-Bar Pattern) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+description: "WT NonClientIslandWindow drag-bar pattern over SetTitleBar. Use when: UI thread deadlock, Issue #42, SetTitleBar freeze, window chrome"
 project: ghostty-win
 ---
 

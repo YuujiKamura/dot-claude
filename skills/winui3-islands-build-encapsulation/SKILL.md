@@ -1,6 +1,6 @@
 ---
 name: winui3-islands-build-encapsulation
-description: "Documentation. (WinUI3 Islands Build Lifecycle Management) Use when user mentions: README, docs, documentation, tutorial, guide, comment."
+description: "build-winui3.sh wrapper and XAML manifest for Islands builds. Use when: zig build fail, MSVC env, resource compilation, missing UI component"
 project: ghostty-win
 ---
 

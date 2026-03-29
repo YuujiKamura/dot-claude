@@ -1,6 +1,6 @@
 ---
 name: backward-compatible-data-mining
-description: "AI & Machine Learning. (Robust Schema Evolution for Mined Data) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "serde(default) + skip_serializing_if でマニフェスト後方互換。Use when: mined_ids, schema evolution, legacy file parse"
 category: llm-patterns
 ---
 

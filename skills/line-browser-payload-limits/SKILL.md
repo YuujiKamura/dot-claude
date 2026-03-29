@@ -1,6 +1,6 @@
 ---
 name: line-browser-payload-limits
-description: "Web Development. (LINE In-App Browser Payload Optimization) Use when user mentions: React, Vue, Next.js, CSS, HTML, frontend, backend, API, REST, GraphQL."
+description: "LINE内ブラウザ9-10MBペイロード上限の最適化。Use when: HTML file size, 7MB cap, photo count limit, multi-file split, SPA crash"
 category: web-frontend
 ---
 

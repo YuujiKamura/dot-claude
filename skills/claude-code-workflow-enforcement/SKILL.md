@@ -1,6 +1,6 @@
 ---
 name: claude-code-workflow-enforcement
-description: "Documentation. (Mandatory Parallel Team Execution) Use when user mentions: README, docs, documentation, tutorial, guide, comment."
+description: "Plan承認後のチーム並列実行を強制。Use when: Plan→Team, 並列実行禁止違反, 一人で順番にやるな"
 category: claude-config
 ---
 

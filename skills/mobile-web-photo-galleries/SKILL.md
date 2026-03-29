@@ -1,6 +1,6 @@
 ---
 name: mobile-web-photo-galleries
-description: "Web Development. (Mobile Optimization for Large Image Timelines) Use when user mentions: React, Vue, Next.js, CSS, HTML, frontend, backend, API, REST, GraphQL."
+description: "大量写真タイムラインのモバイル最適化戦略。Use when: 600+ images, index page, base64 preview, Drive native viewer, LINE crash"
 category: web-frontend
 ---
 

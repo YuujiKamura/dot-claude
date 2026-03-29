@@ -1,6 +1,6 @@
 ---
 name: base64-standalone-web-pages
-description: "Web Development. (Base64 Embedding for Path-Independent Portability) Use when user mentions: React, Vue, Next.js, CSS, HTML, frontend, backend, API, REST, GraphQL."
+description: "Base64画像埋め込みでGoogle Drive等のパス制限を回避。Use when: base64 embed, photoMeta, 800x600 preview, Drive hosted HTML"
 category: web-frontend
 ---
 

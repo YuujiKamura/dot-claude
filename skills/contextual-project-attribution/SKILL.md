@@ -1,6 +1,6 @@
 ---
 name: contextual-project-attribution
-description: "CLI & Tooling. (Metadata-Driven Activity Mapping) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "working_dirメタデータでマルチプロジェクト活動を正確に分類。Use when: project attribution, working_dir, misattribution, LLM classifier"
 category: cli-tooling
 ---
 

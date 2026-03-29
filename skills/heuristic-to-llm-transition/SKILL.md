@@ -1,6 +1,6 @@
 ---
 name: heuristic-to-llm-transition
-description: "CLI & Tooling. (Replacing Heuristic Chains with Structured LLM Inference) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "if-chainヒューリスティックをSlotContext+LLM推論に置換。Use when: heuristic fragile, project classification, context struct"
 category: agent-orchestration
 ---
 

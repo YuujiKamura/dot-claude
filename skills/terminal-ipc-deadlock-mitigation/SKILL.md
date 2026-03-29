@@ -1,6 +1,6 @@
 ---
 name: terminal-ipc-deadlock-mitigation
-description: "CLI & Tooling. (Terminal IPC Deadlock Prevention) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "IPC→UIスレッド間デッドロック防止の非同期パターン。Use when: IPC deadlock, UI thread hang, short-lived lock, async callback"
 category: agent-orchestration
 ---
 

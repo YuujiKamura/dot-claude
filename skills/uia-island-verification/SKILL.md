@@ -1,6 +1,6 @@
 ---
 name: uia-island-verification
-description: "Documentation. (UIA-Based Testing for Islands UI) Use when user mentions: README, docs, documentation, tutorial, guide, comment."
+description: "XAML IslandsのUIA AutomationId+InvokePatternテスト。Use when: UIA test, AutomationId, InvokePattern, tab close verify, PowerShell UIA"
 project: ghostty-win
 ---
 

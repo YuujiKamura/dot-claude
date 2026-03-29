@@ -1,6 +1,6 @@
 ---
 name: cli-patch-payload-safety
-description: "CLI & Tooling. (Escaped Payload Handling in Patches) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "apply_patchがエスケープ/base64ペイロードを壊す問題の回避策。Use when: patch corruption, backslash mangling, IPC payload, heredoc, quoting"
 project: ghostty-win
 ---
 

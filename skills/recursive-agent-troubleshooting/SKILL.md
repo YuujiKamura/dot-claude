@@ -1,6 +1,6 @@
 ---
 name: recursive-agent-troubleshooting
-description: "AI & Machine Learning. (Meta-Recursive Troubleshooting in Agentic Sessions) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "前セッションのJSON失敗ログを診断入力として再帰的に活用。Use when: recursive session, .gemini/tmp, previous agent failure analysis"
 category: llm-patterns
 ---
 

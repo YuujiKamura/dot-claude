@@ -1,6 +1,6 @@
 ---
 name: llm-pipeline-optimization
-description: "AI & Machine Learning. (Decoupling Noise Reduction from Semantic Extraction) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "Separate summarize.txt and extract.txt pipeline stages to avoid instruction dilution. Use when: prompt bloat, lost-in-the-middle, two-stage LLM chain."
 project: skill-miner
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: granular-skill-taxonomy
-description: "CLI & Tooling. (Topic-Level Skill Generation) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "粗いドメインカテゴリからトピック単位slugへスキル粒度を細分化。Use when: skill slug naming, coarse category, CLAUDE.md noise filter"
 category: skill-mining-meta
 ---
 

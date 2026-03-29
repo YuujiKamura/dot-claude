@@ -1,6 +1,6 @@
 ---
 name: claude-plugin-development
-description: "CLI & Tooling. (marketplace.json Source Format Compliance) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "marketplace.json sourceフィールドのスキーマ準拠。Use when: plugin manifest, marketplace.json, source field validation"
 category: claude-config
 ---
 

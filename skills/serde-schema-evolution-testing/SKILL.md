@@ -1,6 +1,6 @@
 ---
 name: serde-schema-evolution-testing
-description: "Testing & QA. (Backward-Compatible Data Roundtrip Testing) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+description: "serde(default)+skip_serializing_ifでTOML/JSON roundtrip非破壊検証。Use when: schema migration, roundtrip test, optional field evolution"
 category: testing-qa
 ---
 

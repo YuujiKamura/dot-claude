@@ -1,6 +1,6 @@
 ---
 name: zig-winrt-com-interop
-description: "WinUI3, WinRT, Zig, COM, vtable, ghostty. (Pure Zig WinRT Architecture + ABI Hidden Pointers) Use when user mentions: WinUI3, WinRT, Zig, COM, vtable, ghostty, XAML."
+description: "Pure Zig IInspectable vtable mapping + x64 hidden pointer for 16-byte structs. Use when: TypeName ABI crash, @ptrCast alignment, segfault"
 project: ghostty-win
 ---
 

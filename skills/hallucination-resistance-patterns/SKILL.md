@@ -1,6 +1,6 @@
 ---
 name: hallucination-resistance-patterns
-description: "AI & Machine Learning. (Resisting Instruction-Induced Hallucination) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "JSON schema制約がfake data生成を誘発する問題への対策。Use when: hallucination from schema, refuse and redirect, data gap"
 category: llm-patterns
 ---
 

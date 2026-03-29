@@ -1,6 +1,6 @@
 ---
 name: line-browser-compatibility
-description: "Web Development. (LINE In-App Browser Constraints Management) Use when user mentions: React, Vue, Next.js, CSS, HTML, frontend, backend, API, REST, GraphQL."
+description: "LINEアプリ内ブラウザのクラッシュ回避策。Use when: LINE browser crash, 8-10MB limit, base64 image count, system browser redirect"
 category: web-frontend
 ---
 

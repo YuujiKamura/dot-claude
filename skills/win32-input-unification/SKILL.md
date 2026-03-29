@@ -1,6 +1,6 @@
 ---
 name: win32-input-unification
-description: "WinUI3, WinRT, Zig, COM. (Atomic Win32 Keyboard Event Handling) Use when user mentions: WinUI3, WinRT, Zig, COM, vtable, ghostty, XAML."
+description: "WM_KEYDOWN+WM_CHARをpending_keyで1トランザクション化し入力重複防止。Use when: input drift, //rr duplication, WM_KEYDOWN WM_CHAR, PendingKey, keystroke"
 project: ghostty-win
 ---
 

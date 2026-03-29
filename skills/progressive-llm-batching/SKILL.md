@@ -1,6 +1,6 @@
 ---
 name: progressive-llm-batching
-description: "CLI & Tooling. (Progressive Batching for Large History Mining) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "時間窓拡大+manifest除外リストで大量履歴を段階的LLMバッチ処理。Use when: time window mining, manifest exclusion, token limit"
 category: skill-mining-meta
 ---
 

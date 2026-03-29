@@ -1,6 +1,6 @@
 ---
 name: skill-mining-optimization
-description: "CLI & Tooling. (Granular Domain Classification for Technical Skills) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "Override broad categories with task-specific slugs for skill extraction. Use when: merged skills, 'cli-tooling' too broad, domain subdivision needed."
 project: skill-miner
 ---
 

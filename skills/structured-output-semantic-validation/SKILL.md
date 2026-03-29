@@ -1,6 +1,6 @@
 ---
 name: structured-output-semantic-validation
-description: "AI & Machine Learning. (Schema-valid does not mean task-valid) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "JSON schema合格でもindex捏造はtask失敗。Use when: semantic validation, fabricated entries, schema vs task validity"
 category: llm-patterns
 ---
 

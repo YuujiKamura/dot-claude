@@ -1,6 +1,6 @@
 ---
 name: issue-first-documentation-handoff
-description: "Documentation. (Issue numbering consistency is part of documentation correctness) Use when user mentions: README, docs, documentation, tutorial, guide, comment."
+description: "Issue作成→並列委託の前にID採番を確定し整合性担保。Use when: issue numbering, delegation handoff, ID range mismatch"
 category: custom-command
 ---
 

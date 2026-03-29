@@ -1,6 +1,6 @@
 ---
 name: uia-terminal-testing
-description: "Miscellaneous. (OS-Level UIA Validation for Terminals) Use when user mentions: ."
+description: "PowerShell UIA でtitlebar drag/resize/caption buttonをOS水準テスト。Use when: UIA smoke test, WinUI3 islands test, non-client area, test-02, test-05"
 project: ghostty-win
 ---
 

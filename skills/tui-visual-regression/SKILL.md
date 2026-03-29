@@ -1,6 +1,6 @@
 ---
 name: tui-visual-regression
-description: "CLI & Tooling. (Automated Visual Smoke Testing) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "TUIレンダリングバグをスクリーンショット+VLMで自動検出。Use when: TUI visual bug, screenshot smoke test, Tab alignment, rendering glitch"
 category: testing-qa
 ---
 

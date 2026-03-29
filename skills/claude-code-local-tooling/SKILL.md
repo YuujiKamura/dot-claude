@@ -1,6 +1,6 @@
 ---
 name: claude-code-local-tooling
-description: "Documentation. (Local Verification Tool Integration) Use when user mentions: README, docs, documentation, tutorial, guide, comment."
+description: "ai-code-review CLIの絶対パス指定とリトライ上限。Use when: cargo run --bin review, --diff, --prompt, verification loop"
 category: claude-config
 ---
 

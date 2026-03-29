@@ -1,6 +1,6 @@
 ---
 name: evidence-bounded-chronological-summaries
-description: "Documentation. (Separate sourced facts from inferred narrative, User redirection is a hard scope reset) Use when user mentions: README, docs, documentation, tutorial, guide, comment."
+description: "要約は証拠ベースのみ。推測と事実の分離+ユーザー方針転換は即リセット。Use when: summary fabrication, scope reset, evidence boundary"
 category: behavior-guard
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: cli-history-parsing
-description: "CLI & Tooling. (Progressive Time-Window Mining) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "mined_ids HashSetで時間窓を拡大しつつ大量会話履歴をマイニング。Use when: time-window mining, mined_ids, serde skip, max_windows"
 category: cli-tooling
 ---
 

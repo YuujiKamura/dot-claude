@@ -1,3 +1,4 @@
+description: "win-zig-bindgen修正前にwindows-rs本家を必ず確認。Use when: bindgen修正, crates/libs/bindgen, TypeIndex, emit.zig, 本家パリティ"
 category: cli-tooling
 # windows-rs First Principle
 

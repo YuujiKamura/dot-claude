@@ -1,6 +1,6 @@
 ---
 name: sequential-ui-bootstrapping
-description: "WinUI3, WinRT, Zig, COM. (Sequential Bootstrapping for UI Smoke Tests) Use when user mentions: WinUI3, WinRT, Zig, COM, vtable, ghostty, XAML."
+description: "UIスモークテストのP0→P1→P2順序制約。Use when: smoke test bootstrap, debug harness, app ready-to-test, environment race condition, WinUI3 test order"
 project: ghostty-win
 ---
 

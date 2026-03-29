@@ -1,6 +1,6 @@
 ---
 name: zig-toolchain-stability
-description: "WinUI3, WinRT, Zig, COM. (Compiler Evolution Awareness) Use when user mentions: WinUI3, WinRT, Zig, COM, vtable, ghostty, XAML."
+description: "Zig minor version breaks std.start/io.zig in bindgen. Use when: toolchain update, getStdOut signature change, 0.15.2, generator fail"
 project: ghostty-win
 ---
 

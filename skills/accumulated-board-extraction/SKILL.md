@@ -1,6 +1,6 @@
 ---
 name: accumulated-board-extraction
-description: "AI & Machine Learning. (Accumulated Blackboard Data Extraction) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "累積黒板の最下段記入値ルールと温度正規表現抽出。Use when: 温度管理黒板, 到着温度, 最下段ルール, regex celsius extraction"
 category: llm-patterns
 ---
 

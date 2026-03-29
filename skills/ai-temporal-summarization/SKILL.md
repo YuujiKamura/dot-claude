@@ -1,6 +1,6 @@
 ---
 name: ai-temporal-summarization
-description: "AI & Machine Learning. (Optimizing Temporal Granularity for AI Activity Summaries) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "BTreeMapで時系列ログを粒度別にJSON要約。Use when: timeline summarization, BTreeMap temporal, JSON structured output"
 category: llm-patterns
 ---
 

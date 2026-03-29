@@ -1,6 +1,6 @@
 ---
 name: ai-human-environment-partitioning
-description: "CLI & Tooling. (GUI-CLI Task Boundary Strategy) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "Human=環境構築, AI=ログ分析の役割分担。Use when: msbuild失敗, SDK install, VS workload, buildlog.txt, environment-stalling"
 project: ghostty-win
 ---
 

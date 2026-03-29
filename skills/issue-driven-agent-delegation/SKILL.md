@@ -1,6 +1,6 @@
 ---
 name: issue-driven-agent-delegation
-description: "Testing & QA. (Issue-Driven Infrastructure for Multi-Agent Workflows) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+description: "WinUI3テスト基盤をP0/P1/P2依存度で分解しgh issueで並列管理。Use when: COM/Input/Harness分解, agent delegation, tracking issue, P0 independent"
 project: ghostty-win
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: zig-winrt-interop-safety
-description: "Testing & QA. (Strict Alignment Casting for WinRT Callbacks) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+description: "@alignCast + @ptrCast for anyopaque WinRT callback args. Use when: IKeyRoutedEventArgs cast, null orelse, COM callback crash"
 project: ghostty-win
 ---
 

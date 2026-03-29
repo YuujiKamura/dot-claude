@@ -1,6 +1,6 @@
 ---
 name: claude-agent-governance
-description: "Documentation. (Distinguishing Mandatory Enforcement from Process Guidance, Autonomous Decision Delegation via CLI, Mandatory Plan-to-Team Workflow) Use when user mentions: README, docs, documentation, tutorial, guide, comment."
+description: "CLAUDE.md vs plugin分離、sub-LLM自律判断、Plan→Team強制。Use when: CLAUDE.md設計, 自律エージェント, 並列実行ルール, plugin vs policy"
 category: claude-config
 ---
 

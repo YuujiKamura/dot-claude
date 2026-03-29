@@ -1,6 +1,6 @@
 ---
 name: ai-activity-summarization
-description: "Miscellaneous. (Chronological Time-Slot Bucketing for Log Summarization) Use when user mentions: ."
+description: "シェル履歴を30/60/180分スロットにバケット化してAI要約。Use when: log summarization, time-slot bucketing, SummaryGranularity"
 category: llm-patterns
 ---
 

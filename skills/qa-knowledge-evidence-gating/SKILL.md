@@ -1,6 +1,6 @@
 ---
 name: qa-knowledge-evidence-gating
-description: "Testing & QA. (Only accept patterns with explicit discussion evidence) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+description: "Require conversational evidence (user correction, debate) before accepting extracted patterns. Use when: weak evidence, generic patterns, QA skill quality."
 project: skill-miner
 ---
 

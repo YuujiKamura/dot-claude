@@ -1,6 +1,6 @@
 ---
 name: mobile-web-album-partitioning
-description: "Web Development. (Date-Based Partitioning for Large Photo Galleries) Use when user mentions: React, Vue, Next.js, CSS, HTML, frontend, backend, API, REST, GraphQL."
+description: "大量写真を日付別サブページに分割しモバイルクラッシュ防止。Use when: 600+ photos, timeline_index.html, date split, mobile gallery"
 category: web-frontend
 ---
 

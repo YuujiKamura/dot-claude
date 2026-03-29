@@ -1,6 +1,6 @@
 ---
 name: terminal-viewport-logic-alignment
-description: "Documentation. (Terminal Scroll-to-Bottom Guarding) Use when user mentions: README, docs, documentation, tutorial, guide, comment."
+description: "TerminalCoreとSwapChainPanelのスクロールオフセット分離。Use when: snap-to-bottom, userHasScrolledUp, ScrollToBottom signal path, WinUI3 rendering"
 project: ghostty-win
 ---
 

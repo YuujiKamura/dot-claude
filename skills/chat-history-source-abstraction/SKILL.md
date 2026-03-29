@@ -1,6 +1,6 @@
 ---
 name: chat-history-source-abstraction
-description: "CLI & Tooling. (Abstract conversation discovery by carrier-specific strategy) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "Codex/Gemini/Claude会話パスをenum+trait strategyで抽象化。Use when: HistorySource, DiscoveryStrategy, carrier adapter"
 category: skill-mining-meta
 ---
 

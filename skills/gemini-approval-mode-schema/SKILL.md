@@ -1,6 +1,6 @@
 ---
 name: gemini-approval-mode-schema
-description: "CLI & Tooling. (Approval mode is schema-constrained, not free-form) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "Gemini CLIのapproval modeはenum厳密制約。Use when: gemini config, defaultApprovalMode, auto_edit, yolo invalid"
 category: cli-tooling
 ---
 

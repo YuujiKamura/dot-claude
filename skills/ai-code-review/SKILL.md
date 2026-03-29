@@ -1,3 +1,9 @@
+---
+name: ai-code-review
+description: "AIコードレビュークレート (~/ai-code-review)。Use when: cargo run --bin review, --diff, --prompt, CodeReviewer, Backend::Gemini"
+category: cli-tooling
+---
+
 # ai-code-review
 
 AIによる自動コードレビュークレート

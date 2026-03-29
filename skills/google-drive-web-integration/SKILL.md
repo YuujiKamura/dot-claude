@@ -1,6 +1,6 @@
 ---
 name: google-drive-web-integration
-description: "Web Development. (Native Drive Viewer for Mobile Pinch-Zoom) Use when user mentions: React, Vue, Next.js, CSS, HTML, frontend, backend, API, REST, GraphQL."
+description: "Google Drive File IDでモバイルpinch-zoom対応。Use when: Drive viewer, File ID, pinch-zoom, DriveFS SQLite, mobile photo"
 category: web-frontend
 ---
 

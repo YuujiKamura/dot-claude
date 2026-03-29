@@ -1,6 +1,6 @@
 ---
 name: ai-workflow-infrastructure-first
-description: "CLI & Tooling. (Version Control as AI Safety Infrastructure) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "AIリファクタ前にgit init必須。Use when: git init before refactor, AI safety, version control first"
 category: llm-patterns
 ---
 

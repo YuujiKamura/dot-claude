@@ -1,6 +1,6 @@
 ---
 name: terminal-buffer-observability
-description: "CLI & Tooling. (Decoupled Terminal Buffer Scraping for Remote Monitoring) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "ViewportText IPCスクレイプでターミナルバッファを軽量監視。Use when: TAIL command, ViewportText, Base64 input, LIST_TABS IPC"
 category: agent-orchestration
 ---
 

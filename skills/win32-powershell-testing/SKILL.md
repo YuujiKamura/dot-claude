@@ -1,6 +1,6 @@
 ---
 name: win32-powershell-testing
-description: "WinUI3, WinRT, Zig, COM. (Low-Level Native UI Testing with PowerShell and P/Invoke) Use when user mentions: WinUI3, WinRT, Zig, COM, vtable, ghostty, XAML."
+description: "PowerShell P/Invoke UI testing with stderr log sync. Use when: FindWindow, Add-Type, initXaml, test script, stage-based verification"
 project: ghostty-win
 ---
 

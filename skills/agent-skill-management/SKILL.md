@@ -1,6 +1,6 @@
 ---
 name: agent-skill-management
-description: "CLI & Tooling. (Cross-Agent Skill Synchronization) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "agentskills.io linkでクロスエージェントのスキルカタログ同期。Use when: gemini skills link, /memory refresh, skill catalog sync"
 category: agent-orchestration
 ---
 

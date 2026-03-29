@@ -1,6 +1,6 @@
 ---
 name: automated-report-layout-verification
-description: "CLI & Tooling. (Iterative Excel/CSV Layout Refinement) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "Excel/CSVレイアウトの反復的修正(セル結合・日付書式・ソート)。Use when: cell merge logic, locale date format, Excel visual verification"
 category: pdf-document
 ---
 

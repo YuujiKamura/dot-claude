@@ -1,6 +1,6 @@
 ---
 name: google-drive-web-publishing
-description: "Web Development. (DriveFS-Integrated Photo Web Generation) Use when user mentions: React, Vue, Next.js, CSS, HTML, frontend, backend, API, REST, GraphQL."
+description: "DriveFS SQLiteからFile ID取得し写真サイト生成。Use when: DriveFS, drive_file_ids.json, timeline.html, photo web generation"
 category: web-frontend
 ---
 

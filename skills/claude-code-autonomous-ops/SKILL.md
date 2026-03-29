@@ -1,6 +1,6 @@
 ---
 name: claude-code-autonomous-ops
-description: "Documentation. (Autonomous Decision Loop via Sub-LLM) Use when user mentions: README, docs, documentation, tutorial, guide, comment."
+description: "claude -p でサブLLM相談、質問せず自律判断。Use when: 自律運用, sub-LLM, 質問禁止, --max-turns 1"
 category: claude-config
 ---
 

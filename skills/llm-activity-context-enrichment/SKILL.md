@@ -1,6 +1,6 @@
 ---
 name: llm-activity-context-enrichment
-description: "CLI & Tooling. (Context Enrichment for CLI Activity Classification) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "CWD/touched files/初回メッセージでシェルログの文脈補強。Use when: project mislabel, SlotContext, CWD enrichment"
 category: llm-patterns
 ---
 

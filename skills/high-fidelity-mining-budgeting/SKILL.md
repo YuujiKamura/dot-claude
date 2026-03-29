@@ -1,6 +1,6 @@
 ---
 name: high-fidelity-mining-budgeting
-description: "AI & Machine Learning. (LLM Context Budgeting for Pattern Mining) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "LLMトークン上限内でコード詳細を保持する切り詰め戦略。Use when: truncation 2000-3000 chars, token budget, Gemini Flash 1M"
 category: skill-mining-meta
 ---
 

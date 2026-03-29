@@ -1,6 +1,6 @@
 ---
 name: ai-tool-quota-navigation
-description: "CLI & Tooling. (Navigating Quota-Locked AI CLI Metadata) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "quota exceededでCLI実行不可時にusage.jsonキャッシュ直接参照。Use when: quota locked, usage.json, /usage slash command"
 category: llm-patterns
 ---
 

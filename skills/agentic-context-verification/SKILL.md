@@ -1,6 +1,6 @@
 ---
 name: agentic-context-verification
-description: "AI & Machine Learning. (Proactive Context Gap Identification) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "抽出前にソースデータの有無・十分性を検証。Use when: context gap, missing source data, extraction hallucination prevention"
 category: llm-patterns
 ---
 

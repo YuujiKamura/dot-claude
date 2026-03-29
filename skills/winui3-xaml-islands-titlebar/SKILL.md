@@ -1,6 +1,6 @@
 ---
 name: winui3-xaml-islands-titlebar
-description: "Miscellaneous. (Non-Client Area via Child Windows) Use when user mentions: ."
+description: "Transparent drag-bar child window for Islands titlebar (WT pattern). Use when: WM_NCHITTEST, ExtendsContentIntoTitleBar freeze, Issue #42"
 project: ghostty-win
 ---
 

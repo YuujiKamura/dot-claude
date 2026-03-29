@@ -1,6 +1,6 @@
 ---
 name: filesystem-ipc-discovery
-description: "CLI & Tooling. (Filesystem-Based IPC Discovery) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "LOCALAPPDATA配下のセッションファイルでCP Named Pipeを発見。Use when: pipe discovery, session file, LOCALAPPDATA, control-plane endpoint, gtcp list"
 project: ghostty-win
 ---
 

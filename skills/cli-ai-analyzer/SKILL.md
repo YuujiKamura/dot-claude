@@ -1,5 +1,5 @@
 ---
-description: "複数AI CLIの統一インターフェース。(1) Gemini/Claude/Ollamaを同じAPIで呼び出し、(2) バックエンド切り替えでAI変更が容易。cli-ai-analyzer、AI解析、Claude CLI、Gemini CLI、Ollama、バックエンド切り替えと言われた時に使用。"
+description: "Rust unified AI CLI wrapper (Gemini/Claude/Ollama). Use when: cli-ai-analyzer, AnalysisBuilder, Backend enum, gemini_cli.rs, ShoruiChecker AI call"
 project: photo-ai
 ---
 

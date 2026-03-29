@@ -1,6 +1,6 @@
 ---
 name: zig-cross-platform-dispatch
-description: "WinUI3, WinRT, Zig, COM. (Value-Based Build Configuration) Use when user mentions: WinUI3, WinRT, Zig, COM, vtable, ghostty, XAML."
+description: "Switch on build_config.app_runtime value to prune platform branches. Use when: prong does not exist, .embedded, Runtime enum, cross-compile"
 project: ghostty-win
 ---
 

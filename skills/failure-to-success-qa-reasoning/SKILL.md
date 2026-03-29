@@ -1,6 +1,6 @@
 ---
 name: failure-to-success-qa-reasoning
-description: "Testing & QA. (Prefer causal failure→success narratives over procedural steps) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+description: "QA知見は失敗→成功の因果+定量デルタで記録。Use when: 10%→90% progression, causal QA narrative, why behind improvement"
 category: testing-qa
 ---
 

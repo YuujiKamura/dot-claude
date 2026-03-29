@@ -1,6 +1,6 @@
 ---
 name: ai-ml
-description: "AI & Machine Learning. (Mandatory Agentic Multi-Agent Orchestration, Zero-Interruption Policy for Autonomous Agents, Hard-Binding Local Deterministic Tools to AI Logic, Constraint Pruning for High-Reasoning Models, Distinguishing Behavioral Policy from Tool Capability) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "マルチエージェント強制、質問禁止、ローカルツール必須化、冗長指示の刈り込み。Use when: agent governance, zero-interruption, constraint pruning"
 category: llm-patterns
 ---
 

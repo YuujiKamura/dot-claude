@@ -1,6 +1,6 @@
 ---
 name: literal-output-compliance-testing
-description: "AI & Machine Learning. (Literal-output obedience as a hard gate) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "exact-match 1トークン出力でinstruction obedience検証。Use when: GEMINI_OK, literal output gate, instruction compliance"
 category: llm-patterns
 ---
 

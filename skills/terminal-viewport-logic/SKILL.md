@@ -1,6 +1,6 @@
 ---
 name: terminal-viewport-logic
-description: "Documentation. (Sticky Scroll-to-Bottom Heuristics) Use when user mentions: README, docs, documentation, tutorial, guide, comment."
+description: "ターミナルの自動スクロール＋ユーザースクロールロック。Use when: scroll-to-bottom, viewport jump, user scroll lock, is_at_bottom, D3D11 ScrollViewer"
 project: ghostty-win
 ---
 

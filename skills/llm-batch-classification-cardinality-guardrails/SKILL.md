@@ -1,6 +1,6 @@
 ---
 name: llm-batch-classification-cardinality-guardrails
-description: "AI & Machine Learning. (Cardinality and index fidelity over JSON prettiness) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "バッチ分類で入出力件数一致・index忠実性を最優先。Use when: batch classification, cardinality mismatch, fabricated index"
 category: llm-patterns
 ---
 

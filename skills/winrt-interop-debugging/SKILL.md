@@ -1,6 +1,6 @@
 ---
 name: winrt-interop-debugging
-description: "WinUI3, WinRT, Zig, COM. (Diagnosing Opaque WinRT Exceptions (0xC000027B)) Use when user mentions: WinUI3, WinRT, Zig, COM, vtable, ghostty, XAML."
+description: "Diagnose STATUS_STOWED_EXCEPTION 0xC000027B at ABI boundaries. Use when: stowed exception, activation factory crash, CreateString, title change crash"
 project: ghostty-win
 ---
 

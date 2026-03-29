@@ -1,6 +1,6 @@
 ---
 name: ai-knowledge-extraction
-description: "CLI & Tooling. (Noise-Resilient Skill Mining) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "Strip system-reminder tags and generate topic-based skill_slug names. Use when: extraction noise, CLAUDE.md contamination, trigger context, skill naming."
 project: skill-miner
 ---
 

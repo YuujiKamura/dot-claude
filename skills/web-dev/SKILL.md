@@ -1,6 +1,6 @@
 ---
 name: web-dev
-description: "Web Development. (Mobile-Memory-Aware HTML Payload Optimization, Cloud Storage Asset Resolution for Mobile Web Views, Mobile-Native Pinch-Zoom Integration for Web Galleries, Build-Time Cloud Metadata Manifest Generation, Dedicated Mobile-Specific Static Site Generation (SSG)) Use when user mentions: React, Vue, Next.js, CSS, HTML, frontend, backend, API, REST, GraphQL."
+description: "モバイル写真サイトの統合パターン集。Use when: mobile memory, cloud storage File ID, pinch-zoom, SSG, payload optimization"
 category: web-frontend
 ---
 

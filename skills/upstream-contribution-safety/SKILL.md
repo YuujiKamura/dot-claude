@@ -1,6 +1,6 @@
 ---
 name: upstream-contribution-safety
-description: "AI & Machine Learning. (Fork-First Upstream Contribution Flow) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "公開リポジトリへのAI操作前にfork+build+test必須。Use when: upstream PR, git remote -v, gh repo view, fork-first rule"
 category: llm-patterns
 ---
 

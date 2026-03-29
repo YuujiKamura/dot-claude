@@ -1,6 +1,6 @@
 ---
 name: cli-plugin-migration-path
-description: "CLI & Tooling. (Hook-Based vs. MCP Plugin Architecture) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "SessionEndフック vs MCP Serverの選定。Use when: plugin architecture, SessionEnd hook, polyglot .cmd, MCP overhead"
 category: cli-tooling
 ---
 

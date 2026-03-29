@@ -1,6 +1,6 @@
 ---
 name: domain-knowledge-noise-filtering
-description: "AI & Machine Learning. (Agentic Noise Filtering in Knowledge Extraction) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "Exclusion lists and frequency>=2 hard filter for mining noise. Use when: git/build noise in extraction, one-off anomalies, domain vs meta-agent ops."
 project: skill-miner
 ---
 

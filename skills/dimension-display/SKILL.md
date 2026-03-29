@@ -1,5 +1,5 @@
 ---
-description: 三角形リストの寸法表示仕様。寸法値・寸法線の配置ルール、接続辺の扱い、自動配置ロジック。寸法、Dim、dimension、寸法線、寸法値、配置、表示と言われた時に使用。
+description: "trianglelist寸法表示: Dims.kt/DimOnPath.kt/MyView.kt 3層構造。Use when: OUTER/INNER配置, HABAYOSE, A辺接続, 寸法線描画, offsetV/offsetH"
 project: photo-ai
 ---
 

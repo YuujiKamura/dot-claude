@@ -1,6 +1,6 @@
 ---
 name: llm-log-mining-budgeting
-description: "AI & Machine Learning. (LLM Context Budgeting for Log Mining) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "truncation 2000/3000 + take(40) + 72% token safety margin。Use when: extractor.rs tuning, token budget, 1M context"
 category: llm-patterns
 ---
 

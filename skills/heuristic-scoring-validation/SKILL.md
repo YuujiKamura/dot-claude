@@ -1,6 +1,6 @@
 ---
 name: heuristic-scoring-validation
-description: "Testing & QA. (Activity-Based Heuristic Scoring Verification) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+description: "頻度/鮮度/生産性スコアの休眠ペナルティと先読み検証。Use when: dormancy penalty, frequency scoring, productivity look-ahead"
 category: testing-qa
 ---
 

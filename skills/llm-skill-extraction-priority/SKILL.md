@@ -1,6 +1,6 @@
 ---
 name: llm-skill-extraction-priority
-description: "AI & Machine Learning. (Logic-First Knowledge Extraction) Use when user mentions: LLM, GPT, Claude, Gemini, prompt, model, training, inference, embedding."
+description: "Prioritize why/failure-narratives over code snippets in extraction. Use when: user corrections as signal, domain distinctions, quantified results."
 project: skill-miner
 ---
 

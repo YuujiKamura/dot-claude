@@ -1,6 +1,6 @@
 ---
 name: ai-skill-consolidation
-description: "CLI & Tooling. (Union-Find Knowledge Grouping) Use when user mentions: CLI, script, automation, tool, plugin, extension, config."
+description: "断片スキルのUnion-Findクラスタリングと統合。Use when: skill consolidation, fragment merge, knowledge rot, DraftStatus, duplicate mining"
 project: ghostty-win
 ---
 

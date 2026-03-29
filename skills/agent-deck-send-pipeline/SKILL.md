@@ -1,6 +1,6 @@
 ---
 name: agent-deck-send-pipeline
-description: "Agent Orchestration. (SubmitPrompt Pipeline, Watcher+Detect Status, session add/send UX) Use when user mentions: agent-deck, session send, session add, SubmitPrompt, readiness, trust dialog, prompt detection, send pipeline, watch."
+description: "agent-deck send pipeline: SubmitPrompt 3-phase, Watcher/Detect status polling, trust dialog dismiss. Use when: agent-deck send, session add, verifyAccepted, BufferNotification, detect.go"
 project: ghostty-win
 ---
 

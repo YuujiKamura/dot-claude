@@ -1,6 +1,6 @@
 ---
 name: winui3-islands-ime-redirection
-description: "Testing & QA. (TSF Focus Redirection for WinUI3 Islands) Use when user mentions: test, unit test, integration, coverage, mock, assertion, TDD, fixture."
+description: "TSF IME focus redirect to hidden TextBox in XAML Islands. Use when: VK_PROCESSKEY 0xE5, ime_text_box, PreviewKeyDown, IME composition"
 project: ghostty-win
 ---
 

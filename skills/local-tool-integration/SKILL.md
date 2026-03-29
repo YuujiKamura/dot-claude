@@ -1,6 +1,6 @@
 ---
 name: local-tool-integration
-description: "Documentation. (Local Quality Assurance Loop Policy) Use when user mentions: README, docs, documentation, tutorial, guide, comment."
+description: "ai-code-reviewのコマンド・リトライ上限・レポート手順。Use when: cargo run --bin review, 検証ループ, 最大3回リトライ"
 category: claude-config
 ---
 

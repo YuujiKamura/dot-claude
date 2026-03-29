@@ -1,6 +1,6 @@
 ---
 name: xaml-islands-event-proxying
-description: "Documentation. (Bypassing XAML Islands Event Limitations) Use when user mentions: README, docs, documentation, tutorial, guide, comment."
+description: "VisualTreeHelper + Tapped proxy for silent Islands events. Use when: CloseButton AutomationId, TabCloseRequested, PostMessageW WM_USER"
 project: ghostty-win
 ---
 
