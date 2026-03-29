@@ -26,3 +26,41 @@ skills/gstack/dist/
 
 # Backups
 backups/
+
+# External/third-party skills (license unverified)
+skills/ai-centric-cli-ux/
+skills/autoplan/
+skills/benchmark/
+skills/browse/
+skills/canary/
+skills/careful/
+skills/cli-history-interop/
+skills/cli-history-mining/
+skills/cli-tooling/
+skills/codex/
+skills/cso/
+skills/design-consultation/
+skills/design-review/
+skills/document-release/
+skills/feature-build/
+skills/freeze/
+skills/gstack/
+skills/gstack-upgrade/
+skills/guard/
+skills/hybrid-agent-governance/
+skills/investigate/
+skills/land-and-deploy/
+skills/morning-routine/
+skills/office-hours/
+skills/plan-ceo-review/
+skills/plan-design-review/
+skills/plan-eng-review/
+skills/qa/
+skills/qa-only/
+skills/retro/
+skills/review/
+skills/setup-browser-cookies/
+skills/setup-deploy/
+skills/ship/
+skills/skill-system-architecture/
+skills/unfreeze/
