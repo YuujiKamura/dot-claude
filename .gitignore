@@ -1,0 +1,28 @@
+plugins/cache/
+cache/
+telemetry/
+sessions/
+statsig/
+stats-cache.json
+usage-data/
+metrics/
+debug/
+mcp-needs-auth-cache.json
+history.jsonl
+paste-cache/
+file-history/
+shell-snapshots/
+.credentials.json
+contexts/
+
+# Large session logs (100MB+)
+projects/**/*.jsonl
+projects/**/subagents/
+projects/**/tool-results/
+
+# Large binaries
+skills/browse/dist/
+skills/gstack/dist/
+
+# Backups
+backups/

@@ -1,0 +1,5110 @@
+version = "1.0"
+generated_at = "2026-03-28T22:08:36.329829300Z"
+
+[[entries]]
+slug = "a2a-orchestration-topology"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.701977100Z"
+content_hash = "169563efc857d8eba4c3214f6ebddb8fb79d497bf219e033056dad2f1bea7d42"
+categories = [
+    "agent-ctl",
+    "agents",
+    "bash",
+    "bug-fix",
+    "build",
+    "ci",
+    "claude",
+    "clipboard",
+    "dll",
+    "ghostty",
+    "hacking",
+    "ime",
+    "installer",
+    "llm",
+    "manual",
+    "markdown",
+    "powershell",
+    "refactoring",
+    "rust",
+    "selection",
+    "state-management",
+    "test",
+    "verification",
+    "win32",
+    "windows-terminal",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "agent-control-plane-automation"
+domain = "AI & Machine Learning"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.702110100Z"
+content_hash = "14c69d18de0042b151774c680e414ad55f0feed223bea8950c6ac4b6de1bce54"
+
+[[entries]]
+slug = "agent-ctl-standardization"
+domain = "AI & Machine Learning"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.702196600Z"
+content_hash = "dd39215d96fc32215d316dc17a624125f6935ea71bf13c8e68ecac7a347e9827"
+
+[[entries]]
+slug = "agent-process-lifecycle"
+domain = "AI & Machine Learning"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.702315900Z"
+content_hash = "6dcd9e38d6b31d8f2aa430895aa356ef6c11c5213e15fc84530a93698bf8d5d9"
+categories = [
+    "LLM",
+    "TypeScript",
+    "api",
+    "automation",
+    "camera",
+    "claude",
+    "cli",
+    "gemini",
+    "inference",
+    "mcp",
+    "model",
+    "ocr",
+    "prompting",
+    "session-analysis",
+    "skills",
+    "terminal",
+    "vision",
+]
+
+[[entries]]
+slug = "agent-to-agent-orchestration"
+domain = "Documentation"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.702409Z"
+content_hash = "bdca4aee9079232c00813515cbf2758d2da51a0c92bee6d2a19ed8e99b1d1418"
+categories = [
+    "AGENTS.md",
+    "AI Integration",
+    "Claude Skill",
+    "Ghostty",
+    "Guide",
+    "User Manual",
+]
+
+[[entries]]
+slug = "ai-agent-orchestration-topology"
+domain = "Documentation"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.702525900Z"
+content_hash = "1d4865f690a9ef3574850305d9690acda2f21753462f1fb7a5e324db77161e84"
+categories = [
+    "AGENTS.md",
+    "Ghostty",
+    "code-explanation",
+    "configuration",
+    "documentation",
+    "ghostty-win",
+    "project-scope",
+    "terminal",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "ai-qa-collaboration"
+domain = "Testing & QA"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.702669Z"
+content_hash = "f807744b08178248c4fa518179deeda153a251eb45bcfcd0725f2dfc789dce5b"
+categories = [
+    "Ghostty",
+    "PowerShell",
+    "UI Automation",
+    "UIA",
+    "WinUI3",
+    "Zig",
+    "agent-relay",
+    "automation",
+    "bug-fix",
+    "codex",
+    "debugging",
+    "full-cycle",
+    "ghostty",
+    "observer",
+    "powershell",
+    "regression",
+    "rust",
+    "test",
+    "test-runner",
+    "testing",
+    "unit test",
+    "zig",
+]
+
+[[entries]]
+slug = "ai-skill-mining"
+domain = "AI & Machine Learning"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.702785300Z"
+content_hash = "5d211a996e5b99b8dbda5a4e439c59ab00dd17891e4c5e01c9225c4675bbbff2"
+categories = [
+    "LLM",
+    "TypeScript",
+    "api",
+    "automation",
+    "camera",
+    "claude",
+    "cli",
+    "gemini",
+    "inference",
+    "mcp",
+    "model",
+    "ocr",
+    "prompting",
+    "session-analysis",
+    "skills",
+    "terminal",
+    "vision",
+]
+
+[[entries]]
+slug = "automated-terminal-smoke-testing"
+domain = "Documentation"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.702894700Z"
+content_hash = "0608fa39b3b1dab4162b5d2bcf64e2cc7633e54b0688803388020771f382e170"
+categories = [
+    "AGENTS.md",
+    "Ghostty",
+    "code-explanation",
+    "configuration",
+    "documentation",
+    "ghostty-win",
+    "project-scope",
+    "terminal",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "autonomous-agent-handoff"
+domain = "AI & Machine Learning"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.702985800Z"
+content_hash = "9b895a61355ae9edded303d6fe509ca930546f64d3fb316063690a006078ed54"
+
+[[entries]]
+slug = "autonomous-agent-orchestration"
+domain = "Documentation"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.703066400Z"
+content_hash = "3c84d3dd0d6c776019cda0bdc702071abf668d306147f1025a489e7a349bf9c8"
+
+[[entries]]
+slug = "cli-agent-orchestration"
+domain = "CLI & Tooling"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.703252800Z"
+content_hash = "0a67247a1ef123127cefac13b8fa8d25164ac5f4fc1d0a44870600b50438a533"
+categories = [
+    "DLL",
+    "IME",
+    "WinUI3",
+    "Windows",
+    "Windows Terminal",
+    "XAML",
+    "Zig",
+    "agent-config",
+    "automation",
+    "bugfix",
+    "build-config",
+    "cli",
+    "code-review",
+    "debugging",
+    "exploration",
+    "feature-implementation",
+    "generic",
+    "ghostty",
+    "git",
+    "ime",
+    "instructions",
+    "investigation",
+    "issue",
+    "issue-investigation",
+    "performance",
+    "refactoring",
+    "repository-management",
+    "rust",
+    "shell-selection",
+    "skills",
+    "terminal",
+    "test",
+    "tool",
+    "tsf",
+    "ui",
+    "ui-migration",
+    "windows",
+    "windows-terminal",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "cli-process-orchestration"
+domain = "CLI & Tooling"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.703624600Z"
+content_hash = "5e29ba86fd04263c02357d5e22142f3854fda19318044596cb0307faf3418e9b"
+categories = [
+    "CLI",
+    "FFI",
+    "Ghostty",
+    "GitHub",
+    "Go",
+    "IME",
+    "LLM",
+    "MCP",
+    "PowerShell",
+    "Rust",
+    "WinUI3",
+    "Zig",
+    "agent",
+    "agent-deck",
+    "agent-skills",
+    "analysis",
+    "api",
+    "automation",
+    "backend",
+    "bash",
+    "benchmarking",
+    "billing",
+    "bindings",
+    "bug-fix",
+    "bugfix",
+    "claude",
+    "claude-code",
+    "cli",
+    "command-line",
+    "config",
+    "control-plane",
+    "cost-tracking",
+    "credits",
+    "debugging",
+    "encoding",
+    "feature-implementation",
+    "fsnotify",
+    "gemini",
+    "gh-cli",
+    "ghostty",
+    "git",
+    "go",
+    "history",
+    "ime",
+    "ipc",
+    "issue-tracking",
+    "llm",
+    "mcp",
+    "migration",
+    "powershell",
+    "profiler",
+    "protocol",
+    "quota",
+    "ripgrep",
+    "rust",
+    "script",
+    "skills",
+    "state-management",
+    "statsig",
+    "terminal",
+    "tmux",
+    "tooling",
+    "ui-porting",
+    "usage",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "codebase-sanitization"
+domain = "AI & Machine Learning"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.703874500Z"
+content_hash = "78199fbea31553d7415ed436d54e58d92d43947c6f5838d14ec236b7ddc3a138"
+categories = [
+    "AGENTS.md",
+    "AI agents",
+    "Claude",
+    "DevOps",
+    "Gemini",
+    "LLM",
+    "Rust",
+    "agent",
+    "ai",
+    "automation",
+    "classification",
+    "claude",
+    "context",
+    "extraction",
+    "gemini",
+    "history analysis",
+    "llm",
+    "machine-learning",
+    "metadata-extraction",
+    "prompt",
+    "prompt engineering",
+    "rust",
+    "session-analysis",
+    "state-management",
+    "summaries",
+    "summarization",
+    "summary",
+]
+
+[[entries]]
+slug = "construction-photo-audit"
+domain = "Miscellaneous"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.704007300Z"
+content_hash = "e8eb0189201071c12520bd0ac52161936da36626907b87f06bf9f8ed2427e5ef"
+categories = [
+    "Git",
+    "WinUI3",
+    "WinUI3-Islands",
+    "Zig",
+    "analysis",
+    "bash",
+    "build-system",
+    "civil-engineering",
+    "cleanup",
+    "construction",
+    "construction-tech",
+    "crash",
+    "data-analysis",
+    "data-structure",
+    "debugging",
+    "disk-usage",
+    "extraction",
+    "ime",
+    "investigation",
+    "japanese",
+    "logging",
+    "logs",
+    "maintenance",
+    "meta",
+    "paveos",
+    "photo-analysis",
+    "project-management",
+    "refactor",
+    "refactoring",
+    "regression",
+    "system",
+    "terminal",
+    "tsf",
+    "win32",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "control-plane-input-verification"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.704142600Z"
+content_hash = "7330736e1059b21c67dbe3083c92904ad0f2551f9e9c32dbfecc212bd2d284db"
+categories = [
+    "AGENTS.md",
+    "AI Agents",
+    "Agent",
+    "Automation",
+    "Bash",
+    "Build",
+    "CLI",
+    "DLL",
+    "Docs",
+    "Documentation",
+    "FFI",
+    "Fix Validation",
+    "Ghostty",
+    "Guide",
+    "IME",
+    "Implementation",
+    "Integration Test",
+    "LLM",
+    "PowerShell",
+    "Prompt",
+    "README",
+    "Rust",
+    "Script",
+    "State Management",
+    "TSF",
+    "Terminal",
+    "Tutorial",
+    "UI",
+    "Unit Test",
+    "Validation",
+    "Verification",
+    "WinUI3",
+    "Windows Terminal",
+    "Zig",
+    "agent",
+    "ai-agents",
+    "bash",
+    "bug-fix",
+    "build-system",
+    "ci",
+    "clipboard",
+    "config",
+    "dll",
+    "docs",
+    "feature",
+    "files",
+    "gemini",
+    "ghostty",
+    "git",
+    "ime",
+    "llm",
+    "manual",
+    "migration",
+    "powershell",
+    "refactoring",
+    "regression-test",
+    "rust",
+    "shell",
+    "state-management",
+    "testing",
+    "tsf",
+    "tutorial",
+    "ui",
+    "verification",
+    "windows",
+    "windows-terminal",
+    "zig",
+]
+
+[[entries]]
+slug = "control-plane-state-modeling"
+domain = "CLI & Tooling"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.704514200Z"
+content_hash = "8fc11925994f66dd47f7a0617ea1ce1687d4f029831132764d4e4cac592d9c52"
+categories = [
+    "CLI",
+    "FFI",
+    "Ghostty",
+    "GitHub",
+    "Go",
+    "IME",
+    "LLM",
+    "MCP",
+    "PowerShell",
+    "Rust",
+    "WinUI3",
+    "Zig",
+    "agent",
+    "agent-deck",
+    "agent-skills",
+    "analysis",
+    "api",
+    "automation",
+    "backend",
+    "bash",
+    "benchmarking",
+    "billing",
+    "bindings",
+    "bug-fix",
+    "bugfix",
+    "claude",
+    "claude-code",
+    "cli",
+    "command-line",
+    "config",
+    "control-plane",
+    "cost-tracking",
+    "credits",
+    "debugging",
+    "encoding",
+    "feature-implementation",
+    "fsnotify",
+    "gemini",
+    "gh-cli",
+    "ghostty",
+    "git",
+    "go",
+    "history",
+    "ime",
+    "ipc",
+    "issue-tracking",
+    "llm",
+    "mcp",
+    "migration",
+    "powershell",
+    "profiler",
+    "protocol",
+    "quota",
+    "ripgrep",
+    "rust",
+    "script",
+    "skills",
+    "state-management",
+    "statsig",
+    "terminal",
+    "tmux",
+    "tooling",
+    "ui-porting",
+    "usage",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "domain-injected-code-review"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.704674800Z"
+content_hash = "26f847feaecc452428796256df53c35871bc3565286dafa0a313a34086ce9ad5"
+categories = [
+    "Audit",
+    "CLI",
+    "COM",
+    "Coverage",
+    "D3D11",
+    "Geometry",
+    "Ghostty",
+    "Graphics",
+    "IME",
+    "IPC",
+    "Regression",
+    "TSF",
+    "Testing",
+    "WASM",
+    "Win32",
+    "WinRT",
+    "WinUI3",
+    "XAML",
+    "Zig",
+    "agent-deck",
+    "android",
+    "automation",
+    "claude-skill",
+    "code-review",
+    "config",
+    "control plane",
+    "control-plane",
+    "echo",
+    "editor",
+    "ghostty",
+    "ime",
+    "java",
+    "llm",
+    "multi-agent",
+    "orchestration",
+    "prompt",
+    "pty",
+    "python",
+    "renderer",
+    "rust",
+    "scheduling",
+    "script",
+    "session-recovery",
+    "spreadsheet",
+    "terminal",
+    "test",
+    "tool",
+    "verification",
+]
+
+[[entries]]
+slug = "e2e-automation-strategy"
+domain = "Testing & QA"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.704757800Z"
+content_hash = "eac05355be52363751b8723541b2d8a3caf6f204231188c09786dc30d011e640"
+
+[[entries]]
+slug = "ghostty-ime-tsf-qa"
+domain = "Testing & QA"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.704856400Z"
+content_hash = "0617bec5cc7eb3f5a209642aa590e35942cd659761386480e5f54b9843c2f95f"
+categories = [
+    "IME fix",
+    "automated-test",
+    "ghostty",
+    "ime",
+    "regression",
+    "test",
+    "test-scripts",
+    "uiautomation",
+    "unit-test",
+    "verification",
+    "windows-terminal",
+]
+
+[[entries]]
+slug = "ghostty-upstream-portability"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.704997100Z"
+content_hash = "8e57509d14018ef40e7eb6862ac1bbb52b09f7ac0491c9dbec44d83eb4d53654"
+categories = [
+    "agent-ctl",
+    "agents",
+    "bash",
+    "bug-fix",
+    "build",
+    "ci",
+    "claude",
+    "clipboard",
+    "dll",
+    "ghostty",
+    "hacking",
+    "ime",
+    "installer",
+    "llm",
+    "manual",
+    "markdown",
+    "powershell",
+    "refactoring",
+    "rust",
+    "selection",
+    "state-management",
+    "test",
+    "verification",
+    "win32",
+    "windows-terminal",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "ghostty-win-upstreaming"
+domain = "Documentation"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.705100600Z"
+content_hash = "03c63f3f6e4bd4b020868210136bf5e92cfa28b0e5f057dcfebd262a209ee925"
+categories = [
+    "AGENTS.md",
+    "AI Integration",
+    "Claude Skill",
+    "Ghostty",
+    "Guide",
+    "User Manual",
+]
+
+[[entries]]
+slug = "ime-automation-failure-modes"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.705329Z"
+content_hash = "fd2e02ee25fe4e2f5a7136a03417a7e5968121c457c30651bae8645bc0db1792"
+categories = [
+    "AGENTS.md",
+    "AI Agents",
+    "Agent",
+    "Automation",
+    "Bash",
+    "Build",
+    "CLI",
+    "DLL",
+    "Docs",
+    "Documentation",
+    "FFI",
+    "Fix Validation",
+    "Ghostty",
+    "Guide",
+    "IME",
+    "Implementation",
+    "Integration Test",
+    "LLM",
+    "PowerShell",
+    "Prompt",
+    "README",
+    "Rust",
+    "Script",
+    "State Management",
+    "TSF",
+    "Terminal",
+    "Tutorial",
+    "UI",
+    "Unit Test",
+    "Validation",
+    "Verification",
+    "WinUI3",
+    "Windows Terminal",
+    "Zig",
+    "agent",
+    "ai-agents",
+    "bash",
+    "bug-fix",
+    "build-system",
+    "ci",
+    "clipboard",
+    "config",
+    "dll",
+    "docs",
+    "feature",
+    "files",
+    "gemini",
+    "ghostty",
+    "git",
+    "ime",
+    "llm",
+    "manual",
+    "migration",
+    "powershell",
+    "refactoring",
+    "regression-test",
+    "rust",
+    "shell",
+    "state-management",
+    "testing",
+    "tsf",
+    "tutorial",
+    "ui",
+    "verification",
+    "windows",
+    "windows-terminal",
+    "zig",
+]
+
+[[entries]]
+slug = "ime-input-drift-validation"
+domain = "Testing & QA"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.705475200Z"
+content_hash = "8ee0603243cd76355ffd0774cf306ebbc6446d48f6fceb9fabfccb158130ad66"
+categories = [
+    "Automation",
+    "Ghostty",
+    "IME",
+    "Integration Test",
+    "TSF",
+    "Verification",
+]
+
+[[entries]]
+slug = "llm-agent-observer"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.705628200Z"
+content_hash = "dae73aeba6af834fefe57ef195d36789e0c4eaa0593f681678ce10bd71ca2afc"
+categories = [
+    "agent-ctl",
+    "agents",
+    "bash",
+    "bug-fix",
+    "build",
+    "ci",
+    "claude",
+    "clipboard",
+    "dll",
+    "ghostty",
+    "hacking",
+    "ime",
+    "installer",
+    "llm",
+    "manual",
+    "markdown",
+    "powershell",
+    "refactoring",
+    "rust",
+    "selection",
+    "state-management",
+    "test",
+    "verification",
+    "win32",
+    "windows-terminal",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "llm-assisted-state-orchestration"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.705780100Z"
+content_hash = "fcc2e356ee7809f6ab347f6e005b47723a5c70eada0256cc15cb058725b2ec64"
+categories = [
+    "AGENTS.md",
+    "AI Agents",
+    "Agent",
+    "Automation",
+    "Bash",
+    "Build",
+    "CLI",
+    "DLL",
+    "Docs",
+    "Documentation",
+    "FFI",
+    "Fix Validation",
+    "Ghostty",
+    "Guide",
+    "IME",
+    "Implementation",
+    "Integration Test",
+    "LLM",
+    "PowerShell",
+    "Prompt",
+    "README",
+    "Rust",
+    "Script",
+    "State Management",
+    "TSF",
+    "Terminal",
+    "Tutorial",
+    "UI",
+    "Unit Test",
+    "Validation",
+    "Verification",
+    "WinUI3",
+    "Windows Terminal",
+    "Zig",
+    "agent",
+    "ai-agents",
+    "bash",
+    "bug-fix",
+    "build-system",
+    "ci",
+    "clipboard",
+    "config",
+    "dll",
+    "docs",
+    "feature",
+    "files",
+    "gemini",
+    "ghostty",
+    "git",
+    "ime",
+    "llm",
+    "manual",
+    "migration",
+    "powershell",
+    "refactoring",
+    "regression-test",
+    "rust",
+    "shell",
+    "state-management",
+    "testing",
+    "tsf",
+    "tutorial",
+    "ui",
+    "verification",
+    "windows",
+    "windows-terminal",
+    "zig",
+]
+
+[[entries]]
+slug = "marketing-vlm-automation"
+domain = "AI & Machine Learning"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.705867Z"
+content_hash = "8939a72abf0835b3004f6c26a418096a27a634418f9f1b513b69daeb731f6f7c"
+
+[[entries]]
+slug = "migration-context-management"
+domain = "CLI & Tooling"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.706095700Z"
+content_hash = "78794a2cec9fdb7a5374ddfde39a655e788ebb4353024ea10897e8af0fb00720"
+categories = [
+    "DLL",
+    "IME",
+    "WinUI3",
+    "Windows",
+    "Windows Terminal",
+    "XAML",
+    "Zig",
+    "agent-config",
+    "automation",
+    "bugfix",
+    "build-config",
+    "cli",
+    "code-review",
+    "debugging",
+    "exploration",
+    "feature-implementation",
+    "generic",
+    "ghostty",
+    "git",
+    "ime",
+    "instructions",
+    "investigation",
+    "issue",
+    "issue-investigation",
+    "performance",
+    "refactoring",
+    "repository-management",
+    "rust",
+    "shell-selection",
+    "skills",
+    "terminal",
+    "test",
+    "tool",
+    "tsf",
+    "ui",
+    "ui-migration",
+    "windows",
+    "windows-terminal",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "multimodal-cli-debugging"
+domain = "AI & Machine Learning"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.706213300Z"
+content_hash = "3a008c079cf3d7e614122322e164f78dacbd7117acc2a5c8c459d61049032e10"
+categories = [
+    "LLM",
+    "TypeScript",
+    "api",
+    "automation",
+    "camera",
+    "claude",
+    "cli",
+    "gemini",
+    "inference",
+    "mcp",
+    "model",
+    "ocr",
+    "prompting",
+    "session-analysis",
+    "skills",
+    "terminal",
+    "vision",
+]
+
+[[entries]]
+slug = "paving-construction-workflow"
+domain = "Miscellaneous"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.706341200Z"
+content_hash = "431f6932b060f3be511ec4171bb5ac6bae3e43526fbfacff8d902a3c26a4c001"
+categories = [
+    "Git",
+    "WinUI3",
+    "WinUI3-Islands",
+    "Zig",
+    "analysis",
+    "bash",
+    "build-system",
+    "civil-engineering",
+    "cleanup",
+    "construction",
+    "construction-tech",
+    "crash",
+    "data-analysis",
+    "data-structure",
+    "debugging",
+    "disk-usage",
+    "extraction",
+    "ime",
+    "investigation",
+    "japanese",
+    "logging",
+    "logs",
+    "maintenance",
+    "meta",
+    "paveos",
+    "photo-analysis",
+    "project-management",
+    "refactor",
+    "refactoring",
+    "regression",
+    "system",
+    "terminal",
+    "tsf",
+    "win32",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "paving-project-ontology"
+domain = "Miscellaneous"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.706479300Z"
+content_hash = "9ce207727d381cb303894e40ecf26097ab070ddac4a4e1c78e046fb3f7b25213"
+categories = [
+    "Git",
+    "WinUI3",
+    "WinUI3-Islands",
+    "Zig",
+    "analysis",
+    "bash",
+    "build-system",
+    "civil-engineering",
+    "cleanup",
+    "construction",
+    "construction-tech",
+    "crash",
+    "data-analysis",
+    "data-structure",
+    "debugging",
+    "disk-usage",
+    "extraction",
+    "ime",
+    "investigation",
+    "japanese",
+    "logging",
+    "logs",
+    "maintenance",
+    "meta",
+    "paveos",
+    "photo-analysis",
+    "project-management",
+    "refactor",
+    "refactoring",
+    "regression",
+    "system",
+    "terminal",
+    "tsf",
+    "win32",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "rust-win32-ffi"
+domain = "Testing & QA"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.706620500Z"
+content_hash = "62a0cdff4b0cb7a5285b02e11e0e781af6493d5b25eb667339fa27515d1ad40a"
+categories = [
+    "Ghostty",
+    "PowerShell",
+    "UI Automation",
+    "UIA",
+    "WinUI3",
+    "Zig",
+    "agent-relay",
+    "automation",
+    "bug-fix",
+    "codex",
+    "debugging",
+    "full-cycle",
+    "ghostty",
+    "observer",
+    "powershell",
+    "regression",
+    "rust",
+    "test",
+    "test-runner",
+    "testing",
+    "unit test",
+    "zig",
+]
+
+[[entries]]
+slug = "semantic-issue-audit-redirection"
+domain = "Testing & QA"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.706712800Z"
+content_hash = "6eb524f11b18ae72c2b2898ca817bb03bb08dddd9baae7a80ffc2e2023505957"
+categories = [
+    "Automation",
+    "Ghostty",
+    "IME",
+    "Integration Test",
+    "TSF",
+    "Verification",
+]
+
+[[entries]]
+slug = "semantic-state-classification"
+domain = "AI & Machine Learning"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.706818500Z"
+content_hash = "98d2517e72f2d3ada33427f14d87ad5a7439f6d13a54cf54b2f11617b564a968"
+categories = [
+    "Agent",
+    "Claude",
+    "LLM",
+    "State Management",
+]
+
+[[entries]]
+slug = "standardized-agent-lifecycle"
+domain = "Documentation"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.706904300Z"
+content_hash = "7ef6366dedaea7be294f3bb8fb7c0bc79fe1317c5362b2de30515c65dda91d6a"
+
+[[entries]]
+slug = "system-component-isolation"
+domain = "AI & Machine Learning"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.707151800Z"
+content_hash = "ec7f560da0cce1ab250c254f0cec47c123161901bdfc7a72f2b696979cea59de"
+categories = [
+    "AGENTS.md",
+    "AI agents",
+    "Claude",
+    "DevOps",
+    "Gemini",
+    "LLM",
+    "Rust",
+    "agent",
+    "ai",
+    "automation",
+    "classification",
+    "claude",
+    "context",
+    "extraction",
+    "gemini",
+    "history analysis",
+    "llm",
+    "machine-learning",
+    "metadata-extraction",
+    "prompt",
+    "prompt engineering",
+    "rust",
+    "session-analysis",
+    "state-management",
+    "summaries",
+    "summarization",
+    "summary",
+]
+
+[[entries]]
+slug = "targeted-verification-design"
+domain = "Testing & QA"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.707265800Z"
+content_hash = "dc32a37182fdf4f110ee8d5e2f8aeb3085efea6845b3222bf221141afb979223"
+categories = [
+    "Ghostty",
+    "IME",
+    "UAF",
+    "Windows",
+    "coverage",
+    "ghostty",
+    "ime",
+    "issue-tracking",
+    "lifecycle",
+    "memory-safety",
+    "powershell",
+    "ps1",
+    "qa",
+    "regression",
+    "regression-verification",
+    "test",
+    "testing",
+    "tsf",
+    "uaf",
+    "verification",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "temporal-wait-state-nuance"
+domain = "AI & Machine Learning"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.707363600Z"
+content_hash = "641fbc3ae857105f9708e68ef97af7e4100ccaa59f4798b4bd96b2d0e026c357"
+categories = [
+    "Agent",
+    "Claude",
+    "LLM",
+    "State Management",
+]
+
+[[entries]]
+slug = "terminal-architecture-anatomy"
+domain = "Documentation"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.707454700Z"
+content_hash = "975fa0780a2fd85ef08a30b1dbcae95198a6bb442f22643af7ab348af4cc1032"
+categories = [
+    "AGENTS.md",
+    "AI Integration",
+    "Claude Skill",
+    "Ghostty",
+    "Guide",
+    "User Manual",
+]
+
+[[entries]]
+slug = "terminal-automation-qa"
+domain = "Testing & QA"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.707585300Z"
+content_hash = "b2b93253500b61a1bb26befabab73230ff70c7f6c69c5b5f9a2b414842671dd3"
+categories = [
+    "Ghostty",
+    "PowerShell",
+    "UI Automation",
+    "UIA",
+    "WinUI3",
+    "Zig",
+    "agent-relay",
+    "automation",
+    "bug-fix",
+    "codex",
+    "debugging",
+    "full-cycle",
+    "ghostty",
+    "observer",
+    "powershell",
+    "regression",
+    "rust",
+    "test",
+    "test-runner",
+    "testing",
+    "unit test",
+    "zig",
+]
+
+[[entries]]
+slug = "terminal-conceptual-model"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.707700300Z"
+content_hash = "5522edd72780b164c4a13fc1bcad4b506a88c22d92dae3a887540a227237c2bf"
+categories = [
+    "agent-ctl",
+    "agents",
+    "bash",
+    "bug-fix",
+    "build",
+    "ci",
+    "claude",
+    "clipboard",
+    "dll",
+    "ghostty",
+    "hacking",
+    "ime",
+    "installer",
+    "llm",
+    "manual",
+    "markdown",
+    "powershell",
+    "refactoring",
+    "rust",
+    "selection",
+    "state-management",
+    "test",
+    "verification",
+    "win32",
+    "windows-terminal",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "terminal-cp-architecture"
+domain = "CLI & Tooling"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.707806700Z"
+content_hash = "b3faaa31da28fe43da4286a2627085cbd0b1c8cce52cea2176a5f685fd5a1731"
+categories = [
+    "Bash",
+    "Bug Fix",
+    "DLL",
+    "FFI",
+    "Feature Implementation",
+    "Ghostty",
+    "IME",
+    "Migration",
+    "Selection",
+    "Terminal",
+    "UI",
+    "WinUI3",
+    "Windows Terminal",
+    "Zig",
+]
+
+[[entries]]
+slug = "terminal-ime-debugging"
+domain = "Miscellaneous"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.707938900Z"
+content_hash = "2f8cf59b5f70567bf1f3c8e340dad16ee4ec66fb5aef4b45c779d91726c56813"
+categories = [
+    "Git",
+    "WinUI3",
+    "WinUI3-Islands",
+    "Zig",
+    "analysis",
+    "bash",
+    "build-system",
+    "civil-engineering",
+    "cleanup",
+    "construction",
+    "construction-tech",
+    "crash",
+    "data-analysis",
+    "data-structure",
+    "debugging",
+    "disk-usage",
+    "extraction",
+    "ime",
+    "investigation",
+    "japanese",
+    "logging",
+    "logs",
+    "maintenance",
+    "meta",
+    "paveos",
+    "photo-analysis",
+    "project-management",
+    "refactor",
+    "refactoring",
+    "regression",
+    "system",
+    "terminal",
+    "tsf",
+    "win32",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "terminal-input-debugging"
+domain = "Miscellaneous"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.708009800Z"
+content_hash = "822879fd7269ed55e8e3aff8028c9a01dec4ed2347f80e33c07db8866c56ee77"
+
+[[entries]]
+slug = "terminal-input-tsf-debugging"
+domain = "CLI & Tooling"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.708185800Z"
+content_hash = "c47d06d1e74db117877735c75a50b9224d431a2aebb08f485c50f992d9f078f7"
+categories = [
+    "DLL",
+    "IME",
+    "WinUI3",
+    "Windows",
+    "Windows Terminal",
+    "XAML",
+    "Zig",
+    "agent-config",
+    "automation",
+    "bugfix",
+    "build-config",
+    "cli",
+    "code-review",
+    "debugging",
+    "exploration",
+    "feature-implementation",
+    "generic",
+    "ghostty",
+    "git",
+    "ime",
+    "instructions",
+    "investigation",
+    "issue",
+    "issue-investigation",
+    "performance",
+    "refactoring",
+    "repository-management",
+    "rust",
+    "shell-selection",
+    "skills",
+    "terminal",
+    "test",
+    "tool",
+    "tsf",
+    "ui",
+    "ui-migration",
+    "windows",
+    "windows-terminal",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "terminal-logic-verbatim-translation"
+domain = "Documentation"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.708301900Z"
+content_hash = "23d38fc4d8d8df3fd0216def1e969e7b80197d0a08c60010b91db8f1428046d3"
+categories = [
+    "AGENTS.md",
+    "Ghostty",
+    "code-explanation",
+    "configuration",
+    "documentation",
+    "ghostty-win",
+    "project-scope",
+    "terminal",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "terminal-session-state-debugging"
+domain = "Testing & QA"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.708402500Z"
+content_hash = "e66a5e94b7b919a189e631230f9f62b55bf9dc10fcb71f534be8c620238d4b3e"
+categories = [
+    "IME fix",
+    "automated-test",
+    "ghostty",
+    "ime",
+    "regression",
+    "test",
+    "test-scripts",
+    "uiautomation",
+    "unit-test",
+    "verification",
+    "windows-terminal",
+]
+
+[[entries]]
+slug = "test-runner-architecture"
+domain = "Testing & QA"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.708533100Z"
+content_hash = "23e10d98289074ae69d8d6279aca9f65af0c9d09396a23ee6fd7a413051e58b7"
+categories = [
+    "Ghostty",
+    "PowerShell",
+    "UI Automation",
+    "UIA",
+    "WinUI3",
+    "Zig",
+    "agent-relay",
+    "automation",
+    "bug-fix",
+    "codex",
+    "debugging",
+    "full-cycle",
+    "ghostty",
+    "observer",
+    "powershell",
+    "regression",
+    "rust",
+    "test",
+    "test-runner",
+    "testing",
+    "unit test",
+    "zig",
+]
+
+[[entries]]
+slug = "test-session-pollution"
+domain = "Testing & QA"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.708615900Z"
+content_hash = "f7aa1f4a5e6a4c851cce3c36b4476973edbdfde9bbc4b52cf3b33ae77ef2ae16"
+categories = [
+    "Automation",
+    "Ghostty",
+    "IME",
+    "Integration Test",
+    "TSF",
+    "Verification",
+]
+
+[[entries]]
+slug = "tsf-binding-parity"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.708737700Z"
+content_hash = "b742ce5f83802931258ebf8d518d8ad8d540ca3632548ea0217dc100bd6a1645"
+categories = [
+    "agent-ctl",
+    "agents",
+    "bash",
+    "bug-fix",
+    "build",
+    "ci",
+    "claude",
+    "clipboard",
+    "dll",
+    "ghostty",
+    "hacking",
+    "ime",
+    "installer",
+    "llm",
+    "manual",
+    "markdown",
+    "powershell",
+    "refactoring",
+    "rust",
+    "selection",
+    "state-management",
+    "test",
+    "verification",
+    "win32",
+    "windows-terminal",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "tsf-ime-regression-analysis"
+domain = "Testing & QA"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.708842900Z"
+content_hash = "af5276961e9f4a563dcfc4ce16ff0c36bf97820c904ace1a748b2bc4ed6784c0"
+categories = [
+    "Ghostty",
+    "IME",
+    "UAF",
+    "Windows",
+    "coverage",
+    "ghostty",
+    "ime",
+    "issue-tracking",
+    "lifecycle",
+    "memory-safety",
+    "powershell",
+    "ps1",
+    "qa",
+    "regression",
+    "regression-verification",
+    "test",
+    "testing",
+    "tsf",
+    "uaf",
+    "verification",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "tsf-ime-xaml-islands"
+domain = "CLI & Tooling"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.708949Z"
+content_hash = "d90723e5ec49d27264af82e15beb548d1f90a1f582c82c513859a79aa7e69e5f"
+categories = [
+    "Bash",
+    "Bug Fix",
+    "DLL",
+    "FFI",
+    "Feature Implementation",
+    "Ghostty",
+    "IME",
+    "Migration",
+    "Selection",
+    "Terminal",
+    "UI",
+    "WinUI3",
+    "Windows Terminal",
+    "Zig",
+]
+
+[[entries]]
+slug = "tsf-xaml-islands-binding-drift"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.709084400Z"
+content_hash = "5378856258c664f5155dad79bdbd0b2cc14e27b7229dd1ddf9ffff2802600cca"
+categories = [
+    "AGENTS.md",
+    "AI Agents",
+    "Agent",
+    "Automation",
+    "Bash",
+    "Build",
+    "CLI",
+    "DLL",
+    "Docs",
+    "Documentation",
+    "FFI",
+    "Fix Validation",
+    "Ghostty",
+    "Guide",
+    "IME",
+    "Implementation",
+    "Integration Test",
+    "LLM",
+    "PowerShell",
+    "Prompt",
+    "README",
+    "Rust",
+    "Script",
+    "State Management",
+    "TSF",
+    "Terminal",
+    "Tutorial",
+    "UI",
+    "Unit Test",
+    "Validation",
+    "Verification",
+    "WinUI3",
+    "Windows Terminal",
+    "Zig",
+    "agent",
+    "ai-agents",
+    "bash",
+    "bug-fix",
+    "build-system",
+    "ci",
+    "clipboard",
+    "config",
+    "dll",
+    "docs",
+    "feature",
+    "files",
+    "gemini",
+    "ghostty",
+    "git",
+    "ime",
+    "llm",
+    "manual",
+    "migration",
+    "powershell",
+    "refactoring",
+    "regression-test",
+    "rust",
+    "shell",
+    "state-management",
+    "testing",
+    "tsf",
+    "tutorial",
+    "ui",
+    "verification",
+    "windows",
+    "windows-terminal",
+    "zig",
+]
+
+[[entries]]
+slug = "tui-initialization-race-condition"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.709214800Z"
+content_hash = "3b738f6d91ac17d8eff0cef22c66c591cf76e8d993de66d89f6a9e43ae96ea4b"
+categories = [
+    "AGENTS.md",
+    "AI Agents",
+    "Agent",
+    "Automation",
+    "Bash",
+    "Build",
+    "CLI",
+    "DLL",
+    "Docs",
+    "Documentation",
+    "FFI",
+    "Fix Validation",
+    "Ghostty",
+    "Guide",
+    "IME",
+    "Implementation",
+    "Integration Test",
+    "LLM",
+    "PowerShell",
+    "Prompt",
+    "README",
+    "Rust",
+    "Script",
+    "State Management",
+    "TSF",
+    "Terminal",
+    "Tutorial",
+    "UI",
+    "Unit Test",
+    "Validation",
+    "Verification",
+    "WinUI3",
+    "Windows Terminal",
+    "Zig",
+    "agent",
+    "ai-agents",
+    "bash",
+    "bug-fix",
+    "build-system",
+    "ci",
+    "clipboard",
+    "config",
+    "dll",
+    "docs",
+    "feature",
+    "files",
+    "gemini",
+    "ghostty",
+    "git",
+    "ime",
+    "llm",
+    "manual",
+    "migration",
+    "powershell",
+    "refactoring",
+    "regression-test",
+    "rust",
+    "shell",
+    "state-management",
+    "testing",
+    "tsf",
+    "tutorial",
+    "ui",
+    "verification",
+    "windows",
+    "windows-terminal",
+    "zig",
+]
+
+[[entries]]
+slug = "upstream-contribution-strategy"
+domain = "AI & Machine Learning"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.709464900Z"
+content_hash = "93465d11fbd1515631e0a5758ae8f65f6d7026c4c3a802fb1f1c3289622704de"
+categories = [
+    "AGENTS.md",
+    "AI agents",
+    "Claude",
+    "DevOps",
+    "Gemini",
+    "LLM",
+    "Rust",
+    "agent",
+    "ai",
+    "automation",
+    "classification",
+    "claude",
+    "context",
+    "extraction",
+    "gemini",
+    "history analysis",
+    "llm",
+    "machine-learning",
+    "metadata-extraction",
+    "prompt",
+    "prompt engineering",
+    "rust",
+    "session-analysis",
+    "state-management",
+    "summaries",
+    "summarization",
+    "summary",
+]
+
+[[entries]]
+slug = "win32-dev-environment-safety"
+domain = "CLI & Tooling"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.709646900Z"
+content_hash = "d203700648e9c1f6a90939b8303d20c5d529e3d3f6e2507308cd7d5c0bf5602a"
+categories = [
+    "DLL",
+    "IME",
+    "WinUI3",
+    "Windows",
+    "Windows Terminal",
+    "XAML",
+    "Zig",
+    "agent-config",
+    "automation",
+    "bugfix",
+    "build-config",
+    "cli",
+    "code-review",
+    "debugging",
+    "exploration",
+    "feature-implementation",
+    "generic",
+    "ghostty",
+    "git",
+    "ime",
+    "instructions",
+    "investigation",
+    "issue",
+    "issue-investigation",
+    "performance",
+    "refactoring",
+    "repository-management",
+    "rust",
+    "shell-selection",
+    "skills",
+    "terminal",
+    "test",
+    "tool",
+    "tsf",
+    "ui",
+    "ui-migration",
+    "windows",
+    "windows-terminal",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "windows-ffi-encoding"
+domain = "CLI & Tooling"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.710053100Z"
+content_hash = "8e19566d5fde41ebe012d50c4aa92b54fe46849216d160c45de1094d5dee95d2"
+categories = [
+    "CLI",
+    "FFI",
+    "Ghostty",
+    "GitHub",
+    "Go",
+    "IME",
+    "LLM",
+    "MCP",
+    "PowerShell",
+    "Rust",
+    "WinUI3",
+    "Zig",
+    "agent",
+    "agent-deck",
+    "agent-skills",
+    "analysis",
+    "api",
+    "automation",
+    "backend",
+    "bash",
+    "benchmarking",
+    "billing",
+    "bindings",
+    "bug-fix",
+    "bugfix",
+    "claude",
+    "claude-code",
+    "cli",
+    "command-line",
+    "config",
+    "control-plane",
+    "cost-tracking",
+    "credits",
+    "debugging",
+    "encoding",
+    "feature-implementation",
+    "fsnotify",
+    "gemini",
+    "gh-cli",
+    "ghostty",
+    "git",
+    "go",
+    "history",
+    "ime",
+    "ipc",
+    "issue-tracking",
+    "llm",
+    "mcp",
+    "migration",
+    "powershell",
+    "profiler",
+    "protocol",
+    "quota",
+    "ripgrep",
+    "rust",
+    "script",
+    "skills",
+    "state-management",
+    "statsig",
+    "terminal",
+    "tmux",
+    "tooling",
+    "ui-porting",
+    "usage",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "windows-ime-tsf-integration"
+domain = "CLI & Tooling"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.710432300Z"
+content_hash = "5370ab6dff1e7f0ee6a3c3859a2b6a4c4670d4fba159713e2c586c8e087d1214"
+categories = [
+    "CLI",
+    "FFI",
+    "Ghostty",
+    "GitHub",
+    "Go",
+    "IME",
+    "LLM",
+    "MCP",
+    "PowerShell",
+    "Rust",
+    "WinUI3",
+    "Zig",
+    "agent",
+    "agent-deck",
+    "agent-skills",
+    "analysis",
+    "api",
+    "automation",
+    "backend",
+    "bash",
+    "benchmarking",
+    "billing",
+    "bindings",
+    "bug-fix",
+    "bugfix",
+    "claude",
+    "claude-code",
+    "cli",
+    "command-line",
+    "config",
+    "control-plane",
+    "cost-tracking",
+    "credits",
+    "debugging",
+    "encoding",
+    "feature-implementation",
+    "fsnotify",
+    "gemini",
+    "gh-cli",
+    "ghostty",
+    "git",
+    "go",
+    "history",
+    "ime",
+    "ipc",
+    "issue-tracking",
+    "llm",
+    "mcp",
+    "migration",
+    "powershell",
+    "profiler",
+    "protocol",
+    "quota",
+    "ripgrep",
+    "rust",
+    "script",
+    "skills",
+    "state-management",
+    "statsig",
+    "terminal",
+    "tmux",
+    "tooling",
+    "ui-porting",
+    "usage",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "windows-ipc-rust"
+domain = "CLI & Tooling"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.710518400Z"
+content_hash = "44ee5e164946f07c12d167f028c6e031f018536c9d3a8c74987915ffe68bee56"
+
+[[entries]]
+slug = "windows-terminal-internals"
+domain = "CLI & Tooling"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.710592Z"
+content_hash = "2abb4cf16f5a9a760fdf8e68de08b1084ee1668e5c5cd3c7fad76f130e2950c3"
+
+[[entries]]
+slug = "windows-test-environment-hygiene"
+domain = "Testing & QA"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.710693Z"
+content_hash = "9733b4f8364492bb802e9c9ebd697fe536c4ec2060340872e849463740f0ab06"
+categories = [
+    "Ghostty",
+    "IME",
+    "UAF",
+    "Windows",
+    "coverage",
+    "ghostty",
+    "ime",
+    "issue-tracking",
+    "lifecycle",
+    "memory-safety",
+    "powershell",
+    "ps1",
+    "qa",
+    "regression",
+    "regression-verification",
+    "test",
+    "testing",
+    "tsf",
+    "uaf",
+    "verification",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "windows-tsf-ime-integration"
+domain = "Miscellaneous"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.710773400Z"
+content_hash = "f187909fe2798a163e4ac5a99d8f0661a0a01e9436078d72fd9e05b89a2d31bf"
+
+[[entries]]
+slug = "windows-tsf-lifecycle-management"
+domain = "Documentation"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.710865800Z"
+content_hash = "decd70eb06cfddf88249ae188a3b4b920383fbd89000051993803fb9cbd9e108"
+categories = [
+    "Markdown",
+    "agent",
+    "config",
+    "instructions",
+    "issue",
+    "report",
+    "skills",
+]
+
+[[entries]]
+slug = "winrt-abi-binding-safety"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.711009900Z"
+content_hash = "53046c22b70645ba96c9c5751f62af6ac8650e8120f372ca30484a8698e9baff"
+categories = [
+    "AGENTS.md",
+    "AI Agents",
+    "Agent",
+    "Automation",
+    "Bash",
+    "Build",
+    "CLI",
+    "DLL",
+    "Docs",
+    "Documentation",
+    "FFI",
+    "Fix Validation",
+    "Ghostty",
+    "Guide",
+    "IME",
+    "Implementation",
+    "Integration Test",
+    "LLM",
+    "PowerShell",
+    "Prompt",
+    "README",
+    "Rust",
+    "Script",
+    "State Management",
+    "TSF",
+    "Terminal",
+    "Tutorial",
+    "UI",
+    "Unit Test",
+    "Validation",
+    "Verification",
+    "WinUI3",
+    "Windows Terminal",
+    "Zig",
+    "agent",
+    "ai-agents",
+    "bash",
+    "bug-fix",
+    "build-system",
+    "ci",
+    "clipboard",
+    "config",
+    "dll",
+    "docs",
+    "feature",
+    "files",
+    "gemini",
+    "ghostty",
+    "git",
+    "ime",
+    "llm",
+    "manual",
+    "migration",
+    "powershell",
+    "refactoring",
+    "regression-test",
+    "rust",
+    "shell",
+    "state-management",
+    "testing",
+    "tsf",
+    "tutorial",
+    "ui",
+    "verification",
+    "windows",
+    "windows-terminal",
+    "zig",
+]
+
+[[entries]]
+slug = "winrt-ui-mvp-design"
+domain = "CLI & Tooling"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.711378200Z"
+content_hash = "c46f92366e398d1b2431188a20c35558843dafeb477d7011a3180b90d7f1e7ac"
+categories = [
+    "CLI",
+    "FFI",
+    "Ghostty",
+    "GitHub",
+    "Go",
+    "IME",
+    "LLM",
+    "MCP",
+    "PowerShell",
+    "Rust",
+    "WinUI3",
+    "Zig",
+    "agent",
+    "agent-deck",
+    "agent-skills",
+    "analysis",
+    "api",
+    "automation",
+    "backend",
+    "bash",
+    "benchmarking",
+    "billing",
+    "bindings",
+    "bug-fix",
+    "bugfix",
+    "claude",
+    "claude-code",
+    "cli",
+    "command-line",
+    "config",
+    "control-plane",
+    "cost-tracking",
+    "credits",
+    "debugging",
+    "encoding",
+    "feature-implementation",
+    "fsnotify",
+    "gemini",
+    "gh-cli",
+    "ghostty",
+    "git",
+    "go",
+    "history",
+    "ime",
+    "ipc",
+    "issue-tracking",
+    "llm",
+    "mcp",
+    "migration",
+    "powershell",
+    "profiler",
+    "protocol",
+    "quota",
+    "ripgrep",
+    "rust",
+    "script",
+    "skills",
+    "state-management",
+    "statsig",
+    "terminal",
+    "tmux",
+    "tooling",
+    "ui-porting",
+    "usage",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "winrt-zig-binding-generation"
+domain = "CLI & Tooling"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.711482200Z"
+content_hash = "6c7a8f8e33bbc79e44faf61c62f4ddf5b1686a106e24cae68b76798570ef0d90"
+categories = [
+    "Bash",
+    "Bug Fix",
+    "DLL",
+    "FFI",
+    "Feature Implementation",
+    "Ghostty",
+    "IME",
+    "Migration",
+    "Selection",
+    "Terminal",
+    "UI",
+    "WinUI3",
+    "Windows Terminal",
+    "Zig",
+]
+
+[[entries]]
+slug = "winrt-zig-bridge-conventions"
+domain = "Documentation"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.711619400Z"
+content_hash = "dc7ae0be85e7e50a4054bf272f2aa201374727cb0f97c8c192d63a52d7a889b5"
+categories = [
+    "AGENTS.md",
+    "Ghostty",
+    "code-explanation",
+    "configuration",
+    "documentation",
+    "ghostty-win",
+    "project-scope",
+    "terminal",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "winui3-performance-optimization"
+domain = "CLI & Tooling"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.711816600Z"
+content_hash = "b79e562d16ab34194faaa208b74cc359edea9eae949bca6d7668103c4cb40a93"
+categories = [
+    "DLL",
+    "IME",
+    "WinUI3",
+    "Windows",
+    "Windows Terminal",
+    "XAML",
+    "Zig",
+    "agent-config",
+    "automation",
+    "bugfix",
+    "build-config",
+    "cli",
+    "code-review",
+    "debugging",
+    "exploration",
+    "feature-implementation",
+    "generic",
+    "ghostty",
+    "git",
+    "ime",
+    "instructions",
+    "investigation",
+    "issue",
+    "issue-investigation",
+    "performance",
+    "refactoring",
+    "repository-management",
+    "rust",
+    "shell-selection",
+    "skills",
+    "terminal",
+    "test",
+    "tool",
+    "tsf",
+    "ui",
+    "ui-migration",
+    "windows",
+    "windows-terminal",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "winui3-terminal-rendering"
+domain = "Miscellaneous"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.711903600Z"
+content_hash = "990d4d37053b441fbe012497d9ed3334c3ff88b71f994575a5c37c58df43e3b4"
+
+[[entries]]
+slug = "winui3-terminal-ui-porting"
+domain = "CLI & Tooling"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.712004300Z"
+content_hash = "b8de4a00c82ebf9a3e58e94c28dfcf26c91aaabb1804d3132fdadf349a03de89"
+categories = [
+    "Bash",
+    "Bug Fix",
+    "DLL",
+    "FFI",
+    "Feature Implementation",
+    "Ghostty",
+    "IME",
+    "Migration",
+    "Selection",
+    "Terminal",
+    "UI",
+    "WinUI3",
+    "Windows Terminal",
+    "Zig",
+]
+
+[[entries]]
+slug = "winui3-xaml-islands"
+domain = "CLI & Tooling"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.712086600Z"
+content_hash = "80b5a3630a290064c2bcfde728d6402118fde4d545334d9908e89a1e69531d97"
+
+[[entries]]
+slug = "winui3-zig-app-dev"
+domain = "Miscellaneous"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.712185500Z"
+content_hash = "e505bc52818bdfd284a1464c691603ff9dad7eb65217c4991e1b2dd1068a697c"
+categories = [
+    "D3D11",
+    "WinUI3",
+    "Zig",
+    "classification",
+    "meta-task",
+    "renderer",
+    "systems programming",
+]
+
+[[entries]]
+slug = "winui3-zig-portability"
+domain = "AI & Machine Learning"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.712480Z"
+content_hash = "8186b965d1aa1cf2665150458d6872d80c84ff282c01b4952ae385876a4e9b82"
+categories = [
+    "AGENTS.md",
+    "AI agents",
+    "Claude",
+    "DevOps",
+    "Gemini",
+    "LLM",
+    "Rust",
+    "agent",
+    "ai",
+    "automation",
+    "classification",
+    "claude",
+    "context",
+    "extraction",
+    "gemini",
+    "history analysis",
+    "llm",
+    "machine-learning",
+    "metadata-extraction",
+    "prompt",
+    "prompt engineering",
+    "rust",
+    "session-analysis",
+    "state-management",
+    "summaries",
+    "summarization",
+    "summary",
+]
+
+[[entries]]
+slug = "winui3-zig-release-diagnostics"
+domain = "Documentation"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.712618100Z"
+content_hash = "e1e10f5c716df30697f8185ae94f45d33ecd2b98b1f6ac0e258c15e22b94e580"
+categories = [
+    "AGENTS.md",
+    "Ghostty",
+    "code-explanation",
+    "configuration",
+    "documentation",
+    "ghostty-win",
+    "project-scope",
+    "terminal",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "zig-gui-refactoring"
+domain = "Miscellaneous"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.712782200Z"
+content_hash = "1e8695a9edb6cd428fbdf2faa243dc0014bb2d8e2f209407799c39831a1426fe"
+categories = [
+    "Git",
+    "WinUI3",
+    "WinUI3-Islands",
+    "Zig",
+    "analysis",
+    "bash",
+    "build-system",
+    "civil-engineering",
+    "cleanup",
+    "construction",
+    "construction-tech",
+    "crash",
+    "data-analysis",
+    "data-structure",
+    "debugging",
+    "disk-usage",
+    "extraction",
+    "ime",
+    "investigation",
+    "japanese",
+    "logging",
+    "logs",
+    "maintenance",
+    "meta",
+    "paveos",
+    "photo-analysis",
+    "project-management",
+    "refactor",
+    "refactoring",
+    "regression",
+    "system",
+    "terminal",
+    "tsf",
+    "win32",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "zig-logging-standardization"
+domain = "Documentation"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.712910500Z"
+content_hash = "f21c33e3049c72f0d645ed1a6cabf4feeaca81fad85d96a5ed1fdf3a93a0e921"
+categories = [
+    "Markdown",
+    "agent",
+    "config",
+    "instructions",
+    "issue",
+    "report",
+    "skills",
+]
+
+[[entries]]
+slug = "zig-performance-optimization"
+domain = "Miscellaneous"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.713029300Z"
+content_hash = "6a7cb500577ade527b4a344606d7d79815383edd80ce35afea8b288554cd6229"
+categories = [
+    "D3D11",
+    "WinUI3",
+    "Zig",
+    "classification",
+    "meta-task",
+    "renderer",
+    "systems programming",
+]
+
+[[entries]]
+slug = "zig-renderer-profiling"
+domain = "Miscellaneous"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.713131400Z"
+content_hash = "660a7ef3d4b4dc5b9b4e3bb562b9ab978729321914ed3aabe14f2c5936cfa62d"
+categories = [
+    "D3D11",
+    "WinUI3",
+    "Zig",
+    "classification",
+    "meta-task",
+    "renderer",
+    "systems programming",
+]
+
+[[entries]]
+slug = "zig-upstream-compatibility"
+domain = "AI & Machine Learning"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.713382600Z"
+content_hash = "31d34051ac93a32fbbb8d22f103c1837813bc713d46476da98f50945468e7eca"
+categories = [
+    "AGENTS.md",
+    "AI agents",
+    "Claude",
+    "DevOps",
+    "Gemini",
+    "LLM",
+    "Rust",
+    "agent",
+    "ai",
+    "automation",
+    "classification",
+    "claude",
+    "context",
+    "extraction",
+    "gemini",
+    "history analysis",
+    "llm",
+    "machine-learning",
+    "metadata-extraction",
+    "prompt",
+    "prompt engineering",
+    "rust",
+    "session-analysis",
+    "state-management",
+    "summaries",
+    "summarization",
+    "summary",
+]
+
+[[entries]]
+slug = "zig-version-migration"
+domain = "Miscellaneous"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.713474500Z"
+content_hash = "82680d474f6f8ebc6db2824d4d14cdf4540238a56fa0f58e5a36a6542cc8ae6e"
+categories = [
+    "D3D11",
+    "WinUI3",
+    "Zig",
+    "classification",
+    "meta-task",
+    "renderer",
+    "systems programming",
+]
+
+[[entries]]
+slug = "zig-winrt-binding-automation"
+domain = "Miscellaneous"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.713547Z"
+content_hash = "5a6f7619b5f622a0de42521fd566dbb064c4b15d958491de3c6fbc7e2a55045d"
+
+[[entries]]
+slug = "zig-winui3-memory-safety"
+domain = "Testing & QA"
+status = "draft"
+pattern_count = 1
+conversation_count = 0
+generated_at = "2026-03-28T12:52:55.713652100Z"
+content_hash = "3493bfaa333e37b5e4d1fac1e001a00f131d755652358de2b08d143e9b6f8a71"
+categories = [
+    "Ghostty",
+    "IME",
+    "UAF",
+    "Windows",
+    "coverage",
+    "ghostty",
+    "ime",
+    "issue-tracking",
+    "lifecycle",
+    "memory-safety",
+    "powershell",
+    "ps1",
+    "qa",
+    "regression",
+    "regression-verification",
+    "test",
+    "testing",
+    "tsf",
+    "uaf",
+    "verification",
+    "winui3",
+    "zig",
+]
+
+[[entries]]
+slug = "async-io-result-validation"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 104
+generated_at = "2026-03-28T13:17:32.264596Z"
+content_hash = "503b1f0b2a344cc5868b474ca31208b16c7ac091541f33b8e1710f9386a7e958"
+categories = [
+    "AGENTS.md",
+    "Architecture",
+    "CI/CD",
+    "CLI",
+    "CSV",
+    "Canvas",
+    "Claude Code",
+    "Codebase Investigation",
+    "DXF",
+    "DirectX",
+    "E2E",
+    "Excel",
+    "FFI",
+    "Flutter",
+    "GitHub Actions",
+    "Go",
+    "HLSL",
+    "HWND",
+    "IME",
+    "IPC",
+    "JSON",
+    "MCP",
+    "MSYS",
+    "OCR",
+    "PTY",
+    "Python",
+    "README",
+    "Refactoring",
+    "ResolveTool",
+    "Rust",
+    "SendKeys",
+    "TDD",
+    "TSF",
+    "TUI",
+    "UI",
+    "UIA",
+    "WASM",
+    "Web",
+    "WinUI3",
+    "Windows",
+    "Zig",
+    "agent",
+    "agent-deck",
+    "agent-relay",
+    "ai",
+    "automation",
+    "batch",
+    "blink",
+    "brainstorming",
+    "bridge",
+    "bug-fix",
+    "camera",
+    "changelog",
+    "choco",
+    "cli",
+    "codebase-investigation",
+    "codex",
+    "com",
+    "config",
+    "control plane",
+    "control-plane",
+    "coordination",
+    "coverage",
+    "d3d11",
+    "debugging",
+    "deploy",
+    "deployment",
+    "docs",
+    "driver",
+    "dxf",
+    "dxf-engine",
+    "e2e-test",
+    "echo",
+    "edge-cases",
+    "egui",
+    "embodied-claude",
+    "environment setup",
+    "evaluation",
+    "event-delivery",
+    "extension",
+    "flutter-web",
+    "frontend",
+    "ghostty",
+    "git",
+    "github-issues",
+    "go",
+    "go test",
+    "go-test",
+    "golang",
+    "history-analysis",
+    "hlsl",
+    "hot-reload",
+    "image analysis",
+    "input",
+    "integration",
+    "integration-test",
+    "ipc",
+    "issue-management",
+    "issue-tracking",
+    "lifecycle-validation",
+    "llm",
+    "markdown",
+    "monitoring",
+    "multi-agent",
+    "multi-llm",
+    "named-pipes",
+    "npm",
+    "orchestration",
+    "pages",
+    "parser",
+    "path-conversion",
+    "planning",
+    "powershell",
+    "project-docs",
+    "prompt",
+    "prompt-abstraction",
+    "prompt-validation",
+    "protocol",
+    "protocol-aware",
+    "python",
+    "readiness-check",
+    "refactoring",
+    "regression",
+    "renderer",
+    "review",
+    "road-drawing",
+    "road-marking",
+    "roadmap",
+    "routing",
+    "rules",
+    "rust",
+    "scoop",
+    "script",
+    "session",
+    "session-launch",
+    "session-lifecycle",
+    "session-management",
+    "shader",
+    "skill",
+    "skill-management",
+    "skill-miner",
+    "skills",
+    "spreadsheet",
+    "state-machine",
+    "state-management",
+    "status",
+    "status-monitoring",
+    "summary",
+    "task-planning",
+    "tdd",
+    "terminal",
+    "terminal-automation",
+    "test",
+    "test failure",
+    "test results",
+    "testing",
+    "tmux",
+    "tool",
+    "tool-integration",
+    "tool-resolution",
+    "triangle-core",
+    "tsf",
+    "tui",
+    "ui",
+    "unit test",
+    "unit-test",
+    "verification",
+    "vision",
+    "vt",
+    "vtable",
+    "wasm",
+    "wasm-pack",
+    "widget-test",
+    "win32",
+    "windows-env",
+    "winui3",
+    "workflows",
+    "xaml",
+    "zig",
+]
+
+[[entries]]
+slug = "management-abstraction-integrity"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 104
+generated_at = "2026-03-28T13:17:32.264943400Z"
+content_hash = "9d6c3f0051148f59abca7eb1d8ad8c052056fd3f724296957f94c1ba7bc61b15"
+categories = [
+    "AGENTS.md",
+    "Architecture",
+    "CI/CD",
+    "CLI",
+    "CSV",
+    "Canvas",
+    "Claude Code",
+    "Codebase Investigation",
+    "DXF",
+    "DirectX",
+    "E2E",
+    "Excel",
+    "FFI",
+    "Flutter",
+    "GitHub Actions",
+    "Go",
+    "HLSL",
+    "HWND",
+    "IME",
+    "IPC",
+    "JSON",
+    "MCP",
+    "MSYS",
+    "OCR",
+    "PTY",
+    "Python",
+    "README",
+    "Refactoring",
+    "ResolveTool",
+    "Rust",
+    "SendKeys",
+    "TDD",
+    "TSF",
+    "TUI",
+    "UI",
+    "UIA",
+    "WASM",
+    "Web",
+    "WinUI3",
+    "Windows",
+    "Zig",
+    "agent",
+    "agent-deck",
+    "agent-relay",
+    "ai",
+    "automation",
+    "batch",
+    "blink",
+    "brainstorming",
+    "bridge",
+    "bug-fix",
+    "camera",
+    "changelog",
+    "choco",
+    "cli",
+    "codebase-investigation",
+    "codex",
+    "com",
+    "config",
+    "control plane",
+    "control-plane",
+    "coordination",
+    "coverage",
+    "d3d11",
+    "debugging",
+    "deploy",
+    "deployment",
+    "docs",
+    "driver",
+    "dxf",
+    "dxf-engine",
+    "e2e-test",
+    "echo",
+    "edge-cases",
+    "egui",
+    "embodied-claude",
+    "environment setup",
+    "evaluation",
+    "event-delivery",
+    "extension",
+    "flutter-web",
+    "frontend",
+    "ghostty",
+    "git",
+    "github-issues",
+    "go",
+    "go test",
+    "go-test",
+    "golang",
+    "history-analysis",
+    "hlsl",
+    "hot-reload",
+    "image analysis",
+    "input",
+    "integration",
+    "integration-test",
+    "ipc",
+    "issue-management",
+    "issue-tracking",
+    "lifecycle-validation",
+    "llm",
+    "markdown",
+    "monitoring",
+    "multi-agent",
+    "multi-llm",
+    "named-pipes",
+    "npm",
+    "orchestration",
+    "pages",
+    "parser",
+    "path-conversion",
+    "planning",
+    "powershell",
+    "project-docs",
+    "prompt",
+    "prompt-abstraction",
+    "prompt-validation",
+    "protocol",
+    "protocol-aware",
+    "python",
+    "readiness-check",
+    "refactoring",
+    "regression",
+    "renderer",
+    "review",
+    "road-drawing",
+    "road-marking",
+    "roadmap",
+    "routing",
+    "rules",
+    "rust",
+    "scoop",
+    "script",
+    "session",
+    "session-launch",
+    "session-lifecycle",
+    "session-management",
+    "shader",
+    "skill",
+    "skill-management",
+    "skill-miner",
+    "skills",
+    "spreadsheet",
+    "state-machine",
+    "state-management",
+    "status",
+    "status-monitoring",
+    "summary",
+    "task-planning",
+    "tdd",
+    "terminal",
+    "terminal-automation",
+    "test",
+    "test failure",
+    "test results",
+    "testing",
+    "tmux",
+    "tool",
+    "tool-integration",
+    "tool-resolution",
+    "triangle-core",
+    "tsf",
+    "tui",
+    "ui",
+    "unit test",
+    "unit-test",
+    "verification",
+    "vision",
+    "vt",
+    "vtable",
+    "wasm",
+    "wasm-pack",
+    "widget-test",
+    "win32",
+    "windows-env",
+    "winui3",
+    "workflows",
+    "xaml",
+    "zig",
+]
+
+[[entries]]
+slug = "named-pipe-cancel-drain-logic"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 104
+generated_at = "2026-03-28T13:17:32.265290200Z"
+content_hash = "f32517b5c7ee9a755579808f5ff0f6ebb1301ddaf93d8799738b792e36199c4b"
+categories = [
+    "AGENTS.md",
+    "Architecture",
+    "CI/CD",
+    "CLI",
+    "CSV",
+    "Canvas",
+    "Claude Code",
+    "Codebase Investigation",
+    "DXF",
+    "DirectX",
+    "E2E",
+    "Excel",
+    "FFI",
+    "Flutter",
+    "GitHub Actions",
+    "Go",
+    "HLSL",
+    "HWND",
+    "IME",
+    "IPC",
+    "JSON",
+    "MCP",
+    "MSYS",
+    "OCR",
+    "PTY",
+    "Python",
+    "README",
+    "Refactoring",
+    "ResolveTool",
+    "Rust",
+    "SendKeys",
+    "TDD",
+    "TSF",
+    "TUI",
+    "UI",
+    "UIA",
+    "WASM",
+    "Web",
+    "WinUI3",
+    "Windows",
+    "Zig",
+    "agent",
+    "agent-deck",
+    "agent-relay",
+    "ai",
+    "automation",
+    "batch",
+    "blink",
+    "brainstorming",
+    "bridge",
+    "bug-fix",
+    "camera",
+    "changelog",
+    "choco",
+    "cli",
+    "codebase-investigation",
+    "codex",
+    "com",
+    "config",
+    "control plane",
+    "control-plane",
+    "coordination",
+    "coverage",
+    "d3d11",
+    "debugging",
+    "deploy",
+    "deployment",
+    "docs",
+    "driver",
+    "dxf",
+    "dxf-engine",
+    "e2e-test",
+    "echo",
+    "edge-cases",
+    "egui",
+    "embodied-claude",
+    "environment setup",
+    "evaluation",
+    "event-delivery",
+    "extension",
+    "flutter-web",
+    "frontend",
+    "ghostty",
+    "git",
+    "github-issues",
+    "go",
+    "go test",
+    "go-test",
+    "golang",
+    "history-analysis",
+    "hlsl",
+    "hot-reload",
+    "image analysis",
+    "input",
+    "integration",
+    "integration-test",
+    "ipc",
+    "issue-management",
+    "issue-tracking",
+    "lifecycle-validation",
+    "llm",
+    "markdown",
+    "monitoring",
+    "multi-agent",
+    "multi-llm",
+    "named-pipes",
+    "npm",
+    "orchestration",
+    "pages",
+    "parser",
+    "path-conversion",
+    "planning",
+    "powershell",
+    "project-docs",
+    "prompt",
+    "prompt-abstraction",
+    "prompt-validation",
+    "protocol",
+    "protocol-aware",
+    "python",
+    "readiness-check",
+    "refactoring",
+    "regression",
+    "renderer",
+    "review",
+    "road-drawing",
+    "road-marking",
+    "roadmap",
+    "routing",
+    "rules",
+    "rust",
+    "scoop",
+    "script",
+    "session",
+    "session-launch",
+    "session-lifecycle",
+    "session-management",
+    "shader",
+    "skill",
+    "skill-management",
+    "skill-miner",
+    "skills",
+    "spreadsheet",
+    "state-machine",
+    "state-management",
+    "status",
+    "status-monitoring",
+    "summary",
+    "task-planning",
+    "tdd",
+    "terminal",
+    "terminal-automation",
+    "test",
+    "test failure",
+    "test results",
+    "testing",
+    "tmux",
+    "tool",
+    "tool-integration",
+    "tool-resolution",
+    "triangle-core",
+    "tsf",
+    "tui",
+    "ui",
+    "unit test",
+    "unit-test",
+    "verification",
+    "vision",
+    "vt",
+    "vtable",
+    "wasm",
+    "wasm-pack",
+    "widget-test",
+    "win32",
+    "windows-env",
+    "winui3",
+    "workflows",
+    "xaml",
+    "zig",
+]
+
+[[entries]]
+slug = "named-pipe-cancel-scope"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 104
+generated_at = "2026-03-28T13:17:32.265642900Z"
+content_hash = "72d6ee6304ae346d324d818a5a25be8594687eac89456cc454d802567c476677"
+categories = [
+    "AGENTS.md",
+    "Architecture",
+    "CI/CD",
+    "CLI",
+    "CSV",
+    "Canvas",
+    "Claude Code",
+    "Codebase Investigation",
+    "DXF",
+    "DirectX",
+    "E2E",
+    "Excel",
+    "FFI",
+    "Flutter",
+    "GitHub Actions",
+    "Go",
+    "HLSL",
+    "HWND",
+    "IME",
+    "IPC",
+    "JSON",
+    "MCP",
+    "MSYS",
+    "OCR",
+    "PTY",
+    "Python",
+    "README",
+    "Refactoring",
+    "ResolveTool",
+    "Rust",
+    "SendKeys",
+    "TDD",
+    "TSF",
+    "TUI",
+    "UI",
+    "UIA",
+    "WASM",
+    "Web",
+    "WinUI3",
+    "Windows",
+    "Zig",
+    "agent",
+    "agent-deck",
+    "agent-relay",
+    "ai",
+    "automation",
+    "batch",
+    "blink",
+    "brainstorming",
+    "bridge",
+    "bug-fix",
+    "camera",
+    "changelog",
+    "choco",
+    "cli",
+    "codebase-investigation",
+    "codex",
+    "com",
+    "config",
+    "control plane",
+    "control-plane",
+    "coordination",
+    "coverage",
+    "d3d11",
+    "debugging",
+    "deploy",
+    "deployment",
+    "docs",
+    "driver",
+    "dxf",
+    "dxf-engine",
+    "e2e-test",
+    "echo",
+    "edge-cases",
+    "egui",
+    "embodied-claude",
+    "environment setup",
+    "evaluation",
+    "event-delivery",
+    "extension",
+    "flutter-web",
+    "frontend",
+    "ghostty",
+    "git",
+    "github-issues",
+    "go",
+    "go test",
+    "go-test",
+    "golang",
+    "history-analysis",
+    "hlsl",
+    "hot-reload",
+    "image analysis",
+    "input",
+    "integration",
+    "integration-test",
+    "ipc",
+    "issue-management",
+    "issue-tracking",
+    "lifecycle-validation",
+    "llm",
+    "markdown",
+    "monitoring",
+    "multi-agent",
+    "multi-llm",
+    "named-pipes",
+    "npm",
+    "orchestration",
+    "pages",
+    "parser",
+    "path-conversion",
+    "planning",
+    "powershell",
+    "project-docs",
+    "prompt",
+    "prompt-abstraction",
+    "prompt-validation",
+    "protocol",
+    "protocol-aware",
+    "python",
+    "readiness-check",
+    "refactoring",
+    "regression",
+    "renderer",
+    "review",
+    "road-drawing",
+    "road-marking",
+    "roadmap",
+    "routing",
+    "rules",
+    "rust",
+    "scoop",
+    "script",
+    "session",
+    "session-launch",
+    "session-lifecycle",
+    "session-management",
+    "shader",
+    "skill",
+    "skill-management",
+    "skill-miner",
+    "skills",
+    "spreadsheet",
+    "state-machine",
+    "state-management",
+    "status",
+    "status-monitoring",
+    "summary",
+    "task-planning",
+    "tdd",
+    "terminal",
+    "terminal-automation",
+    "test",
+    "test failure",
+    "test results",
+    "testing",
+    "tmux",
+    "tool",
+    "tool-integration",
+    "tool-resolution",
+    "triangle-core",
+    "tsf",
+    "tui",
+    "ui",
+    "unit test",
+    "unit-test",
+    "verification",
+    "vision",
+    "vt",
+    "vtable",
+    "wasm",
+    "wasm-pack",
+    "widget-test",
+    "win32",
+    "windows-env",
+    "winui3",
+    "workflows",
+    "xaml",
+    "zig",
+]
+
+[[entries]]
+slug = "terminal-observability-polling-limits"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 104
+generated_at = "2026-03-28T13:17:32.266064600Z"
+content_hash = "ab57209e4c4055d0c41ab19d06c6c00a96ad4e60b49192798953dd4df45e259d"
+categories = [
+    "AGENTS.md",
+    "Architecture",
+    "CI/CD",
+    "CLI",
+    "CSV",
+    "Canvas",
+    "Claude Code",
+    "Codebase Investigation",
+    "DXF",
+    "DirectX",
+    "E2E",
+    "Excel",
+    "FFI",
+    "Flutter",
+    "GitHub Actions",
+    "Go",
+    "HLSL",
+    "HWND",
+    "IME",
+    "IPC",
+    "JSON",
+    "MCP",
+    "MSYS",
+    "OCR",
+    "PTY",
+    "Python",
+    "README",
+    "Refactoring",
+    "ResolveTool",
+    "Rust",
+    "SendKeys",
+    "TDD",
+    "TSF",
+    "TUI",
+    "UI",
+    "UIA",
+    "WASM",
+    "Web",
+    "WinUI3",
+    "Windows",
+    "Zig",
+    "agent",
+    "agent-deck",
+    "agent-relay",
+    "ai",
+    "automation",
+    "batch",
+    "blink",
+    "brainstorming",
+    "bridge",
+    "bug-fix",
+    "camera",
+    "changelog",
+    "choco",
+    "cli",
+    "codebase-investigation",
+    "codex",
+    "com",
+    "config",
+    "control plane",
+    "control-plane",
+    "coordination",
+    "coverage",
+    "d3d11",
+    "debugging",
+    "deploy",
+    "deployment",
+    "docs",
+    "driver",
+    "dxf",
+    "dxf-engine",
+    "e2e-test",
+    "echo",
+    "edge-cases",
+    "egui",
+    "embodied-claude",
+    "environment setup",
+    "evaluation",
+    "event-delivery",
+    "extension",
+    "flutter-web",
+    "frontend",
+    "ghostty",
+    "git",
+    "github-issues",
+    "go",
+    "go test",
+    "go-test",
+    "golang",
+    "history-analysis",
+    "hlsl",
+    "hot-reload",
+    "image analysis",
+    "input",
+    "integration",
+    "integration-test",
+    "ipc",
+    "issue-management",
+    "issue-tracking",
+    "lifecycle-validation",
+    "llm",
+    "markdown",
+    "monitoring",
+    "multi-agent",
+    "multi-llm",
+    "named-pipes",
+    "npm",
+    "orchestration",
+    "pages",
+    "parser",
+    "path-conversion",
+    "planning",
+    "powershell",
+    "project-docs",
+    "prompt",
+    "prompt-abstraction",
+    "prompt-validation",
+    "protocol",
+    "protocol-aware",
+    "python",
+    "readiness-check",
+    "refactoring",
+    "regression",
+    "renderer",
+    "review",
+    "road-drawing",
+    "road-marking",
+    "roadmap",
+    "routing",
+    "rules",
+    "rust",
+    "scoop",
+    "script",
+    "session",
+    "session-launch",
+    "session-lifecycle",
+    "session-management",
+    "shader",
+    "skill",
+    "skill-management",
+    "skill-miner",
+    "skills",
+    "spreadsheet",
+    "state-machine",
+    "state-management",
+    "status",
+    "status-monitoring",
+    "summary",
+    "task-planning",
+    "tdd",
+    "terminal",
+    "terminal-automation",
+    "test",
+    "test failure",
+    "test results",
+    "testing",
+    "tmux",
+    "tool",
+    "tool-integration",
+    "tool-resolution",
+    "triangle-core",
+    "tsf",
+    "tui",
+    "ui",
+    "unit test",
+    "unit-test",
+    "verification",
+    "vision",
+    "vt",
+    "vtable",
+    "wasm",
+    "wasm-pack",
+    "widget-test",
+    "win32",
+    "windows-env",
+    "winui3",
+    "workflows",
+    "xaml",
+    "zig",
+]
+
+[[entries]]
+slug = "terminal-readiness-trust-guard"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 104
+generated_at = "2026-03-28T13:17:32.266529800Z"
+content_hash = "cd75c25003c5ea74bc47c1389777cc8056dba2eb34d083accc50cd780311098e"
+categories = [
+    "AGENTS.md",
+    "Architecture",
+    "CI/CD",
+    "CLI",
+    "CSV",
+    "Canvas",
+    "Claude Code",
+    "Codebase Investigation",
+    "DXF",
+    "DirectX",
+    "E2E",
+    "Excel",
+    "FFI",
+    "Flutter",
+    "GitHub Actions",
+    "Go",
+    "HLSL",
+    "HWND",
+    "IME",
+    "IPC",
+    "JSON",
+    "MCP",
+    "MSYS",
+    "OCR",
+    "PTY",
+    "Python",
+    "README",
+    "Refactoring",
+    "ResolveTool",
+    "Rust",
+    "SendKeys",
+    "TDD",
+    "TSF",
+    "TUI",
+    "UI",
+    "UIA",
+    "WASM",
+    "Web",
+    "WinUI3",
+    "Windows",
+    "Zig",
+    "agent",
+    "agent-deck",
+    "agent-relay",
+    "ai",
+    "automation",
+    "batch",
+    "blink",
+    "brainstorming",
+    "bridge",
+    "bug-fix",
+    "camera",
+    "changelog",
+    "choco",
+    "cli",
+    "codebase-investigation",
+    "codex",
+    "com",
+    "config",
+    "control plane",
+    "control-plane",
+    "coordination",
+    "coverage",
+    "d3d11",
+    "debugging",
+    "deploy",
+    "deployment",
+    "docs",
+    "driver",
+    "dxf",
+    "dxf-engine",
+    "e2e-test",
+    "echo",
+    "edge-cases",
+    "egui",
+    "embodied-claude",
+    "environment setup",
+    "evaluation",
+    "event-delivery",
+    "extension",
+    "flutter-web",
+    "frontend",
+    "ghostty",
+    "git",
+    "github-issues",
+    "go",
+    "go test",
+    "go-test",
+    "golang",
+    "history-analysis",
+    "hlsl",
+    "hot-reload",
+    "image analysis",
+    "input",
+    "integration",
+    "integration-test",
+    "ipc",
+    "issue-management",
+    "issue-tracking",
+    "lifecycle-validation",
+    "llm",
+    "markdown",
+    "monitoring",
+    "multi-agent",
+    "multi-llm",
+    "named-pipes",
+    "npm",
+    "orchestration",
+    "pages",
+    "parser",
+    "path-conversion",
+    "planning",
+    "powershell",
+    "project-docs",
+    "prompt",
+    "prompt-abstraction",
+    "prompt-validation",
+    "protocol",
+    "protocol-aware",
+    "python",
+    "readiness-check",
+    "refactoring",
+    "regression",
+    "renderer",
+    "review",
+    "road-drawing",
+    "road-marking",
+    "roadmap",
+    "routing",
+    "rules",
+    "rust",
+    "scoop",
+    "script",
+    "session",
+    "session-launch",
+    "session-lifecycle",
+    "session-management",
+    "shader",
+    "skill",
+    "skill-management",
+    "skill-miner",
+    "skills",
+    "spreadsheet",
+    "state-machine",
+    "state-management",
+    "status",
+    "status-monitoring",
+    "summary",
+    "task-planning",
+    "tdd",
+    "terminal",
+    "terminal-automation",
+    "test",
+    "test failure",
+    "test results",
+    "testing",
+    "tmux",
+    "tool",
+    "tool-integration",
+    "tool-resolution",
+    "triangle-core",
+    "tsf",
+    "tui",
+    "ui",
+    "unit test",
+    "unit-test",
+    "verification",
+    "vision",
+    "vt",
+    "vtable",
+    "wasm",
+    "wasm-pack",
+    "widget-test",
+    "win32",
+    "windows-env",
+    "winui3",
+    "workflows",
+    "xaml",
+    "zig",
+]
+
+[[entries]]
+slug = "win32-overlapped-contract-strictness"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 104
+generated_at = "2026-03-28T13:17:32.266897100Z"
+content_hash = "20ff748f9cea5945864fd4c655bcefcbfa9d86dba06a78df8ca0e413e1f246e7"
+categories = [
+    "AGENTS.md",
+    "Architecture",
+    "CI/CD",
+    "CLI",
+    "CSV",
+    "Canvas",
+    "Claude Code",
+    "Codebase Investigation",
+    "DXF",
+    "DirectX",
+    "E2E",
+    "Excel",
+    "FFI",
+    "Flutter",
+    "GitHub Actions",
+    "Go",
+    "HLSL",
+    "HWND",
+    "IME",
+    "IPC",
+    "JSON",
+    "MCP",
+    "MSYS",
+    "OCR",
+    "PTY",
+    "Python",
+    "README",
+    "Refactoring",
+    "ResolveTool",
+    "Rust",
+    "SendKeys",
+    "TDD",
+    "TSF",
+    "TUI",
+    "UI",
+    "UIA",
+    "WASM",
+    "Web",
+    "WinUI3",
+    "Windows",
+    "Zig",
+    "agent",
+    "agent-deck",
+    "agent-relay",
+    "ai",
+    "automation",
+    "batch",
+    "blink",
+    "brainstorming",
+    "bridge",
+    "bug-fix",
+    "camera",
+    "changelog",
+    "choco",
+    "cli",
+    "codebase-investigation",
+    "codex",
+    "com",
+    "config",
+    "control plane",
+    "control-plane",
+    "coordination",
+    "coverage",
+    "d3d11",
+    "debugging",
+    "deploy",
+    "deployment",
+    "docs",
+    "driver",
+    "dxf",
+    "dxf-engine",
+    "e2e-test",
+    "echo",
+    "edge-cases",
+    "egui",
+    "embodied-claude",
+    "environment setup",
+    "evaluation",
+    "event-delivery",
+    "extension",
+    "flutter-web",
+    "frontend",
+    "ghostty",
+    "git",
+    "github-issues",
+    "go",
+    "go test",
+    "go-test",
+    "golang",
+    "history-analysis",
+    "hlsl",
+    "hot-reload",
+    "image analysis",
+    "input",
+    "integration",
+    "integration-test",
+    "ipc",
+    "issue-management",
+    "issue-tracking",
+    "lifecycle-validation",
+    "llm",
+    "markdown",
+    "monitoring",
+    "multi-agent",
+    "multi-llm",
+    "named-pipes",
+    "npm",
+    "orchestration",
+    "pages",
+    "parser",
+    "path-conversion",
+    "planning",
+    "powershell",
+    "project-docs",
+    "prompt",
+    "prompt-abstraction",
+    "prompt-validation",
+    "protocol",
+    "protocol-aware",
+    "python",
+    "readiness-check",
+    "refactoring",
+    "regression",
+    "renderer",
+    "review",
+    "road-drawing",
+    "road-marking",
+    "roadmap",
+    "routing",
+    "rules",
+    "rust",
+    "scoop",
+    "script",
+    "session",
+    "session-launch",
+    "session-lifecycle",
+    "session-management",
+    "shader",
+    "skill",
+    "skill-management",
+    "skill-miner",
+    "skills",
+    "spreadsheet",
+    "state-machine",
+    "state-management",
+    "status",
+    "status-monitoring",
+    "summary",
+    "task-planning",
+    "tdd",
+    "terminal",
+    "terminal-automation",
+    "test",
+    "test failure",
+    "test results",
+    "testing",
+    "tmux",
+    "tool",
+    "tool-integration",
+    "tool-resolution",
+    "triangle-core",
+    "tsf",
+    "tui",
+    "ui",
+    "unit test",
+    "unit-test",
+    "verification",
+    "vision",
+    "vt",
+    "vtable",
+    "wasm",
+    "wasm-pack",
+    "widget-test",
+    "win32",
+    "windows-env",
+    "winui3",
+    "workflows",
+    "xaml",
+    "zig",
+]
+
+[[entries]]
+slug = "win32-overlapped-error-classification"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 104
+generated_at = "2026-03-28T13:17:32.267302500Z"
+content_hash = "95295213ba590cd5a40f47bb6e3e6a3055ac096360e5b204ccb81b6efc537163"
+categories = [
+    "AGENTS.md",
+    "Architecture",
+    "CI/CD",
+    "CLI",
+    "CSV",
+    "Canvas",
+    "Claude Code",
+    "Codebase Investigation",
+    "DXF",
+    "DirectX",
+    "E2E",
+    "Excel",
+    "FFI",
+    "Flutter",
+    "GitHub Actions",
+    "Go",
+    "HLSL",
+    "HWND",
+    "IME",
+    "IPC",
+    "JSON",
+    "MCP",
+    "MSYS",
+    "OCR",
+    "PTY",
+    "Python",
+    "README",
+    "Refactoring",
+    "ResolveTool",
+    "Rust",
+    "SendKeys",
+    "TDD",
+    "TSF",
+    "TUI",
+    "UI",
+    "UIA",
+    "WASM",
+    "Web",
+    "WinUI3",
+    "Windows",
+    "Zig",
+    "agent",
+    "agent-deck",
+    "agent-relay",
+    "ai",
+    "automation",
+    "batch",
+    "blink",
+    "brainstorming",
+    "bridge",
+    "bug-fix",
+    "camera",
+    "changelog",
+    "choco",
+    "cli",
+    "codebase-investigation",
+    "codex",
+    "com",
+    "config",
+    "control plane",
+    "control-plane",
+    "coordination",
+    "coverage",
+    "d3d11",
+    "debugging",
+    "deploy",
+    "deployment",
+    "docs",
+    "driver",
+    "dxf",
+    "dxf-engine",
+    "e2e-test",
+    "echo",
+    "edge-cases",
+    "egui",
+    "embodied-claude",
+    "environment setup",
+    "evaluation",
+    "event-delivery",
+    "extension",
+    "flutter-web",
+    "frontend",
+    "ghostty",
+    "git",
+    "github-issues",
+    "go",
+    "go test",
+    "go-test",
+    "golang",
+    "history-analysis",
+    "hlsl",
+    "hot-reload",
+    "image analysis",
+    "input",
+    "integration",
+    "integration-test",
+    "ipc",
+    "issue-management",
+    "issue-tracking",
+    "lifecycle-validation",
+    "llm",
+    "markdown",
+    "monitoring",
+    "multi-agent",
+    "multi-llm",
+    "named-pipes",
+    "npm",
+    "orchestration",
+    "pages",
+    "parser",
+    "path-conversion",
+    "planning",
+    "powershell",
+    "project-docs",
+    "prompt",
+    "prompt-abstraction",
+    "prompt-validation",
+    "protocol",
+    "protocol-aware",
+    "python",
+    "readiness-check",
+    "refactoring",
+    "regression",
+    "renderer",
+    "review",
+    "road-drawing",
+    "road-marking",
+    "roadmap",
+    "routing",
+    "rules",
+    "rust",
+    "scoop",
+    "script",
+    "session",
+    "session-launch",
+    "session-lifecycle",
+    "session-management",
+    "shader",
+    "skill",
+    "skill-management",
+    "skill-miner",
+    "skills",
+    "spreadsheet",
+    "state-machine",
+    "state-management",
+    "status",
+    "status-monitoring",
+    "summary",
+    "task-planning",
+    "tdd",
+    "terminal",
+    "terminal-automation",
+    "test",
+    "test failure",
+    "test results",
+    "testing",
+    "tmux",
+    "tool",
+    "tool-integration",
+    "tool-resolution",
+    "triangle-core",
+    "tsf",
+    "tui",
+    "ui",
+    "unit test",
+    "unit-test",
+    "verification",
+    "vision",
+    "vt",
+    "vtable",
+    "wasm",
+    "wasm-pack",
+    "widget-test",
+    "win32",
+    "windows-env",
+    "winui3",
+    "workflows",
+    "xaml",
+    "zig",
+]
+
+[[entries]]
+slug = "agent-deck-output-integrity"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 41
+generated_at = "2026-03-28T22:08:36.328367400Z"
+content_hash = "b9bc225893d7691d1af9ee5b02908f2d57fe2db95f25ec70ab117e8347f1c087"
+categories = [
+    "AGENTS.md",
+    "CHANGELOG",
+    "CI/CD",
+    "CLI",
+    "Codex",
+    "DXF",
+    "E2E",
+    "Flutter",
+    "Flutter Web",
+    "Git",
+    "GitHub Actions",
+    "GitHub Pages",
+    "Go",
+    "IPC",
+    "MSYS",
+    "Named Pipe",
+    "PATH",
+    "Rust",
+    "TDD",
+    "UI",
+    "WASM",
+    "Windows",
+    "YAML",
+    "Zig",
+    "abstraction",
+    "agent-deck",
+    "agents",
+    "bridge",
+    "build",
+    "configuration",
+    "debugging",
+    "deploy",
+    "deployment",
+    "fix",
+    "ghostty",
+    "hang",
+    "history",
+    "instructions",
+    "issues",
+    "multi-agent",
+    "npm",
+    "path conversion",
+    "planning",
+    "policy",
+    "prompt detection",
+    "protocol",
+    "rules",
+    "session",
+    "skills",
+    "state management",
+    "summary",
+    "test design",
+    "test script",
+    "tmux",
+    "tool discovery",
+    "unit test",
+]
+
+[[entries]]
+slug = "agent-deck-readiness"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 41
+generated_at = "2026-03-28T22:08:36.328614200Z"
+content_hash = "227cd884da49c6463fe7ad012998f8c0525b1d74b10c0bbcd61617ea59ddd5a2"
+categories = [
+    "AGENTS.md",
+    "CHANGELOG",
+    "CI/CD",
+    "CLI",
+    "Codex",
+    "DXF",
+    "E2E",
+    "Flutter",
+    "Flutter Web",
+    "Git",
+    "GitHub Actions",
+    "GitHub Pages",
+    "Go",
+    "IPC",
+    "MSYS",
+    "Named Pipe",
+    "PATH",
+    "Rust",
+    "TDD",
+    "UI",
+    "WASM",
+    "Windows",
+    "YAML",
+    "Zig",
+    "abstraction",
+    "agent-deck",
+    "agents",
+    "bridge",
+    "build",
+    "configuration",
+    "debugging",
+    "deploy",
+    "deployment",
+    "fix",
+    "ghostty",
+    "hang",
+    "history",
+    "instructions",
+    "issues",
+    "multi-agent",
+    "npm",
+    "path conversion",
+    "planning",
+    "policy",
+    "prompt detection",
+    "protocol",
+    "rules",
+    "session",
+    "skills",
+    "state management",
+    "summary",
+    "test design",
+    "test script",
+    "tmux",
+    "tool discovery",
+    "unit test",
+]
+
+[[entries]]
+slug = "agent-deck-state-integrity"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 41
+generated_at = "2026-03-28T22:08:36.328849700Z"
+content_hash = "a39512e499cf942cd6c11776cd68c6065d3c56565c376ed6a5ceac6db1f1ac56"
+categories = [
+    "AGENTS.md",
+    "CHANGELOG",
+    "CI/CD",
+    "CLI",
+    "Codex",
+    "DXF",
+    "E2E",
+    "Flutter",
+    "Flutter Web",
+    "Git",
+    "GitHub Actions",
+    "GitHub Pages",
+    "Go",
+    "IPC",
+    "MSYS",
+    "Named Pipe",
+    "PATH",
+    "Rust",
+    "TDD",
+    "UI",
+    "WASM",
+    "Windows",
+    "YAML",
+    "Zig",
+    "abstraction",
+    "agent-deck",
+    "agents",
+    "bridge",
+    "build",
+    "configuration",
+    "debugging",
+    "deploy",
+    "deployment",
+    "fix",
+    "ghostty",
+    "hang",
+    "history",
+    "instructions",
+    "issues",
+    "multi-agent",
+    "npm",
+    "path conversion",
+    "planning",
+    "policy",
+    "prompt detection",
+    "protocol",
+    "rules",
+    "session",
+    "skills",
+    "state management",
+    "summary",
+    "test design",
+    "test script",
+    "tmux",
+    "tool discovery",
+    "unit test",
+]
+
+[[entries]]
+slug = "multi-agent-coordination"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 41
+generated_at = "2026-03-28T22:08:36.329079900Z"
+content_hash = "7468e841c766a9d29f0cc1ca7cf5852d0a392fa96659026249ff1ebd208924c5"
+categories = [
+    "AGENTS.md",
+    "CHANGELOG",
+    "CI/CD",
+    "CLI",
+    "Codex",
+    "DXF",
+    "E2E",
+    "Flutter",
+    "Flutter Web",
+    "Git",
+    "GitHub Actions",
+    "GitHub Pages",
+    "Go",
+    "IPC",
+    "MSYS",
+    "Named Pipe",
+    "PATH",
+    "Rust",
+    "TDD",
+    "UI",
+    "WASM",
+    "Windows",
+    "YAML",
+    "Zig",
+    "abstraction",
+    "agent-deck",
+    "agents",
+    "bridge",
+    "build",
+    "configuration",
+    "debugging",
+    "deploy",
+    "deployment",
+    "fix",
+    "ghostty",
+    "hang",
+    "history",
+    "instructions",
+    "issues",
+    "multi-agent",
+    "npm",
+    "path conversion",
+    "planning",
+    "policy",
+    "prompt detection",
+    "protocol",
+    "rules",
+    "session",
+    "skills",
+    "state management",
+    "summary",
+    "test design",
+    "test script",
+    "tmux",
+    "tool discovery",
+    "unit test",
+]
+
+[[entries]]
+slug = "win32-named-pipe-overlapped"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 41
+generated_at = "2026-03-28T22:08:36.329313900Z"
+content_hash = "a2a649a200ec3cf4a77a40014eec224cb6a78008d234b402219f13d8ba99c9e0"
+categories = [
+    "AGENTS.md",
+    "CHANGELOG",
+    "CI/CD",
+    "CLI",
+    "Codex",
+    "DXF",
+    "E2E",
+    "Flutter",
+    "Flutter Web",
+    "Git",
+    "GitHub Actions",
+    "GitHub Pages",
+    "Go",
+    "IPC",
+    "MSYS",
+    "Named Pipe",
+    "PATH",
+    "Rust",
+    "TDD",
+    "UI",
+    "WASM",
+    "Windows",
+    "YAML",
+    "Zig",
+    "abstraction",
+    "agent-deck",
+    "agents",
+    "bridge",
+    "build",
+    "configuration",
+    "debugging",
+    "deploy",
+    "deployment",
+    "fix",
+    "ghostty",
+    "hang",
+    "history",
+    "instructions",
+    "issues",
+    "multi-agent",
+    "npm",
+    "path conversion",
+    "planning",
+    "policy",
+    "prompt detection",
+    "protocol",
+    "rules",
+    "session",
+    "skills",
+    "state management",
+    "summary",
+    "test design",
+    "test script",
+    "tmux",
+    "tool discovery",
+    "unit test",
+]
+
+[[entries]]
+slug = "win32-overlapped-contract"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 41
+generated_at = "2026-03-28T22:08:36.329551Z"
+content_hash = "4727acb9bbdd8bfbb4c20c25ce4102c4628e86a6bfa55aeddeea8976daef4423"
+categories = [
+    "AGENTS.md",
+    "CHANGELOG",
+    "CI/CD",
+    "CLI",
+    "Codex",
+    "DXF",
+    "E2E",
+    "Flutter",
+    "Flutter Web",
+    "Git",
+    "GitHub Actions",
+    "GitHub Pages",
+    "Go",
+    "IPC",
+    "MSYS",
+    "Named Pipe",
+    "PATH",
+    "Rust",
+    "TDD",
+    "UI",
+    "WASM",
+    "Windows",
+    "YAML",
+    "Zig",
+    "abstraction",
+    "agent-deck",
+    "agents",
+    "bridge",
+    "build",
+    "configuration",
+    "debugging",
+    "deploy",
+    "deployment",
+    "fix",
+    "ghostty",
+    "hang",
+    "history",
+    "instructions",
+    "issues",
+    "multi-agent",
+    "npm",
+    "path conversion",
+    "planning",
+    "policy",
+    "prompt detection",
+    "protocol",
+    "rules",
+    "session",
+    "skills",
+    "state management",
+    "summary",
+    "test design",
+    "test script",
+    "tmux",
+    "tool discovery",
+    "unit test",
+]
+
+[[entries]]
+slug = "win32-pipe-wakeup-logic"
+domain = "all"
+status = "draft"
+pattern_count = 1
+conversation_count = 41
+generated_at = "2026-03-28T22:08:36.329791600Z"
+content_hash = "71676a07788ffc58256e4f1c5c21df296ce0106af561f5719d8cb34549cfe8a7"
+categories = [
+    "AGENTS.md",
+    "CHANGELOG",
+    "CI/CD",
+    "CLI",
+    "Codex",
+    "DXF",
+    "E2E",
+    "Flutter",
+    "Flutter Web",
+    "Git",
+    "GitHub Actions",
+    "GitHub Pages",
+    "Go",
+    "IPC",
+    "MSYS",
+    "Named Pipe",
+    "PATH",
+    "Rust",
+    "TDD",
+    "UI",
+    "WASM",
+    "Windows",
+    "YAML",
+    "Zig",
+    "abstraction",
+    "agent-deck",
+    "agents",
+    "bridge",
+    "build",
+    "configuration",
+    "debugging",
+    "deploy",
+    "deployment",
+    "fix",
+    "ghostty",
+    "hang",
+    "history",
+    "instructions",
+    "issues",
+    "multi-agent",
+    "npm",
+    "path conversion",
+    "planning",
+    "policy",
+    "prompt detection",
+    "protocol",
+    "rules",
+    "session",
+    "skills",
+    "state management",
+    "summary",
+    "test design",
+    "test script",
+    "tmux",
+    "tool discovery",
+    "unit test",
+]
+
+[mined_sessions]
+f2f8b97a-4ccb-4ac3-b059-4d07320b77ab = 228
+578af3df-d409-4b2f-8208-878c27d95b6f = 95
+53fd044a-849d-4195-a37a-186dd4265e6d = 9
+8efcfa4a-b7c8-4a37-953d-c750e67657b3 = 152
+7fe4f38d-4b04-4d4d-bfc1-389db5604bdf = 565
+994a76ba-0ba1-49d2-bed6-a010d12a9790 = 512
+019d31c6-ecb0-7630-9158-b005383bcdbe = 40
+badcf37d-2773-42da-9188-3e0e7665623d = 181
+fab7e1bc-d69a-4ae7-985f-a1f399f8c6ad = 52
+daily-2026-03-27-0900 = 1
+5c5b16e9-80a8-49cc-9303-c59ffa7f475d = 10
+38f00943-cf30-4323-9f93-aefca457dfb9 = 30
+3134710e-6311-469a-a012-007e83dd8b28 = 14
+aaf4d023-01b0-464a-9a44-3ada07361d0e = 332
+019d31cd-4977-7622-95f1-0d49d2ab928d = 66
+e222e0fb-5660-41df-91fc-a9cedb6d2229 = 248
+05e21a92-3925-4032-a107-466dd1ffc323 = 23
+c42de711-110d-49be-b7ed-740b942448eb = 524
+e90e48fa-7876-48cc-ba5d-de039d7b2fec = 435
+19e69065-b6fb-45c0-8911-90ed8a69e2ba = 515
+214201b8-edfa-4539-a2a8-461bdcbd1c9f = 8
+5cfa5177-006a-45bf-9aa5-edd5ed4c5045 = 122
+3b77be31-2c7e-4f50-bc00-d93b86689764 = 4
+f05d05e9-c691-4b8f-bb11-32d7413f8974 = 948
+8e955620-8f3e-4468-95bf-cf529915431e = 91
+6a8a7861-3094-4139-81b8-5b12ad23a637 = 383
+a1908622-7835-4c49-b57c-5af86d62eeca = 450
+a38363d9-f470-4134-bd93-65e842d622c8 = 73
+3f5e4571-0398-4d3b-b5c8-9ad0cc0e8cb8 = 31
+daily-2026-03-27-0600 = 1
+019d12b8-33a6-7a40-8a72-54fb744f16b6 = 5
+019d31d9-850d-7682-b6f1-fdba78da1588 = 82
+311940a6-5e4d-4f52-b408-1115b57af910 = 381
+019d31d2-2353-7920-b263-568cabd93c62 = 58
+22d5a462-2fdc-4e9e-84d9-84d6f501fb6f = 89
+754a5ce9-5c21-4592-81e5-772f4368c79a = 64
+8fbe672f-98d0-44ee-bb17-f15b9881dc41 = 11
+019d333b-de9c-7982-a936-21654fa87c28 = 90
+019d12b8-6526-72c0-9f32-722c2c716aab = 155
+36d68b82-399e-4d03-b932-cfb7a7e8b96c = 169
+daily-2026-03-27-1000 = 1
+609c58c2-41a5-48be-bcd1-bc0b3ba8f5f0 = 60
+b498183c-1134-4922-bc16-44682e071b6c = 111
+64489427-9877-4f70-94aa-c1e2703ade0e = 16
+019d132d-4bea-7432-9621-fa112da6a476 = 50
+957a772b-7a57-4e93-9404-750a7a83cb6c = 353
+e122629d-2f82-4a39-91d5-fdcf479211fe = 50
+019d31e9-1c41-7942-b823-299e28da3cfe = 238
+a8f21999-2d50-4a80-8d2f-dc3576627e80 = 346
+31cce2f9-922a-4582-b84f-f5bc8d7da6b1 = 396
+785ce046-bd79-44f5-8036-903e00b349e3 = 4
+019d31e3-7b14-7be2-b397-186723bc81f7 = 56
+019d31dc-34ca-77e1-a2e0-5180a9639fe5 = 488
+019d330d-20ed-7d40-9172-3917e4cc07bb = 221
+2c86c97c-dc29-4295-bbd8-72031a88287b = 372
+019d31c9-d8e7-78f2-924f-bbfdda20250a = 45
+9fee7a94-895c-4fbc-96d5-4441e689350f = 2302
+9c60d8ca-3397-4c3b-9195-f5976c3d6c82 = 294
+e9d4f4d4-2731-4833-ad93-5728f320bca4 = 643
+5863ccd0-d222-45be-b309-b6d928b5a684 = 29
+a655d338-09e0-46c3-aed8-c30232097f7e = 198
+019d32dc-d174-77e0-8f74-8548db56e634 = 178
+643e9f02-59e8-4b74-8f18-b94122458b0d = 202
+91ab98b8-3e5d-4a8c-af34-ba648d3f5d09 = 54
+daily-2026-03-27-1100 = 1
+2f7afa81-a405-42d5-ac40-466b691a7cb6 = 4
+daily-2026-03-27-0700 = 1
+d0d137fa-df84-4b00-9973-a870e0ec640e = 349
+3d82e369-d560-494a-b53d-ce4668b8f633 = 267
+c763be73-b431-4a67-aedd-62aa92326e03 = 623
+019d32df-35a8-76e1-b0cc-256439b7febf = 217
+d5134a8d-9041-4110-91d8-3799297dbb4d = 430
+42ed25b3-322c-415d-b21b-5f935d6fa814 = 497
+c4b6f524-336e-44e3-8f96-35cc9012c90a = 211
+019d31b5-29de-7741-9c33-9ede2eaa900b = 37
+67c83b2d-53d8-4443-aeec-83e6d7fee81a = 515
+a86d715b-f19f-45c2-92a1-d64f0bc5c1be = 893
+7fc0fc63-96f8-4d82-9428-8943d33d5a5d = 430
+019d31ca-4e77-78e1-bca3-df133e85f9c6 = 28
+019d31c3-8d83-7b80-bffc-b2347a29d965 = 17
+019d31c4-42e7-77d0-8d45-5645f5d4db6b = 36
+019d134b-f461-7bd0-8bac-ca62e56a3b99 = 40
+1eca3cfd-a37a-4e0c-9a7c-d956a793fe38 = 1234
+262248ac-cdbf-43f7-a95d-08f4500a75e0 = 21
+2df6e00d-14ae-4a24-8c1a-b23a6114a9ae = 4
+a0bad215-55cc-4887-97c4-8b47692fe959 = 722
+6f4bd58d-8666-4e70-b1ba-fdae469948cb = 67
+5f463781-3e73-47a4-9052-7a8a5a2ef51d = 23
+019d32fb-f4ca-73d3-bfb5-b4396f5857b8 = 500
+e8d5fe24-ac99-44d7-9b47-88d5d32c3f3a = 415
+9aa5f514-653b-49f6-b425-9d2f988274cc = 46
+019d0f3b-8fef-7c23-bcf2-775e97a18853 = 211
+
+[[pending_extracts]]
+domain = "Agent Orchestration"
+slug = "agent-orchestration"
+tags = [
+    "agent-deck",
+    "state-management",
+    "go",
+    "rust",
+]
+confidence = 0.95
+
+[pending_extracts.summary]
+id = "a8f21999-2d50-4a80-8d2f-dc3576627e80"
+source_path = 'C:\Users\yuuji\.claude/projects\C--Users-yuuji\a8f21999-2d50-4a80-8d2f-dc3576627e80.jsonl'
+first_message = "エージェントデック絡みの状態管理の直しをやらせてたんだけど、なんかカオス状態になってるような感じなんで調べてみろ"
+message_count = 457
+start_time = "2026-03-28T11:16:27.413Z"
+topics = []
+tools_used = [
+    "Agent",
+    "Bash",
+    "Read",
+    "Grep",
+    "Edit",
+    "SendMessage",
+    "ToolSearch",
+    "Write",
+]
+files_touched = [
+    'C:\Users\yuuji\.claude\projects\C--Users-yuuji\memory\daily\2026-03-26.md',
+    'C:\Users\yuuji\.claude\projects\C--Users-yuuji\memory\daily\2026-03-27.md',
+    'C:\Users\yuuji\.claude\projects\C--Users-yuuji\memory\feedback_skill_miner_citations.md',
+    'C:\Users\yuuji\.claude\projects\C--Users-yuuji\memory\feedback_skill_categories.md',
+    'C:\Users\yuuji\skill-miner\src\miner.rs',
+    'C:\Users\yuuji\skill-miner\src\parser.rs',
+    'C:\Users\yuuji\skill-miner\src\types.rs',
+    'C:\Users\yuuji\skill-miner\src\classifier.rs',
+    'C:\Users\yuuji\skill-miner\src\domains.rs',
+    'C:\Users\yuuji\skill-miner\domains.toml',
+    'C:\Users\yuuji\skill-miner\src\main.rs',
+    'C:\Users\yuuji\skill-miner\src\extractor.rs',
+    'C:\Users\yuuji\ghostty-win\src\apprt\winui3\control_plane.zig',
+    'C:\Users\yuuji\.claude\skills\agent-deck-latency-model\SKILL.md',
+    'C:\Users\yuuji\.claude\skills\agent-deck-send-pipeline\SKILL.md',
+    'C:\Users\yuuji\.claude\skills\multi-agent-session-lifecycle\SKILL.md',
+    'C:\Users\yuuji\.claude\skills\win32-cp-pipe-architecture\SKILL.md',
+    'C:\Users\yuuji\agent-deck\cmd\gtcp\main.go',
+]
+commands_used = [
+    "cd ~/agent-deck && git status",
+    "cd ~/agent-deck && git log --oneline -20",
+    "cd ~/agent-deck && git diff --stat",
+    "cd ~/agent-deck && git diff",
+    "cd ~/agent-deck && go vet ./... 2>&1 | head -30",
+    "cd ~/agent-deck && /c/Users/yuuji/go/bin/go.exe vet ./... 2>&1 | head -30",
+    'which go.exe 2>/dev/null || where.exe go 2>/dev/null || ls /c/Program\ Files/Go/bin/go.exe 2>/dev/nu...',
+    'cd ~/agent-deck && "/c/Program Files/Go/bin/go.exe" vet ./... 2>&1 | head -40',
+    'cd ~/agent-deck && "/c/Program Files/Go/bin/go.exe" test ./internal/send/... 2>&1 | tail -20',
+    'cd ~/agent-deck && "/c/Program Files/Go/bin/go.exe" build ./cmd/gtcp/... 2>&1 | head -20',
+    "cd ~/agent-deck && git status -s",
+    "cd ~/agent-deck && git log --oneline -5",
+    "cd ~/agent-deck && git add cmd/gtcp/main.go internal/send/submit_prompt.go internal/send/submit_prom...",
+    "cd ~/agent-deck && git push 2>&1",
+    "ls -la ~/. claude/projects/C--Users-yuuji/memory/daily/ 2>/dev/null | tail -20",
+    "ls -la ~/.claude/projects/C--Users-yuuji/memory/daily/ 2>/dev/null | tail -20",
+    'cd ~/skill-miner && git log --oneline -20 2>/dev/null || echo "skill-miner not found"',
+    'cd ~/skill-miner && git log --oneline --since="2026-03-25" 2>/dev/null',
+    "cd ~/skill-miner && git status -s 2>/dev/null",
+    "cd ~/skill-miner && cat PLAN.md 2>/dev/null || cat TODO.md 2>/dev/null || cat ROADMAP.md 2>/dev/null...",
+    'cd ~/skill-miner && ls src/bin/ 2>/dev/null && echo "---" && grep -r "subcommand\|Command\|clap" src...',
+    'cat "C:\Users\yuuji\AppData\Local\Temp\claude\C--Users-yuuji\a8f21999-2d50-4a80-8d2f-dc3576627e80\ta...',
+    "cd ~/skill-miner && ~/.cargo/bin/cargo check 2>&1 | tail -5",
+    "cd ~/skill-miner && ~/.cargo/bin/cargo test 2>&1 | tail -20",
+    "cd ~/skill-miner && cargo check 2>&1 | tail -5",
+    "cd ~/skill-miner && cargo test 2>&1 | tail -20",
+    "cd ~/skill-miner && cargo run -- categories 2>&1 | head -20",
+    "cd ~/skill-miner && cargo run -- scan --source daily --days 14 2>&1 | head -20",
+    "cd ~/skill-miner && git status -s",
+    "cd ~/skill-miner && git diff --stat",
+    "cd ~/skill-miner && git add prompts/extract.txt src/bundle.rs src/commands/manage.rs src/commands/st...",
+    "cd ~/skill-miner && git push 2>&1",
+    "cd ~/skill-miner && cargo run -- mine --source daily --max-days 14 2>&1",
+    "cd ~/skill-miner && cargo run -- list 2>&1",
+    'ls -la ~/.claude/skills/drafts/ 2>/dev/null | grep -v "^total" | tail -20',
+    'ls ~/.claude/skills/drafts/ | grep "2026-03-28" 2>/dev/null; echo "---"; ls -lt ~/.claude/skills/dra...',
+    "for f in ghostty-win-cursor-overlap xaml-islands-input-routing zig-win32-utf8-corruption legacy-term...",
+    'cd ~/skill-miner && grep -n "extract_flat\|flat_extract\|mine_progressive\|all.*conversations" src/m...',
+    'cd ~/skill-miner && grep -rn "pub struct Conversation" src/',
+    "cd ~/skill-miner && cargo check 2>&1",
+    "cd ~/skill-miner && cargo test 2>&1 | tail -10",
+    "cd ~/skill-miner && cargo run -- mine --source daily --dry-run --max-days 14 2>&1",
+    'cd ~/skill-miner && grep -c "daily-" ~/.claude/skills/drafts/manifest.toml',
+    """
+cd ~/skill-miner && python3 -c "
+import toml, sys
+m = toml.load(sys.argv[1])
+# Remove daily- from mi...""",
+    """
+cd ~/skill-miner && python -c "
+import toml, sys
+m = toml.load(sys.argv[1])
+before = len(m.get('mine...""",
+    'cd ~/skill-miner && grep -n "daily-20" ~/.claude/skills/drafts/manifest.toml | head -5',
+    """cd ~/skill-miner && sed -i '/^daily-20.*= 1$/d' ~/.claude/skills/drafts/manifest.toml && sed -i '/^"...""",
+    "rm -f ~/.claude/skills/drafts/ghostty-win-cursor-overlap.md ~/.claude/skills/drafts/xaml-islands-inp...",
+    """
+cd ~/skill-miner && git add src/miner.rs && git commit -m "$(cat <<'EOF'
+fix: pre-classify daily con...""",
+    "cd ~/skill-miner && cargo run -- mine --source daily --max-days 14 --backend claude 2>&1",
+    "cd ~/skill-miner && cargo run -- mine --help 2>&1 | head -30",
+    'cd ~/skill-miner && cargo run -- --help 2>&1 | grep -i "backend\|model\|gemini\|claude" | head -10',
+    "cd ~/skill-miner && cargo run -- mine --source daily --max-days 14 --summarize-backend claude 2>&1",
+    "cd ~/skill-miner && cargo run -- mine --source daily --max-days 14 --summarize-backend claude --summ...",
+    'gemini -m gemini-2.5-flash -p "Say hello" 2>&1 | head -3',
+    "cd ~/skill-miner && cargo check 2>&1 | tail -3",
+    "cd ~/skill-miner && sed -i '/^daily-20.*= 1$/d' ~/.claude/skills/drafts/manifest.toml && cargo run -...",
+    '''cd ~/skill-miner && sed -i '/^daily-20.*= 1$/d' ~/.claude/skills/drafts/manifest.toml && sed -i '/^\...''',
+    "cd ~/skill-miner && sed -i '/^daily-20.*= 1$/d' ~/.claude/skills/drafts/manifest.toml 2>/dev/null; c...",
+    """
+cd ~/skill-miner && git add src/types.rs src/main.rs && git commit -m "$(cat <<'EOF'
+fix: update def...""",
+    """
+cd ~/skill-miner && git add src/extractor.rs && git commit -m "$(cat <<'EOF'
+fix: flush trailing Use...""",
+    '''cd ~/skill-miner && cargo build 2>&1 | tail -3 && sed -i '/^\[\[pending_extracts\]\]/,/^$/d' ~/.clau...''',
+    'cd ~/skill-miner && grep -n "pending" ~/.claude/skills/drafts/manifest.toml | head -10',
+    "cd ~/skill-miner && wc -l ~/.claude/skills/drafts/manifest.toml && head -3520 ~/.claude/skills/draft...",
+    'tail -40 "C:\Users\yuuji\AppData\Local\Temp\claude\C--Users-yuuji\a8f21999-2d50-4a80-8d2f-dc3576627e...',
+    "cd ~/skill-miner && cargo run -- mine --source auto --max-days 7 --no-summarize 2>&1",
+    'tail -30 "C:\Users\yuuji\AppData\Local\Temp\claude\C--Users-yuuji\a8f21999-2d50-4a80-8d2f-dc3576627e...',
+    'tail -5 "C:\Users\yuuji\AppData\Local\Temp\claude\C--Users-yuuji\a8f21999-2d50-4a80-8d2f-dc3576627e8...',
+    'grep -E "NEW|UPDATE|Saved|patterns|Extract|Total" "C:\Users\yuuji\AppData\Local\Temp\claude\C--Users...',
+    'cd ~/ghostty-win && gh issue create --title "CP pipe server blocks UI thread → DWM ghost window unde...',
+    'cd ~/zig-control-plane && git diff --stat HEAD 2>/dev/null; echo "==="; cd ~/ghostty-win && git diff...',
+    "cd ~/ghostty-win && ./build-winui3.sh 2>&1 | tail -10",
+    "cd ~/ghostty-win && ./build-winui3.sh 2>&1 | tail -5",
+    "cd ~/ghostty-win && ./build-winui3.sh 2>&1 | tail -20",
+    'grep -i "error\|FAIL\|success\|Install" "C:\Users\yuuji\AppData\Local\Temp\claude\C--Users-yuuji\a8f...',
+    'grep -i "zig build\|install\|error" "C:\Users\yuuji\AppData\Local\Temp\claude\C--Users-yuuji\a8f2199...',
+    'wc -l "C:\Users\yuuji\AppData\Local\Temp\claude\C--Users-yuuji\a8f21999-2d50-4a80-8d2f-dc3576627e80\...',
+    'ls -la ~/ghostty-win/zig-out-winui3-next/bin/ghostty.exe 2>/dev/null && echo "BUILD OK" || echo "NO ...',
+    "cd ~/zig-control-plane && zig build test 2>&1 | tail -5",
+    'cd ~/zig-control-plane && zig build test 2>&1 | grep -E "passed|failed|FAIL"',
+    'cd ~/zig-control-plane && zig build test 2>&1 | grep -i "test\|pass\|fail\|ok\|error" | tail -5',
+    'cd ~/zig-control-plane && zig build test 2>&1; echo "EXIT: $?"',
+    """
+cd ~/zig-control-plane && git add -A && git commit -m "$(cat <<'EOF'
+feat: coalesce CP queries into ...""",
+    "cd ~/ghostty-win && git add src/apprt/winui3/control_plane.zig src/apprt/winui3/App.zig && git commi...",
+    "cd ~/skill-miner && cargo run -- today --source claude --date 2026-03-28 --format summary 2>&1 | hea...",
+    "cd ~/skill-miner && cargo run -- mine --source auto --date 2026-03-28 --no-summarize 2>&1",
+    'tail -20 "C:\Users\yuuji\AppData\Local\Temp\claude\C--Users-yuuji\a8f21999-2d50-4a80-8d2f-dc3576627e...',
+    'grep -E "NEW|UPDATE|Saved|patterns|Extract|Total|conversations" "C:\Users\yuuji\AppData\Local\Temp\c...',
+    "for f in agent-deck-output-integrity agent-deck-readiness agent-deck-state-integrity multi-agent-coo...",
+    'ls ~/.claude/skills/*/SKILL.md 2>/dev/null | xargs grep -l "agent-deck\|Named Pipe\|IPC\|control.pla...',
+    "mkdir -p ~/.claude/skills/agent-deck-latency-model",
+    "ls ~/.claude/skills/agent-deck-send-pipeline/SKILL.md ~/.claude/skills/multi-agent-session-lifecycle...",
+    "mkdir -p ~/.claude/skills/agent-deck-send-pipeline ~/.claude/skills/multi-agent-session-lifecycle ~/...",
+    "cd ~/agent-deck && gh issue list --state open --limit 30 2>&1",
+    "cd ~/agent-deck && gh issue list --state all --limit 30 2>&1 | head -30",
+    "cd ~/agent-deck && git log --oneline -15",
+    "cd ~/agent-deck && gh issue view 24 2>&1 | head -40",
+    'cd ~/agent-deck && cat INVESTIGATION.md 2>/dev/null | head -60; echo "==="; cat docs/REDESIGN.md 2>/...',
+    """
+cd ~/agent-deck && gh issue comment 24 --body "$(cat <<'EOF'
+## Status Update (2026-03-29)
+
+### Impl...""",
+    "cd ~/agent-deck && ls zig-out-winui3/bin/agent-deck.exe 2>/dev/null || ls agent-deck.exe 2>/dev/null",
+    "cd ~/agent-deck && ./gtcp.exe list 2>&1",
+    'tasklist.exe /FI "PID eq 30528" 2>/dev/null | head -5',
+    'powershell.exe -Command "Get-Process -Id 30528 -ErrorAction SilentlyContinue | Select-Object Id,Proc...',
+    'cd ~/ghostty-win && ls zig-out-winui3-next/bin/ghostty.exe 2>/dev/null && echo "next build exists" |...',
+    "cd ~/ghostty-win && GHOSTTY_CONTROL_PLANE=1 zig-out-winui3-next/bin/ghostty.exe &disown; sleep 2 && ...",
+    "sleep 3 && cd ~/agent-deck && ./gtcp.exe list 2>&1",
+    "sleep 5 && cd ~/agent-deck && ./gtcp.exe list 2>&1",
+    "ls -la ~/ghostty-win/zig-out-winui3-next/bin/control-plane-server.dll 2>/dev/null && ls -la ~/zig-co...",
+    'find ~/ghostty-win/zig-out-winui3-next -name "*.dll" 2>/dev/null | head -5; echo "---"; find ~/zig-c...',
+    "cd ~/agent-deck && ./gtcp.exe ping ghostty-70456 2>&1",
+    """cd ~/agent-deck && ./gtcp.exe send ghostty-70456 "claude -p 'agent-deckのIssue #24を読んで、現状のSubmitPromp...""",
+    'sleep 3 && cat "C:\Users\yuuji\AppData\Local\Temp\claude\C--Users-yuuji\a8f21999-2d50-4a80-8d2f-dc35...',
+    "sleep 5 && cd ~/agent-deck && ./gtcp.exe tail ghostty-70456 20 2>&1",
+    """cd ~/agent-deck && echo "SEND_INPUT|claude -p 'echo hello'" | ./gtcp.exe raw ghostty-70456 2>&1 || ....""",
+    "cd ~/agent-deck && ./gtcp.exe --help 2>&1 | head -20",
+    "cd ~/agent-deck && ./gtcp.exe 2>&1 | head -20",
+    """cd ~/agent-deck && ./gtcp.exe ghostty-70456 "SEND_INPUT|claude -p 'echo hello world'" 2>&1""",
+    'cd ~/agent-deck && ./gtcp.exe "\\.\pipe\ghostty-winui3-ghostty-70456-70456" "SEND_INPUT|claude" 2>&1',
+    'cd ~/agent-deck && ./gtcp.exe "ghostty-winui3-ghostty-70456-70456" "SEND_INPUT|claude" 2>&1',
+    "cd ~/agent-deck && ./gtcp.exe tail ghostty-70456 30 2>&1",
+    """cd ~/agent-deck && ./gtcp.exe ghostty-70456 send "claude -p 'echo hello world' --max-turns 1" 2>&1""",
+    """cd ~/agent-deck && ./gtcp.exe --session ghostty-70456 send "claude -p 'echo hello world' --max-turns...""",
+    "sleep 5 && cd ~/agent-deck && ./gtcp.exe --session ghostty-70456 tail 20 2>&1",
+    """cd ~/agent-deck && ./gtcp.exe --session ghostty-70456 send "claude -p 'cd ~/agent-deck && gh issue v...""",
+]
+
+[[pending_extracts]]
+domain = "CLI & Tooling"
+slug = "cli-tooling"
+tags = [
+    "cli",
+    "git",
+    "gh",
+    "automation",
+]
+confidence = 0.9
+
+[pending_extracts.summary]
+id = "6dc27d5c-dbb6-4780-879e-7f91b6c120fd"
+source_path = 'C:\Users\yuuji\.claude/projects\C--Users-yuuji\6dc27d5c-dbb6-4780-879e-7f91b6c120fd.jsonl'
+first_message = "gh issue list --repo YuujiKamura/agent-deck --state open && echo CLAUDE_E2E_DONE"
+message_count = 15
+start_time = "2026-03-28T23:23:46.678Z"
+topics = ["git"]
+tools_used = ["Bash"]
+files_touched = []
+commands_used = [
+    "gh issue list --repo YuujiKamura/agent-deck --state open",
+    "ls",
+    "find ~/agent-deck/internal -name '*.go' | wc -l",
+    "find ~/agent-deck -name '*.go' -exec wc -l {} + | sort -n | tail -20",
+]
+
+[[pending_extracts]]
+domain = "Testing & QA"
+slug = "testing"
+tags = [
+    "test",
+    "go",
+    "github-cli",
+    "git-log",
+]
+confidence = 0.9
+
+[pending_extracts.summary]
+id = "34acfb8b-0678-408d-baf4-d1ff6df8c868"
+source_path = 'C:\Users\yuuji\.claude/projects\C--Users-yuuji\34acfb8b-0678-408d-baf4-d1ff6df8c868.jsonl'
+first_message = "echo hello world"
+message_count = 46
+start_time = "2026-03-29T00:14:30.304Z"
+topics = ["test"]
+tools_used = [
+    "Bash",
+    "Read",
+    "Agent",
+    "Skill",
+    "ToolSearch",
+    "AskUserQuestion",
+]
+files_touched = [
+    "C:/Users/yuuji/agent-deck/internal/status/detect.go",
+    "C:/Users/yuuji/agent-deck/internal/status/watcher.go",
+    "C:/Users/yuuji/.claude/skills/gstack/gstack-upgrade/SKILL.md",
+    "C:/Users/yuuji/.claude/plans/curious-kindling-treasure.md",
+]
+commands_used = [
+    "echo fast_poll_test",
+    "cd ~/agent-deck && gh issue list --state open",
+    "cd ~/agent-deck && gh issue view 24",
+    "cd ~/agent-deck && gh issue view 25",
+    'cd ~/agent-deck && git log --oneline --since="2026-03-29" --all',
+    "cd ~/agent-deck && git log --oneline -20",
+    "cd ~/agent-deck && gh issue view 24 --comments",
+    "cd ~/agent-deck && gh issue view 25 --comments",
+    "cd ~/agent-deck && git log --oneline -30",
+    """
+cd ~/agent-deck && gh issue close 24 --comment "$(cat <<'EOF'
+## All acceptance criteria verified — ...""",
+    """
+cd ~/agent-deck && gh issue close 25 --comment "$(cat <<'EOF'
+## All acceptance criteria verified — ...""",
+    "~/.claude/skills/gstack/bin/gstack-update-check 2>/dev/null || .claude/skills/gstack/bin/gstack-upda...",
+    '_AUTO=""; [ "${GSTACK_AUTO_UPGRADE:-}" = "1" ] && _AUTO="true"; [ -z "$_AUTO" ] && _AUTO=$(~/.claude...',
+    "cd ~/.claude/skills/gstack && git fetch origin 2>&1 && git reset --hard origin/main 2>&1",
+    "cd ~/.claude/skills/gstack && git stash 2>/dev/null; git fetch origin 2>&1 && git checkout origin/ma...",
+    'CODEX_BIN=$(which codex 2>/dev/null || echo ""); [ -z "$CODEX_BIN" ] && echo "NOT_FOUND" || echo "FO...',
+    "cd ~/agent-deck && gh repo view --json defaultBranchRef -q .defaultBranchRef.name 2>/dev/null || ech...",
+    "cd ~/agent-deck && git diff origin/main --stat 2>/dev/null | tail -1 || git diff main --stat 2>/dev/...",
+    'ls -t ~/.claude/plans/*.md 2>/dev/null | xargs grep -l "agent-deck" 2>/dev/null | head -1',
+]

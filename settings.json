@@ -1,0 +1,200 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "alwaysThinkingEnabled": true,
+  "cleanupPeriodDays": 365,
+  "defaultMode": "bypassPermissions",
+  "enabledPlugins": {
+    "rust-analyzer-lsp@claude-plugins-official": true,
+    "frontend-design@claude-plugins-official": true,
+    "context7@claude-plugins-official": true,
+    "superpowers@claude-plugins-official": true,
+    "code-review@claude-plugins-official": true,
+    "github@claude-plugins-official": true,
+    "feature-dev@claude-plugins-official": true,
+    "code-simplifier@claude-plugins-official": true,
+    "security-guidance@claude-plugins-official": true,
+    "playground@claude-plugins-official": true,
+    "skill-creator@claude-plugins-official": true,
+    "commit-commands@claude-plugins-official": true,
+    "skill-miner@skill-miner-marketplace": true,
+    "gopls-lsp@claude-plugins-official": true
+  },
+  "env": {
+    "CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS": "1"
+  },
+  "feedbackSurveyState": {
+    "lastShownTime": 1754165260518
+  },
+  "hooks": {
+    "Notification": [
+      {
+        "matcher": "permission_prompt|elicitation_dialog",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "agent-deck hook-handler",
+            "async": true
+          }
+        ]
+      }
+    ],
+    "PermissionRequest": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "agent-deck hook-handler",
+            "async": true
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash C:/Users/yuuji/.claude/hooks/check-tab-messages.sh",
+            "timeout": 5
+          }
+        ]
+      },
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash C:/Users/yuuji/.claude/hooks/post-edit-lint.sh",
+            "timeout": 10
+          }
+        ]
+      }
+    ],
+    "PreCompact": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "agent-deck hook-handler"
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python C:/Users/yuuji/.claude/hooks/pre-commit-review.py",
+            "timeout": 120
+          }
+        ]
+      },
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash C:/Users/yuuji/.claude/hooks/pre-edit-guard.sh",
+            "timeout": 5
+          }
+        ]
+      }
+    ],
+    "SessionEnd": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "agent-deck hook-handler",
+            "async": true
+          }
+        ]
+      }
+    ],
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash C:/Users/yuuji/.claude/hooks/daily-summary.sh"
+          },
+          {
+            "type": "command",
+            "command": "bash C:/Users/yuuji/.claude/hooks/agent-deck-hook.sh",
+            "async": true
+          },
+          {
+            "type": "command",
+            "command": "agent-deck hook-handler",
+            "async": true
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python C:/Users/yuuji/.claude/hooks/cost-tracker.py"
+          },
+          {
+            "type": "command",
+            "command": "bash C:/Users/yuuji/.claude/hooks/agent-deck-hook.sh",
+            "async": true
+          }
+        ]
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "agent-deck hook-handler",
+            "async": true
+          }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash C:/Users/yuuji/.claude/hooks/agent-deck-hook.sh",
+            "async": true
+          },
+          {
+            "type": "command",
+            "command": "agent-deck hook-handler",
+            "async": true
+          }
+        ]
+      }
+    ]
+  },
+  "mcpServers": {
+    "ip-webcam": {
+      "command": "uv",
+      "args": ["run", "--directory", "C:/Users/yuuji/embodied-claude/ip-webcam-mcp", "ip-webcam-mcp"],
+      "env": {
+        "IP_WEBCAM_HOST": "192.168.2.116",
+        "IP_WEBCAM_PORT": "8080"
+      }
+    }
+  },
+  "permissions": {
+    "allow": [
+      "Bash",
+      "Read",
+      "Write",
+      "Edit",
+      "mcp__*"
+    ],
+    "deny": []
+  },
+  "skipDangerousModePermissionPrompt": true
+}
